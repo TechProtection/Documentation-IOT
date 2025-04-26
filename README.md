@@ -4,17 +4,21 @@
 
 **INFORME DE TRABAJO FINAL**  
 
-` `**Desarrollo de Soluciones IOT – NRC: 2968  Carrera de Ingeniería de Software – 7to ciclo  Docente: Marco Antonio Leon Baca** 
+Desarrollo de Soluciones IOT 
+NRC: 2968  Carrera de Ingeniería de Software 
+7to ciclo  Docente: Marco Antonio Leon Baca 
 
 **Nombre del startup: TechProtection  Nombre del producto: GeoEntry** 
 
-Código  Apellidos y Nombres  
+| Código | Apellidos y Nombres |
+| --- | --- |
+| U202212684 | Elías Sanchez, Harold Miguel |
+| U202212338 | López Huamán, Rodrigo Adrián |
+| U202212191 | Meneses Arevalo, Victor Manuel |
+| U202112655 | Gamboa Delgado, Brayan Stiven |
+| U202213646 | Salvador Rodríguez, Rodrigo Jesús |
 
-` `U202212684  Elías Sanchez, Harold Miguel U202212338   López Huamán, Rodrigo Adrián  
-
-` `U202212191  Meneses Arevalo, Victor Manuel U202112655   Gamboa Delgado, Brayan Stiven  U202213646   Salvador Rodríguez, Rodrigo Jesús  
-
-` `**Abril 2025**  
+**Abril 2025**  
 
 **Registro de Versiones del Informe**  
 
