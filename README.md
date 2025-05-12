@@ -1361,19 +1361,19 @@ Explicamos cómo elaboramos los context maps analizando la información recolect
 3. **Software Architecture** 
 1. **Software Architecture System Landscape Diagram** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.010.jpeg)
+![](/assets/Landscape.png)
 
 2. **Software Architecture Context Level Diagrams** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.011.jpeg)
+![](/assets/Context.png)
 
 3. **Software Architecture Container Level Diagrams** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.012.jpeg)
+![](/assets/Container.png)
 
 4. **Software Architecture Deployment Diagrams** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.013.jpeg)
+![](/assets/development.PNG)
 
 2. **Tactical-Level Domain-Driven Design** 
 1. **Bounded Context: Device** 
