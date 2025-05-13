@@ -2516,11 +2516,273 @@ Apartado de Información de Contacto:
 
 ## 5.4 Applications UX/UI Design
 ### 5.4.1 Applications Wireframes
-### 5.4.2 Applications Wireflow Diagrams
-### 5.4.3 Applications Mock-ups
-### 5.4.4 Applications User Flow Diagrams
+
+En esta parte se explora el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web GeoEntry. Tanto la ubicación de elementos como la selección de fuentes, íconos y colores han sido cuidadosamente pensados para ofrecer una navegación intuitiva, una estructura clara y una experiencia visualmente atractiva y fluida.
+
+La sección de Proyectos es la principal, donde el usuario puede visualizar las automatizaciones creadas y, si lo desea, iniciar una nueva. También se incluye una breve descripción de la solución general, resaltando los beneficios de GeoEntry como sistema de automatización inteligente. Todo el diseño busca reflejar comodidad, seguridad y eficiencia, pilares fundamentales de nuestra propuesta.
+
+**Mobile Application Wireframes**
+
+Home
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.025.png)
+
+Devices
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.026.png)
+
+Stats y Logs -  Device Activity
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.027.png)
+
+Groups
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.028.png)
+
+Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.029.png)
+
+
+Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.030.png)
+
+Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.031.png)
+
+Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.032.png)
+
+**Web Application Wireframes**
+
+Home
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.034.png)
+
+**Devices**
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.035.png)
+
+Stats & Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.036.png)
+
+Group
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.037.png)
+
+Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.038.png)
+
+**Settings**
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.039.png)
+
+Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.040.png)
+
+
+Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.041.png)
+
+**5.4.2. Applications Wireflow Diagrams.** 
+
+See and Manage Devices
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.044.png)
+
+Manage Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.045.png)
+
+**Manage Group**
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.046.png)
+
+See Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.047.png)
+
+Edit Setting
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.048.png)
+
+Obtain Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.049.png)
+
+Edit Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.050.png)
+
+### 5.4.3. Applications Mock-ups.
+
+Los siguientes mockups ofrecen una vista previa del diseño y estructura visual de la aplicación web antes de su desarrollo final. Gracias a estos mockups podemos anticipar cómo se dispondrán los diferentes elementos en la interfaz, garantizando que el diseño sea claro, intuitivo y coherente con la identidad de la solución.
+
+La sección de Proyectos es fundamental, ya que permite a los usuarios gestionar sus automatizaciones inteligentes, visualizar el estado de sus dispositivos conectados y crear nuevas reglas basadas en ubicación. Esta vista previa permite validar que la experiencia del usuario sea fluida y centrada en la comodidad, seguridad y eficiencia que ofrece GeoMetry.
+
+
+
+**Mobile Application MockUps**
+
+Home
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.051.png)
+
+Devices
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.052.png)
+
+Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.053.png)
+
+
+Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.054.png)
+
+Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.055.png)
+
+Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.056.png)
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.057.png)
+
+Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.058.png)
+
+
+**Web Application MockUps**
+
+Home
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.060.png)Devices![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.061.png)
+
+
+
+
+
+
+
+Stats y Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.062.png)
+
+Group
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.063.png)
+
+
+
+
+
+
+
+Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.064.png)
+
+Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.065.png)
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.067.png)
+
+Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.068.png)
+
+
+### 5.4.4. Applications User Flow Diagrams.
+
+**Mobile Application User Flow Diagrams**
+
+Edit Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.069.png)
+
+**Obtain Suppport**
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.070.png)
+
+Edit Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.071.png)
+
+Sign Up / Sign In![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.072.png)
+
+Manage Devices![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.073.png)Visualize Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.074.png)
+
+Manage Groups
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.075.png)
+
+Visualize Notifications![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.076.png)
+
+**Web Application User Flow Diagrams**
+
+Manage Devices
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.078.png)
+
+Manage Groups
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.079.png)
+
+Manage Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.080.png)
+
+Manage Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.081.png)
+
+Obtain Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.082.png)
+
+Edit Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.083.png)  
 
 ## 5.5 Applications Prototyping
+
+#### Mobile Application Prototyping
+
+[Prototipo Web Application (Hecho en Figma)](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-|-Mobile---Desktop--Community-?node-id=460-692&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=460%3A692&show-proto-sidebar=1)
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.084.png)
+
+#### Web Application Prototyping
+
+[Prototipo Mobile Application (Hecho en Figma)](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-|-Mobile---Desktop--Community-?node-id=460-692&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=460%3A692&show-proto-sidebar=1)
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.085.png)
 
 **Conclusiones** 
 
