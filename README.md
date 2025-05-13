@@ -2780,7 +2780,7 @@ Edit Profile
 
 #### Web Application Prototyping
 
-[Prototipo Mobile Application (Hecho en Figma)](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-|-Mobile---Desktop--Community-?node-id=460-692&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=460%3A692&show-proto-sidebar=1)
+[Prototipo Mobile Application (Hecho en Figma)](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-%7C-Mobile---Desktop--Community-?node-id=433-3841&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=433%3A3841&show-proto-sidebar=1)
 
 ![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.085.png)
 
