@@ -2138,6 +2138,130 @@ Esta capa implementa los detalles técnicos y la comunicación con sistemas exte
 
 ![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.027.jpeg)
 
+# Capítulo V: Solution UI/UX Design
+
+## 5.1 Style Guidelines
+En este capítulo se presenta el desarrollo de las interfaces y procesos de la aplicación GeoEntry. El objetivo principal es ofrecer una experiencia visual atractiva y sencilla para el usuario. Para lograrlo, se aplicaron colores que reflejan tecnología y confianza, se aprovechó el espacio de forma eficiente en distintos dispositivos, y se incorporaron imágenes y textos concisos que evitan la sobrecarga informativa. Además, las funcionalidades se organizaron en secciones claramente diferenciadas según su propósito dentro del sistema de automatización residencial.
+
+### 5.1.1 General Style Guidelines
+**Branding**
+
+La identidad de TechProtection debe transmitir una visión clara: innovación al servicio del bienestar diario. Nuestro ecosistema tecnológico se presenta como confiable, moderno y centrado en el usuario. La marca se posiciona como el puente entre el confort del hogar y la potencia de la automatización inteligente, apelando tanto al aspecto emocional (seguridad y tranquilidad) como racional (eficiencia energética y control remoto).
+
+El diseño visual debe evocar tecnología accesible pero sofisticada, evitando complejidad innecesaria y resaltando una sensación de orden, precisión y armonía. La consistencia visual a través de todos los canales (app móvil, web y dispositivos físicos) reforzará la recordación y confianza en la marca.
+
+
+**Colors**
+
+La paleta de colores busca un balance entre profesionalismo y calidez:
+
+Azul Tecnológico (#0057B7): color primario, transmite innovación, fiabilidad y tecnología.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.001.png)
+
+Verde Activo (#5BC236): color secundario, señala acciones exitosas y estados activos.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.002.png)
+
+Blanco Puro (#FFFFFF): base para interfaces limpias y luminosas.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.003.png)
+
+Gris Neutro (#F0F0F0): fondo y elementos de soporte, suaviza la interfaz y resalta lo importante.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.004.png)
+
+Negro Suave (#1E1E1E): fondo para modo oscuro, utilizado principalmente en la app móvil y web en horarios nocturnos.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.005.png)
+
+#### <a name="_lwsliuyiwa5o"></a>**Typography**
+- **Lato**: fuente principal de títulos, botones y encabezados. Su estilo geométrico y moderno comunica tecnología limpia y clara.
+
+  ![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.006.png)
+
+- **OpenSans**: usada para textos secundarios, párrafos y descripciones; ofrece alta legibilidad, especialmente en pantallas pequeñas.
+
+  ![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.007.png)
+
+- En general, se privilegian tipografías sans-serif por su carácter digital, versátil y elegante.
+#### <a name="_j7axrgqla5fi"></a>**Spacing**
+El diseño se construye sobre una estructura visual **ordenada y aireada**, que favorece la navegación intuitiva y reduce la carga cognitiva. Las jerarquías se establecen mediante:
+
+- Tamaños tipográficos progresivos.
+- Contraste de colores y sombras suaves.
+- Uso de tarjetas, divisores y márgenes uniformes.
+- Botones grandes y accesibles, especialmente para comandos frecuentes como apertura de puerta, encendido de luces o activación de rutinas.
+### 5.1.2 Web, Mobile and IoT Style Guidelines
+**Aplicación Web**
+` `Pensada como un centro de control más técnico y administrativo. Permite la configuración avanzada de dispositivos, visualización de historial de eventos, personalización de rutinas, y ajustes de seguridad.
+` `También está orientada a usuarios que desean un mayor grado de control sobre las automatizaciones y parámetros específicos del hogar. Es ideal para monitoreo desde escritorio o laptop en sesiones más prolongadas.
+
+**Spacing:**
+` `Se utiliza un diseño modular con tarjetas bien separadas para evitar sobrecarga visual. Las secciones están claramente delimitadas y accesibles desde un menú lateral o superior.
+` `El uso del espaciado refuerza la jerarquía visual, permitiendo que cada tarjeta o bloque informativo respire, haciendo más sencilla su lectura y comprensión.
+
+**Typography:**
+` `Se mantiene la jerarquía con Montserrat en títulos y botones, y Roboto en listas, historiales y formularios.
+` `Esta combinación genera contraste entre elementos de navegación y contenido, aportando elegancia y claridad a la interfaz.
+
+**Extras:**
+` `Modo oscuro para uso nocturno.
+` `Permite reducir el cansancio visual, especialmente en ambientes con poca iluminación o durante sesiones prolongadas.
+
+Iconografía representativa (cerradura, luz, temperatura, aroma).
+` `Los íconos ayudan a identificar rápidamente funciones y dispositivos, manteniendo la estética coherente en toda la plataforma.
+
+Layout adaptable a pantallas grandes (responsive).
+` `Garantiza compatibilidad con diferentes resoluciones, desde laptops hasta monitores ultrawide, asegurando una experiencia fluida.
+
+-----
+**Aplicación Móvil**
+` `Diseñada para interacción rápida y cotidiana, con foco en gestos simples y acceso inmediato a funciones clave.
+` `Es ideal para momentos puntuales como llegar a casa, salir o activar rutinas rápidas, permitiendo control desde cualquier lugar.
+
+**Spacing:**
+` `Compacto pero táctil, con elementos accesibles con un solo pulgar. Los botones flotantes y el menú inferior permiten operar sin esfuerzo.
+` `El diseño se adapta a manos de distintos tamaños, facilitando la navegación sin depender de ambas manos.
+
+**Typography:**
+` `Se prioriza Roboto en casi todos los elementos por su claridad en pantallas pequeñas, con Montserrat reservado para secciones destacadas o pantallas de bienvenida.
+` `Esto mejora la legibilidad, reduce errores de lectura y mantiene una estética limpia y moderna.
+
+**Extras:**
+` `Navegación inferior fija con cuatro íconos: Inicio, Dispositivos, Rutinas, Perfil.
+` `Estos íconos están pensados para que el usuario no tenga que memorizar rutas complejas ni acceder a menús desplegables.
+
+Animaciones suaves para cambios de estado o navegación.
+` `Contribuyen a una experiencia más fluida y agradable, transmitiendo sensación de modernidad sin sobrecargar el sistema.
+
+Diseño responsive adaptable a smartphones y tablets.
+` `La experiencia se mantiene uniforme sin importar el tamaño del dispositivo, promoviendo accesibilidad para todos los usuarios.
+
+Gestos como deslizar para abrir puertas o activar escenas rápidas.
+` `Estos gestos permiten acciones intuitivas sin depender de múltiples toques o botones.
+
+-----
+**Dispositivos IoT**
+`a`La línea de productos físicos está diseñada para integrarse visualmente en hogares modernos sin sacrificar identidad tecnológica.
+` `Cada dispositivo busca ser funcional y estéticamente neutro, permitiendo que encaje en distintos estilos de decoración.
+
+**Espaciado físico:**
+` `Dispositivos con superficies limpias, sin botones visibles innecesarios, manteniendo una estética minimalista y ergonómica.
+` `Este enfoque evita distracciones visuales y simplifica el uso cotidiano, incluso para personas con poca experiencia tecnológica.
+
+**Indicadores LED:**
+` `Utilización de luces sutiles en azul, verde o rojo suave para comunicar estados como “activo”, “en espera” o “alerta”, sin generar contaminación visual.
+` `Los indicadores están ubicados estratégicamente para ser visibles sin desentonar con el entorno del hogar.
+
+**Typography:**
+` `En etiquetas físicas (si las hay), se usa tipografía sans-serif clara y legible. El nombre de cada dispositivo puede personalizarse desde la app para reforzar el vínculo con el usuario.
+` `Esto permite identificar dispositivos rápidamente, personalizando la experiencia de forma más humana y cercana.
+
+**Acabado:**
+` `Materiales como plástico texturizado mate o metal cepillado para dar una sensación de calidad y durabilidad.
+` `El diseño transmite confianza y solidez, ayudando a que el usuario perciba el producto como una inversión segura.
+
 **Conclusiones** 
 
 El desarrollo de la solución GeoEntry, impulsado por la startup TechProtection, permitió validar de forma efectiva las hipótesis y suposiciones planteadas en el proceso Lean UX. Se identificó que los usuarios, tanto residenciales como comerciales, enfrentan una fuerte fragmentación tecnológica y desean soluciones automatizadas que funcionen de manera fluida, sin requerir múltiples aplicaciones o intervención manual constante. 
