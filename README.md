@@ -2262,6 +2262,143 @@ Gestos como deslizar para abrir puertas o activar escenas rápidas.
 ` `Materiales como plástico texturizado mate o metal cepillado para dar una sensación de calidad y durabilidad.
 ` `El diseño transmite confianza y solidez, ayudando a que el usuario perciba el producto como una inversión segura.
 
+## 5.2 Information Architecture
+### 5.2.1 Organization Systems
+**Aplicación Web**
+` `La estructura de la versión web está pensada para facilitar la administración del sistema desde una perspectiva más técnica y detallada, especialmente útil para usuarios avanzados o administradores del hogar.
+` `Cada módulo está diseñado para brindar acceso directo a funciones complejas sin sacrificar claridad visual ni usabilidad.
+
+**Jerárquico (Hierarchical):**
+` `Se priorizan las funciones principales (Panel de control, Dispositivos, Seguridad) mediante diferencias visuales como tamaños, colores y ubicación.
+` `Esto guía al usuario naturalmente hacia las secciones más importantes del sistema, reduciendo tiempos de búsqueda.
+
+**Secuencial (Sequential):**
+` `Se aplicará en los flujos de configuración inicial, donde el usuario sigue pasos guiados para conectar dispositivos IoT, definir rutinas y ajustar permisos.
+` `Los pasos están acompañados de ayudas visuales e instrucciones contextuales para facilitar el proceso, incluso a usuarios sin experiencia previa.
+
+**Matriz (Matrix):**
+` `Se brindará la opción de navegar entre dispositivos o rutinas según distintas categorías (por habitación, por tipo de dispositivo, por frecuencia de uso), facilitando la personalización.
+` `Esto permite una exploración libre, útil cuando el usuario busca inspiración o desea optimizar la configuración existente.
+
+-----
+**Aplicación Móvil**
+` `La arquitectura de la app móvil está centrada en el uso diario y accesible con una sola mano. Se ha diseñado para que cualquier acción esté a pocos toques de distancia, reforzando la idea de control rápido y desde cualquier lugar.
+` `Las pantallas son intuitivas, mostrando información clara sin requerir navegación profunda o pasos innecesarios.
+
+**Inicio de sesión y gestión de usuario:**
+` `La app permite autenticación segura, con opciones para ingresar, recuperar contraseña y gestionar perfiles de usuario y hogar.
+` `Se incluye la posibilidad de autenticación biométrica (huella o rostro) para mayor rapidez y seguridad.
+
+**Panel principal:**
+` `Desde aquí se accede a un resumen del hogar (estado de dispositivos, notificaciones y accesos recientes).
+` `Este panel puede personalizarse según las preferencias del usuario, mostrando lo más relevante primero.
+
+**Dispositivos:**
+` `Se listan todos los dispositivos conectados, con posibilidad de agruparlos por habitación o función (iluminación, seguridad, ambiente).
+` `Cada dispositivo tiene una tarjeta con acceso a controles rápidos y un botón para configuración avanzada.
+
+**Rutinas:**
+` `Permite crear, editar y activar rutinas como "Modo noche", "Llegada a casa", o "Vacaciones", combinando múltiples dispositivos.
+` `El usuario puede definir horarios, condiciones y automatizaciones para cada rutina, con una interfaz tipo asistente paso a paso.
+
+**Historial y alertas:**
+` `Visualización clara de eventos recientes como aperturas de puertas, cambios de temperatura, o actividad inusual.
+` `El historial puede filtrarse por fechas o tipo de evento, facilitando la revisión ante incidentes o anomalías.
+
+**Notificaciones:**
+` `Sistema de avisos en tiempo real ante eventos importantes, accesible desde cualquier sección.
+` `Las notificaciones pueden personalizarse por nivel de prioridad, tipo de evento o por usuario.
+
+**Configuración:**
+` `Permite personalizar preferencias, usuarios secundarios, conexión con asistentes de voz, y ajustes de seguridad.
+` `Incluye control parental, zonas de acceso restringido y opciones de respaldo de configuración.
+
+**Soporte y ayuda:**
+` `Sección para contactar al equipo técnico, acceder a preguntas frecuentes o solicitar asistencia remota.
+` `Incluye chat en vivo, tutoriales en video y guía paso a paso para la solución de problemas comunes.
+
+-----
+**Dispositivos IoT**
+` `Los dispositivos están organizados lógicamente en la app y en el sistema para facilitar su gestión.
+` `El objetivo es lograr que el usuario sienta que todo está bajo control, sin importar cuántos dispositivos tenga instalados.
+
+**Agrupación por ambientes:**
+` `Los dispositivos se asignan a habitaciones o zonas del hogar para un control contextualizado.
+` `Esto facilita la activación por zonas (“Encender luces del segundo piso”) o rutinas por ambiente.
+
+**Categorización funcional:**
+` `Ya sea iluminación, seguridad o confort, cada tipo de dispositivo tiene un ícono y color identificable.
+` `Esto permite identificar rápidamente su función incluso en interfaces densas o múltiples dispositivos en una misma habitación.
+
+**Estados claros:**
+` `Cada dispositivo muestra su estado actual (activo, inactivo, alerta) y permite ajustes rápidos desde su tarjeta.
+` `Además, se pueden visualizar cambios recientes, tiempo desde la última activación y condiciones actuales.
+
+**Compatibilidad:**
+` `La interfaz permite integrar nuevos dispositivos fácilmente, manteniendo una estructura uniforme para que todo el ecosistema se sienta como una unidad.
+` `El sistema detecta nuevos equipos automáticamente y guía al usuario en su configuración paso a paso.
+
+### 5.2.2 Labeling Systems
+**Web Application**
+` `Las etiquetas utilizadas en la interfaz web son simples y directas. Se agrupan por funcionalidades como: “Inicio”, “Dispositivos”, “Rutinas”, “Historial” y “Configuración”.
+` `El objetivo es evitar ambigüedades y permitir una navegación clara, incluso para nuevos usuarios sin experiencia técnica.
+
+**Mobile Application**
+` `En la aplicación móvil, se utilizan etiquetas breves acompañadas de íconos representativos para cada sección. Por ejemplo, un ícono de casa para “Inicio”, un rayo para “Rutinas” y un reloj para “Historial”.
+` `La combinación de texto e iconografía mejora la comprensión y usabilidad, incluso en condiciones de uso apresurado o con poca atención visual.
+
+**IoT Devices**
+` `Los dispositivos IoT no requieren etiquetas complejas. Al estar pensados para activarse automáticamente mediante la geolocalización del usuario, se muestran solo los estados relevantes (por ejemplo: “Activado”, “Apagado”, “Modo Bienvenida”).
+` `Esto evita sobrecargar las interfaces de los dispositivos, y permite que los usuarios los identifiquen fácilmente en entornos reales.
+
+### 5.2.3 SEO Tags and Meta Tags
+**Web Application**
+
+<title>GeoEntry – Automatización inteligente del hogar</title>
+
+<meta name="description" content="GeoEntry automatiza la bienvenida al hogar integrando luces, puertas, clima y aromas mediante geolocalización. Sin esfuerzo, solo comodidad.">
+
+<meta name="keywords" content="hogar inteligente, automatización, IoT, llegada automática, luces, puertas, sensores, entrada inteligente">
+
+<meta name="author" content="TechProtection">
+
+Estas etiquetas mejoran la visibilidad en motores de búsqueda, alineando el contenido con términos usados por el público objetivo.
+
+**Mobile Application (AndroidManifest.xml)**
+
+<application
+
+`	android:label="GeoEntry - Hogar Inteligente"`
+
+`	android:description="Tu casa se prepara para ti automáticamente con GeoEntry" >`
+
+</application>
+
+Estas etiquetas refuerzan la identidad de la app y su funcionalidad en tiendas de aplicaciones, facilitando su descubrimiento.
+
+**IoT Devices**
+` `No utilizan etiquetas SEO tradicionales, pero los dispositivos que se identifican en la red local usan nombres entendibles como “Puerta Entrada”, “Sensor Aromas”, “Luz Recibidor”, para facilitar la gestión desde el sistema o app si fuera necesario.
+` `Esto también mejora la experiencia del usuario cuando hay múltiples dispositivos en el hogar.
+
+### 5.2.4 Searching Systems
+**Web Application**
+` `Incluye un sistema de búsqueda sencillo para localizar dispositivos o eventos pasados. El usuario puede escribir “puerta”, “sensor aroma” o “rutina noche” y recibir resultados filtrados de forma clara.
+` `Esto reduce el tiempo de interacción y permite encontrar información específica de manera eficiente, incluso si el usuario no recuerda el nombre exacto.
+
+**Mobile Application**
+` `La app permite buscar dispositivos o rutinas por nombre, tipo o ubicación. Por ejemplo: “baño”, “climatización”, o “modo mañana”. También permite revisar el historial usando filtros por fecha o tipo de acción.
+` `Esto da al usuario control total desde su teléfono, sin necesidad de navegar por múltiples menús o secciones.
+
+### 5.2.5 Navigation Systems
+**Web Application**
+` `La navegación se basa en una barra fija en la parte superior, con accesos directos a: “Inicio”, “Dispositivos”, “Rutinas”, “Historial”, “Configuración”.
+` `Toda la estructura busca reducir la cantidad de clics necesarios para realizar acciones comunes, mejorando la eficiencia del sistema.
+
+**Mobile Application**
+` `Navegación mediante una barra inferior con íconos. La app está optimizada para uso ocasional, ya que la mayoría de funciones se activan automáticamente. Aun así, el usuario puede acceder rápidamente a cada sección si desea realizar cambios.
+` `La estructura está pensada para responder rápidamente al contexto del usuario, favoreciendo la simplicidad y el control en todo momento.
+
+
 **Conclusiones** 
 
 El desarrollo de la solución GeoEntry, impulsado por la startup TechProtection, permitió validar de forma efectiva las hipótesis y suposiciones planteadas en el proceso Lean UX. Se identificó que los usuarios, tanto residenciales como comerciales, enfrentan una fuerte fragmentación tecnológica y desean soluciones automatizadas que funcionen de manera fluida, sin requerir múltiples aplicaciones o intervención manual constante. 
