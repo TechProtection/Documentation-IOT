@@ -2398,6 +2398,132 @@ Estas etiquetas refuerzan la identidad de la app y su funcionalidad en tiendas d
 ` `Navegación mediante una barra inferior con íconos. La app está optimizada para uso ocasional, ya que la mayoría de funciones se activan automáticamente. Aun así, el usuario puede acceder rápidamente a cada sección si desea realizar cambios.
 ` `La estructura está pensada para responder rápidamente al contexto del usuario, favoreciendo la simplicidad y el control en todo momento.
 
+## 5.3 Landing Page UI Design
+La propuesta de diseño de la landing page de GeoEntry refleja directamente las decisiones tomadas en torno a la arquitectura de información y los principios de diseño centrado en el usuario. Se buscó una estructura limpia, con una jerarquía visual clara y accesible desde cualquier dispositivo. La navegación está anclada a una barra superior fija que contiene el logo y cuatro botones principales: “Características”, “Cómo funciona”, “Contacto” y “Solicitar demo”. Cada uno dirige a la sección correspondiente dentro de la misma página, asegurando una experiencia fluida y sin distracciones.
+
+La landing page fue pensada como el primer punto de contacto entre los usuarios potenciales y nuestra solución de automatización inteligente. Por ello, el diseño equilibra lo estético con lo funcional: se utilizaron contrastes accesibles, iconografía representativa, textos concisos y llamadas a la acción bien posicionadas. Se integraron principios de diseño inclusivo como tipografía legible, botones táctiles, estructura semántica clara y compatibilidad con lectores de pantalla.
+
+### 5.3.1 Landing Page Wireframe
+#### <a name="_alig7j2wu6c7"></a>**Introducción a las decisiones de diseño y arquitectura de información**
+Los wireframes de la landing page fueron elaborados para visualizar la estructura y disposición funcional del contenido antes de su diseño final. Se desarrollaron versiones específicas tanto para Desktop como para Mobile Web Browser, aplicando principios como consistencia, visibilidad de opciones, y simplicidad cognitiva.
+
+**Versión Desktop Web Browser:**
+
+- **Header:** App bar con logo alineado a la izquierda y botones de navegación a la derecha. Siempre visible (sticky).
+- **Hero Section:** Eslogan principal y un botón de acción (“Solicitar Demo”), acompañado de una imagen que refuerza el mensaje de bienvenida automatizada.
+- **Características:** Cards con icono, título y breve descripción, dispuestas en una grilla simétrica de tres columnas.
+- **Cómo funciona:** Sección vertical con pasos numerados que describen el proceso de integración y uso de GeoEntry.
+- **Solicitar demo:** Tres beneficios destacados de solicitar una demo, con énfasis visual en claridad y brevedad.
+- **Contacto:** Formulario simple con campos de nombre, correo y mensaje. Destacado en color y accesible.
+- **Footer:** Redes sociales y aviso de derechos reservados, alineado al branding general.
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.008.png)
+
+Apartado de Características:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.009.png)
+
+
+Apartado de Solicitar Demo:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.010.png)
+
+Apartado de Contacto:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.011.png)
+
+
+**Versión Mobile Web Browser:**
+
+- Las secciones se reorganizan en una columna vertical con desplazamiento natural (scroll), optimizando la lectura y navegación en pantallas pequeñas.
+- Cards e íconos son más grandes para permitir una interacción táctil cómoda.
+- El menú de navegación se transforma en un **hamburger menu** accesible desde la esquina superior derecha.
+- Los formularios y botones tienen suficiente espaciado para ser utilizados fácilmente con el dedo pulgar.
+- Los textos se adaptan a tamaños legibles sin necesidad de hacer zoom, manteniendo la consistencia visual.
+
+
+Apartado de Caracteristicas:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.012.png)
+
+Apartado de Solicitar Demo:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.013.png)
+
+Apartado de Contacto:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.014.png)
+
+Apartado de información de contacto:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.015.png)
+
+### 5.3.2 Landing Page Mock-up
+
+Los mock-ups desarrollados para la landing page de GeoEntry representan la versión visual definitiva del diseño, aplicando todos los lineamientos del sistema de diseño establecido para la marca. Este Design System incluye uso de tipografías Montserrat y Roboto, paleta de colores institucional (azules, blancos y verdes suaves), y componentes reutilizables como cards, botones, iconografía y formularios.
+
+Versión Desktop Web Browser:
+
+- Se mantiene un layout amplio, con un uso efectivo del espacio negativo para evitar sobrecarga visual.
+- Las cards de características presentan íconos representativos de iluminación, seguridad, aroma y confort, enmarcadas dentro de bloques elevados con sombras suaves.
+- El CTA “Solicitar Demo” se resalta con un color primario contrastante y un hover state animado.
+- El formulario de contacto respeta los estándares de accesibilidad: etiquetas visibles, validación básica y botones de envío bien definidos.
+
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.016.png)
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.017.png)
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.018.png)
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.019.png)
+
+
+**Versión Mobile Web Browser:**
+
+- El mock-up móvil prioriza la legibilidad y la facilidad de uso con una mano.
+- Las secciones se apilan verticalmente con espaciado consistente y tipografía legible.
+- Se incluyen microinteracciones para transiciones suaves, y el botón de “Solicitar Demo” permanece siempre visible en la parte inferior como botón flotante.
+- Los formularios tienen campos accesibles, compatibles con teclado predictivo y controles nativos del sistema operativo móvil.
+
+Ambos mock-ups fueron diseñados siguiendo los principios de diseño inclusivo, manteniendo coherencia visual con los demás productos de TechProtection y asegurando una experiencia fluida, accesible y efectiva para distintos perfiles de usuario.
+
+
+Apartado de Hero Section:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.020.png)
+
+Apartado de Características:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.021.png)
+
+
+Apartado de Solicitar Demo:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.022.png)
+
+
+
+
+Apartado de Contacta con Nosotros:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.023.png)
+
+
+
+
+Apartado de Información de Contacto:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.024.png)
+
+
+## 5.4 Applications UX/UI Design
+### 5.4.1 Applications Wireframes
+### 5.4.2 Applications Wireflow Diagrams
+### 5.4.3 Applications Mock-ups
+### 5.4.4 Applications User Flow Diagrams
+
+## 5.5 Applications Prototyping
 
 **Conclusiones** 
 
