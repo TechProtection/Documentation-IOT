@@ -2367,11 +2367,8 @@ Estas etiquetas mejoran la visibilidad en motores de búsqueda, alineando el con
 **Mobile Application (AndroidManifest.xml)**
 
 <application
-
-`	android:label="GeoEntry - Hogar Inteligente"`
-
-`	android:description="Tu casa se prepara para ti automáticamente con GeoEntry" >`
-
+android:label="GeoEntry - Hogar Inteligente"
+android:description="Tu casa se prepara para ti automáticamente con GeoEntry">
 </application>
 
 Estas etiquetas refuerzan la identidad de la app y su funcionalidad en tiendas de aplicaciones, facilitando su descubrimiento.
