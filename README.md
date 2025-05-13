@@ -34,105 +34,85 @@ Docente: Marco Antonio Leon Baca <br/>
 
 **Contenido**  
 
-Tabla de contenidos  Student Outcome  **Capítulo I: Introducción**  
+Tabla de contenidos  Student Outcome  
+1. **Capítulo I: Introducción**  
+   1.1 Startup Profile  
+   &nbsp;&nbsp;1.1.1 Descripción de la Startup  
+   &nbsp;&nbsp;1.1.2 Perfiles de integrantes del equipo  
+   1.2 Solution Profile  
+   &nbsp;&nbsp;1.2.1 Antecedentes y problemática  
+   &nbsp;&nbsp;1.2.2 Lean UX Process  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.1 Lean UX Problem Statements  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.2 Lean UX Assumptions  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.3 Lean UX Hypothesis Statements  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.4 Lean UX Canvas  
+   1.3 Segmentos objetivo
 
-1. Startup Profile 
-   1. Descripción de la Startup 
-   1. Perfiles de integrantes del equipo 
-1. Solution Profile 
-1. Antecedentes y problemática 
-1. Lean UX Process. 
-   1. Lean UX Problem Statements. 
-   1. Lean UX Assumptions. 
-   1. Lean UX Hypothesis Statements. 
-   1. Lean UX Canvas. 
+2. **Capítulo II: Requirements Elicitation & Analysis**  
+   2.1 Competidores  
+   &nbsp;&nbsp;2.1.1 Análisis competitivo  
+   &nbsp;&nbsp;2.1.2 Estrategias y tácticas frente a competidores  
+   2.2 Entrevistas  
+   &nbsp;&nbsp;2.2.1 Diseño de entrevistas  
+   &nbsp;&nbsp;2.2.2 Registro de entrevistas  
+   &nbsp;&nbsp;2.2.3 Análisis de entrevistas  
+   2.3 Needfinding  
+   &nbsp;&nbsp;2.3.1 User Personas  
+   &nbsp;&nbsp;2.3.2 User Task Matrix  
+   &nbsp;&nbsp;2.3.3 User Journey Mapping  
+   &nbsp;&nbsp;2.3.4 Empathy Mapping  
+   &nbsp;&nbsp;2.3.5 As-is Scenario Mapping  
+   2.4 Ubiquitous Language
 
-      3. Segmentos objetivo. 
+3. **Capítulo III: Requirements Specification**  
+   3.1 To-Be Scenario Mapping  
+   3.2 User Stories  
+   3.3 Impact Mapping  
+   3.4 Product Backlog
 
-**Capítulo II: Requirements Elicitation & Analysis**  
+4. **Capítulo IV: Solution Software Design**  
+   4.1 Strategic-Level Domain-Driven Design  
+   &nbsp;&nbsp;4.1.1 EventStorming  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.1.1 Candidate Context Discovery  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.1.2 Domain Message Flows Modeling  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.1.3 Bounded Context Canvases  
+   &nbsp;&nbsp;4.1.2 Context Mapping  
+   &nbsp;&nbsp;4.1.3 Software Architecture  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.3.1 System Landscape Diagram  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.3.2 Context-Level Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.3.3 Container-Level Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.3.4 Deployment Diagrams  
+   4.2 Tactical-Level Domain-Driven Design  
+   &nbsp;&nbsp;4.2.X Bounded Context: *<Name>*  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.1 Domain Layer  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.2 Interface Layer  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.3 Application Layer  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.4 Infrastructure Layer  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.5 Component-Level Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.6 Code-Level Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2.X.6.1 Domain-Layer Class Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2.X.6.2 Database Design Diagram
 
-1. Competidores. 
-   1. Análisis competitivo. 
-   1. Estrategias y tácticas frente a competidores. 
-1. Entrevistas. 
-   1. Diseño de entrevistas. 
-   1. Registro de entrevistas. 
-   1. Análisis de entrevistas. 
-1. Needfinding. 
-   1. User Personas. 
-   1. User Task Matrix. 
-   1. User Journey Mapping. 
-   1. Empathy Mapping. 
-   1. As-is Scenario Mapping. 
-1. Ubiquitous Language. 
+5. **Capítulo V: Solution UI/UX Design**  
+   5.1 Style Guidelines  
+   &nbsp;&nbsp;5.1.1 General Style Guidelines  
+   &nbsp;&nbsp;5.1.2 Web, Mobile & IoT Style Guidelines  
+   5.2 Information Architecture  
+   &nbsp;&nbsp;5.2.1 Organization Systems  
+   &nbsp;&nbsp;5.2.2 Labeling Systems  
+   &nbsp;&nbsp;5.2.3 SEO & Meta Tags  
+   &nbsp;&nbsp;5.2.4 Searching Systems  
+   &nbsp;&nbsp;5.2.5 Navigation Systems  
+   5.3 Landing Page UI Design  
+   &nbsp;&nbsp;5.3.1 Wireframe  
+   &nbsp;&nbsp;5.3.2 Mock-up  
+   5.4 Applications UX/UI Design  
+   &nbsp;&nbsp;5.4.1 Wireframes  
+   &nbsp;&nbsp;5.4.2 Wireflow Diagrams  
+   &nbsp;&nbsp;5.4.3 Mock-ups  
+   &nbsp;&nbsp;5.4.4 User Flow Diagrams  
+   5.5 Applications Prototyping
 
-**Capítulo III: Requirements Specification**  
-
-1. To-Be Scenario Mapping. 
-1. User Stories. 
-1. Impact Mapping. 
-1. Product Backlog.  
-
-**Capítulo IV: Solution Software Design**  
-
-1. Strategic-Level Domain-Driven Design. 
-1. EventStorming. 
-   1. Candidate Context Discovery. 
-   1. Domain Message Flows Modeling. 
-   1. Bounded Context Canvases. 
-1. Context Mapping. 
-1. Software Architecture. 
-1. Software Architecture System Landscape Diagram. 
-1. Software Architecture Context Level Diagrams. 
-2. Software Architecture Container Level Diagrams. 
-2. Software Architecture Deployment Diagrams. 
-2. Tactical-Level Domain-Driven Design 
-1. Bounded Context: Device 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
-2. Bounded Context: Security 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
-
-   3. Bounded Context: Climate Control 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
-4. Bounded Context: User 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
-5. Bounded Context: Notification 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
 
 **Student Outcome**  
 
