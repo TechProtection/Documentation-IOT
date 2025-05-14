@@ -2784,6 +2784,212 @@ Edit Profile
 
 ![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.085.png)
 
+## 6.2. Landing Page, Services & Applications Implementation. 
+
+### 6.2.1. Sprint 1
+
+#### 6.2.1.1. Sprint Planning 1
+
+| Sprint #               | Sprint 1                                                                 |
+|------------------------|--------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                  |
+| **Date**               | 12 de Mayo del 2025                                                     |
+| **Time**               | 6 horas                                                                 |
+| **Location**           | Modalidad remota por Discord                                            |
+| **Prepared By**        | Rodrigo López                                                          |
+| **Attendees** (to planning meeting) | Todos los miembros                                                  |
+| **Sprint 1 Review Summary** | Reunión de integrantes del grupo para delegar tareas, tanto Landing Page, Web App e informe. |
+| **Sprint 1 Retrospective Summary** | Mejorar comunicación y tiempo de reuniones.                         |
+| **Sprint Goal & User Stories** | En este sprint se planea desarrollar un avance en el informe así como las correcciones del informe. Además, terminar nuestro landing page para mostrar información pertinente y tener un diseño responsive. |
+| **Sprint 1 Velocity**  | 15                                                                      |
+| **Sum of Story Points**| 18                                                                      |
+
+
+#### 6.2.1.2. Aspect Leaders and Collaborators.
+
+| Team Members | Github Usernames | Frontend | LandingPage | Figma | Corrección de informe | Informe |
+|:--:|----|----|----|----|----|----|
+| Elías Sanchez, Harold MigueL | HamesEl | C | C | C | L | C |
+| López Huamán, Rodrigo Adrián | RodrLH | L | L | C | L | L |
+| Meneses Arevalo, Victor Manuel | vrokerev | C | C | L | L | C |
+| Gamboa Delgado, Brayan Stiven | GamboaBrayan | C | C | C | L | C |
+| Salvador Rodríguez, Rodrigo Jesús | Rodrigojsr12 | C | C | C | L | C |
+
+#### 6.2.1.3. Sprint Backlog 1
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 16%" />
+<col style="width: 7%" />
+<col style="width: 26%" />
+<col style="width: 11%" />
+<col style="width: 13%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2" rowspan="2">SPRINT</th>
+<th colspan="5">SPRINT 1</th>
+</tr>
+<tr>
+<th colspan="5">Work-Item / Task</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>User Story ID</td>
+<td>Title</td>
+<td>id</td>
+<td>Description</td>
+<td>Tiempo (horas)</td>
+<td>Assigned to</td>
+<td>Status (to-do/ in process/ To review/ done</td>
+</tr>
+<tr>
+<td style="text-align: center;">US01</td>
+<td style="text-align: center;">Contactar al equipo de soporte</td>
+<td>01</td>
+<td><p><strong>Como</strong> usuario de GeoEntry, </p>
+<p><strong>Quiero</strong> enviar un mensaje al equipo de soporte desde
+la app </p>
+<p><strong>Para</strong> resolver problemas técnicos.</p></td>
+<td>3</td>
+<td>Rodrigo López</td>
+<td>To review</td>
+</tr>
+<tr>
+<td>US06</td>
+<td style="text-align: center;">Invitar a un familiar</td>
+<td>02</td>
+<td style="text-align: center;"><strong>Como</strong> administrador,
+<strong>quiero</strong> compartir acceso temporal con un familiar
+<strong>para</strong> que controle dispositivos específicos.</td>
+<td>5</td>
+<td>Victor Meneses</td>
+<td>To review</td>
+</tr>
+<tr>
+<td style="text-align: center;">US07</td>
+<td style="text-align: center;">Ver historial de actividad</td>
+<td>03</td>
+<td><p><strong>Como</strong> usuario, </p>
+<p><strong>Quiero</strong> recibir alertas inmediatas si mi puerta
+principal queda abierta accidentalmente,</p>
+<p><strong>Para</strong> prevenir riesgos de seguridad.</p></td>
+<td>4</td>
+<td>Rodrigo López</td>
+<td>Done</td>
+</tr>
+<tr>
+<td style="text-align: center;">US09</td>
+<td style="text-align: center;">Cambiar idioma de la app</td>
+<td>04</td>
+<td><p><strong>Como</strong> usuario, </p>
+<p><strong>Quiero</strong> seleccionar el idioma de la interfaz
+(español/inglés),</p>
+<p><strong>Para</strong> mayor comodidad.</p></td>
+<td>2</td>
+<td>Brayan Gamboa</td>
+<td>To review</td>
+</tr>
+<tr>
+<td style="text-align: center;">US12</td>
+<td style="text-align: center;">Ver estado de dispositivos</td>
+<td>05</td>
+<td><p><strong>Como</strong> usuario, </p>
+<p><strong>Quiero</strong> ver rápidamente qué dispositivos están
+activos/desactivados en mi hogar</p>
+<p><strong>Para</strong> tener un resumen del estado actual.</p></td>
+<td>4</td>
+<td>Harold Elías</td>
+<td>To review</td>
+</tr>
+<tr>
+<td style="text-align: center;">US14</td>
+<td style="text-align: center;">Revocar acceso a un usuario
+invitado</td>
+<td>06</td>
+<td><p><strong>Como</strong> administrador del hogar, </p>
+<p><strong>Quiero</strong> retirar permisos a usuarios invitados cuando
+ya no los necesiten</p>
+<p><strong>Para</strong> mantener la seguridad de mi hogar.</p></td>
+<td>2</td>
+<td>Rodrigo Salvador</td>
+<td>To review</td>
+</tr>
+</tbody>
+</table>
+
+#### 6.2.1.4. Development Evidence for Sprint Review.
+
+A continuación, se presentan los commits realizados en el repositorio de
+la landing page, Página Web y el Documento en el Github.
+
+[<u>https://github.com/TechProtection/Documentation-IOT.git</u>](https://github.com/TechProtection/Documentation-IOT.git)
+
+[<u>https://github.com/TechProtection/geontry-frontend.git</u>](https://github.com/TechProtection/geontry-frontend.git)
+
+[<u>https://github.com/TechProtection/geoentry-smart-hub-control.git</u>](https://github.com/TechProtection/geoentry-smart-hub-control.git)
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----|----|----|----|----|----|
+| geoentry-smart-hub-control | main | 9c9a627 | Add hero image | Implement a hero image related to the product. | April 4 |
+| geoentry-smart-hub-control | main | 319996f | add netlify.toml | . | April 7 |
+| geoentry-smart-hub-control | main | d11f178 | Add GeoEntry buttons | Add two new buttons with GeoEntry styling. | April 9 |
+| geontry-frontend | main | 3a6887e | initial commit | . | May 9 |
+| Documentation-IOT | main | a6b8293 | docs: add cap 1 | add cap 1 | April 12 |
+| Documentation-IOT | main | be67b4e | fix table error | fix error | April 28 |
+| Documentation-IOT | main | 3df094d | Cambios C4 | Correcciones C4 | May 12 |
+
+#### 6.2.1.5. Testing Suite Evidence for Sprint Review.
+
+Para este Sprint N°1 no se realizaron pruebas para el RESTful API ni
+para el frontend. Solo se verificó el correcto funcionamiento del
+landing page desplegado.
+
+#### 6.2.1.6. Execution Evidence for Sprint Review
+
+En esta Sprint 1, el equipo desarrolló el Landing page como la primera
+versión del Frontend.
+
+**LandingPage**
+
+<img src="./assets/image1.png"
+style="width:5.90556in;height:3.07083in" />
+
+**FrontEnd**
+
+<img src="./assets/image2.png"
+style="width:5.90556in;height:3.03125in" />
+
+#### 6.2.1.7. Services Documentation Evidence for Sprint Review.
+
+En este Sprint 1, los miembros de TechProtection se enfocaron netamente
+con el diseño y desarrollo de la Landing Page y la primera versión del
+Frontend, también con el despliegue visual del Landing Page con éxito.
+
+#### 6.2.1.8. Software Deployment Evidence for Sprint Review.
+
+El equipo ha desplegado de forma exitosa el Landing Page, donde se
+muestra una página con diseño y colores Soft para la vista del usuario e
+información relevante.
+
+Landing Page:
+
+[<u>https://geoentry.netlify.app/</u>](https://geoentry.netlify.app/)
+
+<img src="./assets/image3.png"
+style="width:5.90556in;height:2.97222in" />
+
+#### 6.2.1.9. Team Collaboration Insights during Sprint.
+
+Aquí se muestra la colaboración del equipo y ramas dentro del proyecto: 
+
+<img src="./assets/image4.jpeg"
+style="width:5.90556in;height:3.01181in" />
+
+
 **Conclusiones** 
 
 El desarrollo de la solución GeoEntry, impulsado por la startup TechProtection, permitió validar de forma efectiva las hipótesis y suposiciones planteadas en el proceso Lean UX. Se identificó que los usuarios, tanto residenciales como comerciales, enfrentan una fuerte fragmentación tecnológica y desean soluciones automatizadas que funcionen de manera fluida, sin requerir múltiples aplicaciones o intervención manual constante. 
