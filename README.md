@@ -34,105 +34,85 @@ Docente: Marco Antonio Leon Baca <br/>
 
 **Contenido**  
 
-Tabla de contenidos  Student Outcome  **Capítulo I: Introducción**  
+Tabla de contenidos  Student Outcome  
+1. **Capítulo I: Introducción**  
+   1.1 Startup Profile  
+   &nbsp;&nbsp;1.1.1 Descripción de la Startup  
+   &nbsp;&nbsp;1.1.2 Perfiles de integrantes del equipo  
+   1.2 Solution Profile  
+   &nbsp;&nbsp;1.2.1 Antecedentes y problemática  
+   &nbsp;&nbsp;1.2.2 Lean UX Process  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.1 Lean UX Problem Statements  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.2 Lean UX Assumptions  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.3 Lean UX Hypothesis Statements  
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2.2.4 Lean UX Canvas  
+   1.3 Segmentos objetivo
 
-1. Startup Profile 
-   1. Descripción de la Startup 
-   1. Perfiles de integrantes del equipo 
-1. Solution Profile 
-1. Antecedentes y problemática 
-1. Lean UX Process. 
-   1. Lean UX Problem Statements. 
-   1. Lean UX Assumptions. 
-   1. Lean UX Hypothesis Statements. 
-   1. Lean UX Canvas. 
+2. **Capítulo II: Requirements Elicitation & Analysis**  
+   2.1 Competidores  
+   &nbsp;&nbsp;2.1.1 Análisis competitivo  
+   &nbsp;&nbsp;2.1.2 Estrategias y tácticas frente a competidores  
+   2.2 Entrevistas  
+   &nbsp;&nbsp;2.2.1 Diseño de entrevistas  
+   &nbsp;&nbsp;2.2.2 Registro de entrevistas  
+   &nbsp;&nbsp;2.2.3 Análisis de entrevistas  
+   2.3 Needfinding  
+   &nbsp;&nbsp;2.3.1 User Personas  
+   &nbsp;&nbsp;2.3.2 User Task Matrix  
+   &nbsp;&nbsp;2.3.3 User Journey Mapping  
+   &nbsp;&nbsp;2.3.4 Empathy Mapping  
+   &nbsp;&nbsp;2.3.5 As-is Scenario Mapping  
+   2.4 Ubiquitous Language
 
-      3. Segmentos objetivo. 
+3. **Capítulo III: Requirements Specification**  
+   3.1 To-Be Scenario Mapping  
+   3.2 User Stories  
+   3.3 Impact Mapping  
+   3.4 Product Backlog
 
-**Capítulo II: Requirements Elicitation & Analysis**  
+4. **Capítulo IV: Solution Software Design**  
+   4.1 Strategic-Level Domain-Driven Design  
+   &nbsp;&nbsp;4.1.1 EventStorming  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.1.1 Candidate Context Discovery  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.1.2 Domain Message Flows Modeling  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.1.3 Bounded Context Canvases  
+   &nbsp;&nbsp;4.1.2 Context Mapping  
+   &nbsp;&nbsp;4.1.3 Software Architecture  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.3.1 System Landscape Diagram  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.3.2 Context-Level Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.3.3 Container-Level Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.1.3.4 Deployment Diagrams  
+   4.2 Tactical-Level Domain-Driven Design  
+   &nbsp;&nbsp;4.2.X Bounded Context: *<Name>*  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.1 Domain Layer  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.2 Interface Layer  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.3 Application Layer  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.4 Infrastructure Layer  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.5 Component-Level Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;4.2.X.6 Code-Level Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2.X.6.1 Domain-Layer Class Diagrams  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2.X.6.2 Database Design Diagram
 
-1. Competidores. 
-   1. Análisis competitivo. 
-   1. Estrategias y tácticas frente a competidores. 
-1. Entrevistas. 
-   1. Diseño de entrevistas. 
-   1. Registro de entrevistas. 
-   1. Análisis de entrevistas. 
-1. Needfinding. 
-   1. User Personas. 
-   1. User Task Matrix. 
-   1. User Journey Mapping. 
-   1. Empathy Mapping. 
-   1. As-is Scenario Mapping. 
-1. Ubiquitous Language. 
+5. **Capítulo V: Solution UI/UX Design**  
+   5.1 Style Guidelines  
+   &nbsp;&nbsp;5.1.1 General Style Guidelines  
+   &nbsp;&nbsp;5.1.2 Web, Mobile & IoT Style Guidelines  
+   5.2 Information Architecture  
+   &nbsp;&nbsp;5.2.1 Organization Systems  
+   &nbsp;&nbsp;5.2.2 Labeling Systems  
+   &nbsp;&nbsp;5.2.3 SEO & Meta Tags  
+   &nbsp;&nbsp;5.2.4 Searching Systems  
+   &nbsp;&nbsp;5.2.5 Navigation Systems  
+   5.3 Landing Page UI Design  
+   &nbsp;&nbsp;5.3.1 Wireframe  
+   &nbsp;&nbsp;5.3.2 Mock-up  
+   5.4 Applications UX/UI Design  
+   &nbsp;&nbsp;5.4.1 Wireframes  
+   &nbsp;&nbsp;5.4.2 Wireflow Diagrams  
+   &nbsp;&nbsp;5.4.3 Mock-ups  
+   &nbsp;&nbsp;5.4.4 User Flow Diagrams  
+   5.5 Applications Prototyping
 
-**Capítulo III: Requirements Specification**  
-
-1. To-Be Scenario Mapping. 
-1. User Stories. 
-1. Impact Mapping. 
-1. Product Backlog.  
-
-**Capítulo IV: Solution Software Design**  
-
-1. Strategic-Level Domain-Driven Design. 
-1. EventStorming. 
-   1. Candidate Context Discovery. 
-   1. Domain Message Flows Modeling. 
-   1. Bounded Context Canvases. 
-1. Context Mapping. 
-1. Software Architecture. 
-1. Software Architecture System Landscape Diagram. 
-1. Software Architecture Context Level Diagrams. 
-2. Software Architecture Container Level Diagrams. 
-2. Software Architecture Deployment Diagrams. 
-2. Tactical-Level Domain-Driven Design 
-1. Bounded Context: Device 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
-2. Bounded Context: Security 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
-
-   3. Bounded Context: Climate Control 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
-4. Bounded Context: User 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
-5. Bounded Context: Notification 
-1. Domain Layer. 
-1. Interface Layer. 
-1. Application Layer. 
-1. Infrastructure Layer. 
-1. Bounded Context Software Architecture Component Level Diagrams. 
-1. Bounded Context Software Architecture Code Level Diagrams. 
-1. Bounded Context Domain Layer Class Diagrams. 
-1. Bounded Context Database Design Diagram 
 
 **Student Outcome**  
 
@@ -2157,6 +2137,652 @@ Esta capa implementa los detalles técnicos y la comunicación con sistemas exte
 2. **Bounded Context Database Design Diagram.** 
 
 ![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.027.jpeg)
+
+# Capítulo V: Solution UI/UX Design
+
+## 5.1 Style Guidelines
+En este capítulo se presenta el desarrollo de las interfaces y procesos de la aplicación GeoEntry. El objetivo principal es ofrecer una experiencia visual atractiva y sencilla para el usuario. Para lograrlo, se aplicaron colores que reflejan tecnología y confianza, se aprovechó el espacio de forma eficiente en distintos dispositivos, y se incorporaron imágenes y textos concisos que evitan la sobrecarga informativa. Además, las funcionalidades se organizaron en secciones claramente diferenciadas según su propósito dentro del sistema de automatización residencial.
+
+### 5.1.1 General Style Guidelines
+**Branding**
+
+La identidad de TechProtection debe transmitir una visión clara: innovación al servicio del bienestar diario. Nuestro ecosistema tecnológico se presenta como confiable, moderno y centrado en el usuario. La marca se posiciona como el puente entre el confort del hogar y la potencia de la automatización inteligente, apelando tanto al aspecto emocional (seguridad y tranquilidad) como racional (eficiencia energética y control remoto).
+
+El diseño visual debe evocar tecnología accesible pero sofisticada, evitando complejidad innecesaria y resaltando una sensación de orden, precisión y armonía. La consistencia visual a través de todos los canales (app móvil, web y dispositivos físicos) reforzará la recordación y confianza en la marca.
+
+
+**Colors**
+
+La paleta de colores busca un balance entre profesionalismo y calidez:
+
+Azul Tecnológico (#0057B7): color primario, transmite innovación, fiabilidad y tecnología.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.001.png)
+
+Verde Activo (#5BC236): color secundario, señala acciones exitosas y estados activos.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.002.png)
+
+Blanco Puro (#FFFFFF): base para interfaces limpias y luminosas.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.003.png)
+
+Gris Neutro (#F0F0F0): fondo y elementos de soporte, suaviza la interfaz y resalta lo importante.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.004.png)
+
+Negro Suave (#1E1E1E): fondo para modo oscuro, utilizado principalmente en la app móvil y web en horarios nocturnos.
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.005.png)
+
+#### <a name="_lwsliuyiwa5o"></a>**Typography**
+- **Lato**: fuente principal de títulos, botones y encabezados. Su estilo geométrico y moderno comunica tecnología limpia y clara.
+
+  ![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.006.png)
+
+- **OpenSans**: usada para textos secundarios, párrafos y descripciones; ofrece alta legibilidad, especialmente en pantallas pequeñas.
+
+  ![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.007.png)
+
+- En general, se privilegian tipografías sans-serif por su carácter digital, versátil y elegante.
+#### <a name="_j7axrgqla5fi"></a>**Spacing**
+El diseño se construye sobre una estructura visual **ordenada y aireada**, que favorece la navegación intuitiva y reduce la carga cognitiva. Las jerarquías se establecen mediante:
+
+- Tamaños tipográficos progresivos.
+- Contraste de colores y sombras suaves.
+- Uso de tarjetas, divisores y márgenes uniformes.
+- Botones grandes y accesibles, especialmente para comandos frecuentes como apertura de puerta, encendido de luces o activación de rutinas.
+### 5.1.2 Web, Mobile and IoT Style Guidelines
+**Aplicación Web**
+` `Pensada como un centro de control más técnico y administrativo. Permite la configuración avanzada de dispositivos, visualización de historial de eventos, personalización de rutinas, y ajustes de seguridad.
+` `También está orientada a usuarios que desean un mayor grado de control sobre las automatizaciones y parámetros específicos del hogar. Es ideal para monitoreo desde escritorio o laptop en sesiones más prolongadas.
+
+**Spacing:**
+` `Se utiliza un diseño modular con tarjetas bien separadas para evitar sobrecarga visual. Las secciones están claramente delimitadas y accesibles desde un menú lateral o superior.
+` `El uso del espaciado refuerza la jerarquía visual, permitiendo que cada tarjeta o bloque informativo respire, haciendo más sencilla su lectura y comprensión.
+
+**Typography:**
+` `Se mantiene la jerarquía con Montserrat en títulos y botones, y Roboto en listas, historiales y formularios.
+` `Esta combinación genera contraste entre elementos de navegación y contenido, aportando elegancia y claridad a la interfaz.
+
+**Extras:**
+` `Modo oscuro para uso nocturno.
+` `Permite reducir el cansancio visual, especialmente en ambientes con poca iluminación o durante sesiones prolongadas.
+
+Iconografía representativa (cerradura, luz, temperatura, aroma).
+` `Los íconos ayudan a identificar rápidamente funciones y dispositivos, manteniendo la estética coherente en toda la plataforma.
+
+Layout adaptable a pantallas grandes (responsive).
+` `Garantiza compatibilidad con diferentes resoluciones, desde laptops hasta monitores ultrawide, asegurando una experiencia fluida.
+
+-----
+**Aplicación Móvil**
+` `Diseñada para interacción rápida y cotidiana, con foco en gestos simples y acceso inmediato a funciones clave.
+` `Es ideal para momentos puntuales como llegar a casa, salir o activar rutinas rápidas, permitiendo control desde cualquier lugar.
+
+**Spacing:**
+` `Compacto pero táctil, con elementos accesibles con un solo pulgar. Los botones flotantes y el menú inferior permiten operar sin esfuerzo.
+` `El diseño se adapta a manos de distintos tamaños, facilitando la navegación sin depender de ambas manos.
+
+**Typography:**
+` `Se prioriza Roboto en casi todos los elementos por su claridad en pantallas pequeñas, con Montserrat reservado para secciones destacadas o pantallas de bienvenida.
+` `Esto mejora la legibilidad, reduce errores de lectura y mantiene una estética limpia y moderna.
+
+**Extras:**
+` `Navegación inferior fija con cuatro íconos: Inicio, Dispositivos, Rutinas, Perfil.
+` `Estos íconos están pensados para que el usuario no tenga que memorizar rutas complejas ni acceder a menús desplegables.
+
+Animaciones suaves para cambios de estado o navegación.
+` `Contribuyen a una experiencia más fluida y agradable, transmitiendo sensación de modernidad sin sobrecargar el sistema.
+
+Diseño responsive adaptable a smartphones y tablets.
+` `La experiencia se mantiene uniforme sin importar el tamaño del dispositivo, promoviendo accesibilidad para todos los usuarios.
+
+Gestos como deslizar para abrir puertas o activar escenas rápidas.
+` `Estos gestos permiten acciones intuitivas sin depender de múltiples toques o botones.
+
+-----
+**Dispositivos IoT**
+`a`La línea de productos físicos está diseñada para integrarse visualmente en hogares modernos sin sacrificar identidad tecnológica.
+` `Cada dispositivo busca ser funcional y estéticamente neutro, permitiendo que encaje en distintos estilos de decoración.
+
+**Espaciado físico:**
+` `Dispositivos con superficies limpias, sin botones visibles innecesarios, manteniendo una estética minimalista y ergonómica.
+` `Este enfoque evita distracciones visuales y simplifica el uso cotidiano, incluso para personas con poca experiencia tecnológica.
+
+**Indicadores LED:**
+` `Utilización de luces sutiles en azul, verde o rojo suave para comunicar estados como “activo”, “en espera” o “alerta”, sin generar contaminación visual.
+` `Los indicadores están ubicados estratégicamente para ser visibles sin desentonar con el entorno del hogar.
+
+**Typography:**
+` `En etiquetas físicas (si las hay), se usa tipografía sans-serif clara y legible. El nombre de cada dispositivo puede personalizarse desde la app para reforzar el vínculo con el usuario.
+` `Esto permite identificar dispositivos rápidamente, personalizando la experiencia de forma más humana y cercana.
+
+**Acabado:**
+` `Materiales como plástico texturizado mate o metal cepillado para dar una sensación de calidad y durabilidad.
+` `El diseño transmite confianza y solidez, ayudando a que el usuario perciba el producto como una inversión segura.
+
+## 5.2 Information Architecture
+### 5.2.1 Organization Systems
+**Aplicación Web**
+` `La estructura de la versión web está pensada para facilitar la administración del sistema desde una perspectiva más técnica y detallada, especialmente útil para usuarios avanzados o administradores del hogar.
+` `Cada módulo está diseñado para brindar acceso directo a funciones complejas sin sacrificar claridad visual ni usabilidad.
+
+**Jerárquico (Hierarchical):**
+` `Se priorizan las funciones principales (Panel de control, Dispositivos, Seguridad) mediante diferencias visuales como tamaños, colores y ubicación.
+` `Esto guía al usuario naturalmente hacia las secciones más importantes del sistema, reduciendo tiempos de búsqueda.
+
+**Secuencial (Sequential):**
+` `Se aplicará en los flujos de configuración inicial, donde el usuario sigue pasos guiados para conectar dispositivos IoT, definir rutinas y ajustar permisos.
+` `Los pasos están acompañados de ayudas visuales e instrucciones contextuales para facilitar el proceso, incluso a usuarios sin experiencia previa.
+
+**Matriz (Matrix):**
+` `Se brindará la opción de navegar entre dispositivos o rutinas según distintas categorías (por habitación, por tipo de dispositivo, por frecuencia de uso), facilitando la personalización.
+` `Esto permite una exploración libre, útil cuando el usuario busca inspiración o desea optimizar la configuración existente.
+
+-----
+**Aplicación Móvil**
+` `La arquitectura de la app móvil está centrada en el uso diario y accesible con una sola mano. Se ha diseñado para que cualquier acción esté a pocos toques de distancia, reforzando la idea de control rápido y desde cualquier lugar.
+` `Las pantallas son intuitivas, mostrando información clara sin requerir navegación profunda o pasos innecesarios.
+
+**Inicio de sesión y gestión de usuario:**
+` `La app permite autenticación segura, con opciones para ingresar, recuperar contraseña y gestionar perfiles de usuario y hogar.
+` `Se incluye la posibilidad de autenticación biométrica (huella o rostro) para mayor rapidez y seguridad.
+
+**Panel principal:**
+` `Desde aquí se accede a un resumen del hogar (estado de dispositivos, notificaciones y accesos recientes).
+` `Este panel puede personalizarse según las preferencias del usuario, mostrando lo más relevante primero.
+
+**Dispositivos:**
+` `Se listan todos los dispositivos conectados, con posibilidad de agruparlos por habitación o función (iluminación, seguridad, ambiente).
+` `Cada dispositivo tiene una tarjeta con acceso a controles rápidos y un botón para configuración avanzada.
+
+**Rutinas:**
+` `Permite crear, editar y activar rutinas como "Modo noche", "Llegada a casa", o "Vacaciones", combinando múltiples dispositivos.
+` `El usuario puede definir horarios, condiciones y automatizaciones para cada rutina, con una interfaz tipo asistente paso a paso.
+
+**Historial y alertas:**
+` `Visualización clara de eventos recientes como aperturas de puertas, cambios de temperatura, o actividad inusual.
+` `El historial puede filtrarse por fechas o tipo de evento, facilitando la revisión ante incidentes o anomalías.
+
+**Notificaciones:**
+` `Sistema de avisos en tiempo real ante eventos importantes, accesible desde cualquier sección.
+` `Las notificaciones pueden personalizarse por nivel de prioridad, tipo de evento o por usuario.
+
+**Configuración:**
+` `Permite personalizar preferencias, usuarios secundarios, conexión con asistentes de voz, y ajustes de seguridad.
+` `Incluye control parental, zonas de acceso restringido y opciones de respaldo de configuración.
+
+**Soporte y ayuda:**
+` `Sección para contactar al equipo técnico, acceder a preguntas frecuentes o solicitar asistencia remota.
+` `Incluye chat en vivo, tutoriales en video y guía paso a paso para la solución de problemas comunes.
+
+-----
+**Dispositivos IoT**
+` `Los dispositivos están organizados lógicamente en la app y en el sistema para facilitar su gestión.
+` `El objetivo es lograr que el usuario sienta que todo está bajo control, sin importar cuántos dispositivos tenga instalados.
+
+**Agrupación por ambientes:**
+` `Los dispositivos se asignan a habitaciones o zonas del hogar para un control contextualizado.
+` `Esto facilita la activación por zonas (“Encender luces del segundo piso”) o rutinas por ambiente.
+
+**Categorización funcional:**
+` `Ya sea iluminación, seguridad o confort, cada tipo de dispositivo tiene un ícono y color identificable.
+` `Esto permite identificar rápidamente su función incluso en interfaces densas o múltiples dispositivos en una misma habitación.
+
+**Estados claros:**
+` `Cada dispositivo muestra su estado actual (activo, inactivo, alerta) y permite ajustes rápidos desde su tarjeta.
+` `Además, se pueden visualizar cambios recientes, tiempo desde la última activación y condiciones actuales.
+
+**Compatibilidad:**
+` `La interfaz permite integrar nuevos dispositivos fácilmente, manteniendo una estructura uniforme para que todo el ecosistema se sienta como una unidad.
+` `El sistema detecta nuevos equipos automáticamente y guía al usuario en su configuración paso a paso.
+
+### 5.2.2 Labeling Systems
+**Web Application**
+` `Las etiquetas utilizadas en la interfaz web son simples y directas. Se agrupan por funcionalidades como: “Inicio”, “Dispositivos”, “Rutinas”, “Historial” y “Configuración”.
+` `El objetivo es evitar ambigüedades y permitir una navegación clara, incluso para nuevos usuarios sin experiencia técnica.
+
+**Mobile Application**
+` `En la aplicación móvil, se utilizan etiquetas breves acompañadas de íconos representativos para cada sección. Por ejemplo, un ícono de casa para “Inicio”, un rayo para “Rutinas” y un reloj para “Historial”.
+` `La combinación de texto e iconografía mejora la comprensión y usabilidad, incluso en condiciones de uso apresurado o con poca atención visual.
+
+**IoT Devices**
+` `Los dispositivos IoT no requieren etiquetas complejas. Al estar pensados para activarse automáticamente mediante la geolocalización del usuario, se muestran solo los estados relevantes (por ejemplo: “Activado”, “Apagado”, “Modo Bienvenida”).
+` `Esto evita sobrecargar las interfaces de los dispositivos, y permite que los usuarios los identifiquen fácilmente en entornos reales.
+
+### 5.2.3 SEO Tags and Meta Tags
+**Web Application**
+
+<title>GeoEntry – Automatización inteligente del hogar</title>
+
+<meta name="description" content="GeoEntry automatiza la bienvenida al hogar integrando luces, puertas, clima y aromas mediante geolocalización. Sin esfuerzo, solo comodidad.">
+
+<meta name="keywords" content="hogar inteligente, automatización, IoT, llegada automática, luces, puertas, sensores, entrada inteligente">
+
+<meta name="author" content="TechProtection">
+
+Estas etiquetas mejoran la visibilidad en motores de búsqueda, alineando el contenido con términos usados por el público objetivo.
+
+**Mobile Application (AndroidManifest.xml)**
+
+<application
+android:label="GeoEntry - Hogar Inteligente"
+android:description="Tu casa se prepara para ti automáticamente con GeoEntry">
+</application>
+
+Estas etiquetas refuerzan la identidad de la app y su funcionalidad en tiendas de aplicaciones, facilitando su descubrimiento.
+
+**IoT Devices**
+` `No utilizan etiquetas SEO tradicionales, pero los dispositivos que se identifican en la red local usan nombres entendibles como “Puerta Entrada”, “Sensor Aromas”, “Luz Recibidor”, para facilitar la gestión desde el sistema o app si fuera necesario.
+` `Esto también mejora la experiencia del usuario cuando hay múltiples dispositivos en el hogar.
+
+### 5.2.4 Searching Systems
+**Web Application**
+` `Incluye un sistema de búsqueda sencillo para localizar dispositivos o eventos pasados. El usuario puede escribir “puerta”, “sensor aroma” o “rutina noche” y recibir resultados filtrados de forma clara.
+` `Esto reduce el tiempo de interacción y permite encontrar información específica de manera eficiente, incluso si el usuario no recuerda el nombre exacto.
+
+**Mobile Application**
+` `La app permite buscar dispositivos o rutinas por nombre, tipo o ubicación. Por ejemplo: “baño”, “climatización”, o “modo mañana”. También permite revisar el historial usando filtros por fecha o tipo de acción.
+` `Esto da al usuario control total desde su teléfono, sin necesidad de navegar por múltiples menús o secciones.
+
+### 5.2.5 Navigation Systems
+**Web Application**
+` `La navegación se basa en una barra fija en la parte superior, con accesos directos a: “Inicio”, “Dispositivos”, “Rutinas”, “Historial”, “Configuración”.
+` `Toda la estructura busca reducir la cantidad de clics necesarios para realizar acciones comunes, mejorando la eficiencia del sistema.
+
+**Mobile Application**
+` `Navegación mediante una barra inferior con íconos. La app está optimizada para uso ocasional, ya que la mayoría de funciones se activan automáticamente. Aun así, el usuario puede acceder rápidamente a cada sección si desea realizar cambios.
+` `La estructura está pensada para responder rápidamente al contexto del usuario, favoreciendo la simplicidad y el control en todo momento.
+
+## 5.3 Landing Page UI Design
+La propuesta de diseño de la landing page de GeoEntry refleja directamente las decisiones tomadas en torno a la arquitectura de información y los principios de diseño centrado en el usuario. Se buscó una estructura limpia, con una jerarquía visual clara y accesible desde cualquier dispositivo. La navegación está anclada a una barra superior fija que contiene el logo y cuatro botones principales: “Características”, “Cómo funciona”, “Contacto” y “Solicitar demo”. Cada uno dirige a la sección correspondiente dentro de la misma página, asegurando una experiencia fluida y sin distracciones.
+
+La landing page fue pensada como el primer punto de contacto entre los usuarios potenciales y nuestra solución de automatización inteligente. Por ello, el diseño equilibra lo estético con lo funcional: se utilizaron contrastes accesibles, iconografía representativa, textos concisos y llamadas a la acción bien posicionadas. Se integraron principios de diseño inclusivo como tipografía legible, botones táctiles, estructura semántica clara y compatibilidad con lectores de pantalla.
+
+### 5.3.1 Landing Page Wireframe
+#### <a name="_alig7j2wu6c7"></a>**Introducción a las decisiones de diseño y arquitectura de información**
+Los wireframes de la landing page fueron elaborados para visualizar la estructura y disposición funcional del contenido antes de su diseño final. Se desarrollaron versiones específicas tanto para Desktop como para Mobile Web Browser, aplicando principios como consistencia, visibilidad de opciones, y simplicidad cognitiva.
+
+**Versión Desktop Web Browser:**
+
+- **Header:** App bar con logo alineado a la izquierda y botones de navegación a la derecha. Siempre visible (sticky).
+- **Hero Section:** Eslogan principal y un botón de acción (“Solicitar Demo”), acompañado de una imagen que refuerza el mensaje de bienvenida automatizada.
+- **Características:** Cards con icono, título y breve descripción, dispuestas en una grilla simétrica de tres columnas.
+- **Cómo funciona:** Sección vertical con pasos numerados que describen el proceso de integración y uso de GeoEntry.
+- **Solicitar demo:** Tres beneficios destacados de solicitar una demo, con énfasis visual en claridad y brevedad.
+- **Contacto:** Formulario simple con campos de nombre, correo y mensaje. Destacado en color y accesible.
+- **Footer:** Redes sociales y aviso de derechos reservados, alineado al branding general.
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.008.png)
+
+Apartado de Características:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.009.png)
+
+
+Apartado de Solicitar Demo:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.010.png)
+
+Apartado de Contacto:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.011.png)
+
+
+**Versión Mobile Web Browser:**
+
+- Las secciones se reorganizan en una columna vertical con desplazamiento natural (scroll), optimizando la lectura y navegación en pantallas pequeñas.
+- Cards e íconos son más grandes para permitir una interacción táctil cómoda.
+- El menú de navegación se transforma en un **hamburger menu** accesible desde la esquina superior derecha.
+- Los formularios y botones tienen suficiente espaciado para ser utilizados fácilmente con el dedo pulgar.
+- Los textos se adaptan a tamaños legibles sin necesidad de hacer zoom, manteniendo la consistencia visual.
+
+
+Apartado de Caracteristicas:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.012.png)
+
+Apartado de Solicitar Demo:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.013.png)
+
+Apartado de Contacto:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.014.png)
+
+Apartado de información de contacto:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.015.png)
+
+### 5.3.2 Landing Page Mock-up
+
+Los mock-ups desarrollados para la landing page de GeoEntry representan la versión visual definitiva del diseño, aplicando todos los lineamientos del sistema de diseño establecido para la marca. Este Design System incluye uso de tipografías Montserrat y Roboto, paleta de colores institucional (azules, blancos y verdes suaves), y componentes reutilizables como cards, botones, iconografía y formularios.
+
+Versión Desktop Web Browser:
+
+- Se mantiene un layout amplio, con un uso efectivo del espacio negativo para evitar sobrecarga visual.
+- Las cards de características presentan íconos representativos de iluminación, seguridad, aroma y confort, enmarcadas dentro de bloques elevados con sombras suaves.
+- El CTA “Solicitar Demo” se resalta con un color primario contrastante y un hover state animado.
+- El formulario de contacto respeta los estándares de accesibilidad: etiquetas visibles, validación básica y botones de envío bien definidos.
+
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.016.png)
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.017.png)
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.018.png)
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.019.png)
+
+
+**Versión Mobile Web Browser:**
+
+- El mock-up móvil prioriza la legibilidad y la facilidad de uso con una mano.
+- Las secciones se apilan verticalmente con espaciado consistente y tipografía legible.
+- Se incluyen microinteracciones para transiciones suaves, y el botón de “Solicitar Demo” permanece siempre visible en la parte inferior como botón flotante.
+- Los formularios tienen campos accesibles, compatibles con teclado predictivo y controles nativos del sistema operativo móvil.
+
+Ambos mock-ups fueron diseñados siguiendo los principios de diseño inclusivo, manteniendo coherencia visual con los demás productos de TechProtection y asegurando una experiencia fluida, accesible y efectiva para distintos perfiles de usuario.
+
+
+Apartado de Hero Section:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.020.png)
+
+Apartado de Características:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.021.png)
+
+
+Apartado de Solicitar Demo:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.022.png)
+
+
+
+
+Apartado de Contacta con Nosotros:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.023.png)
+
+
+
+
+Apartado de Información de Contacto:
+
+![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.024.png)
+
+
+## 5.4 Applications UX/UI Design
+### 5.4.1 Applications Wireframes
+
+En esta parte se explora el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web GeoEntry. Tanto la ubicación de elementos como la selección de fuentes, íconos y colores han sido cuidadosamente pensados para ofrecer una navegación intuitiva, una estructura clara y una experiencia visualmente atractiva y fluida.
+
+La sección de Proyectos es la principal, donde el usuario puede visualizar las automatizaciones creadas y, si lo desea, iniciar una nueva. También se incluye una breve descripción de la solución general, resaltando los beneficios de GeoEntry como sistema de automatización inteligente. Todo el diseño busca reflejar comodidad, seguridad y eficiencia, pilares fundamentales de nuestra propuesta.
+
+**Mobile Application Wireframes**
+
+Home
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.025.png)
+
+Devices
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.026.png)
+
+Stats y Logs -  Device Activity
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.027.png)
+
+Groups
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.028.png)
+
+Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.029.png)
+
+
+Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.030.png)
+
+Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.031.png)
+
+Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.032.png)
+
+**Web Application Wireframes**
+
+Home
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.034.png)
+
+**Devices**
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.035.png)
+
+Stats & Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.036.png)
+
+Group
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.037.png)
+
+Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.038.png)
+
+**Settings**
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.039.png)
+
+Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.040.png)
+
+
+Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.041.png)
+
+**5.4.2. Applications Wireflow Diagrams.** 
+
+See and Manage Devices
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.044.png)
+
+Manage Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.045.png)
+
+**Manage Group**
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.046.png)
+
+See Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.047.png)
+
+Edit Setting
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.048.png)
+
+Obtain Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.049.png)
+
+Edit Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.050.png)
+
+### 5.4.3. Applications Mock-ups.
+
+Los siguientes mockups ofrecen una vista previa del diseño y estructura visual de la aplicación web antes de su desarrollo final. Gracias a estos mockups podemos anticipar cómo se dispondrán los diferentes elementos en la interfaz, garantizando que el diseño sea claro, intuitivo y coherente con la identidad de la solución.
+
+La sección de Proyectos es fundamental, ya que permite a los usuarios gestionar sus automatizaciones inteligentes, visualizar el estado de sus dispositivos conectados y crear nuevas reglas basadas en ubicación. Esta vista previa permite validar que la experiencia del usuario sea fluida y centrada en la comodidad, seguridad y eficiencia que ofrece GeoMetry.
+
+
+
+**Mobile Application MockUps**
+
+Home
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.051.png)
+
+Devices
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.052.png)
+
+Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.053.png)
+
+
+Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.054.png)
+
+Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.055.png)
+
+Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.056.png)
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.057.png)
+
+Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.058.png)
+
+
+**Web Application MockUps**
+
+Home
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.060.png)Devices![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.061.png)
+
+
+
+
+
+
+
+Stats y Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.062.png)
+
+Group
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.063.png)
+
+
+
+
+
+
+
+Notifications
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.064.png)
+
+Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.065.png)
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.067.png)
+
+Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.068.png)
+
+
+### 5.4.4. Applications User Flow Diagrams.
+
+**Mobile Application User Flow Diagrams**
+
+Edit Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.069.png)
+
+**Obtain Suppport**
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.070.png)
+
+Edit Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.071.png)
+
+Sign Up / Sign In![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.072.png)
+
+Manage Devices![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.073.png)Visualize Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.074.png)
+
+Manage Groups
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.075.png)
+
+Visualize Notifications![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.076.png)
+
+**Web Application User Flow Diagrams**
+
+Manage Devices
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.078.png)
+
+Manage Groups
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.079.png)
+
+Manage Logs
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.080.png)
+
+Manage Settings
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.081.png)
+
+Obtain Support
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.082.png)
+
+Edit Profile
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.083.png)  
+
+## 5.5 Applications Prototyping
+
+#### Mobile Application Prototyping
+
+[Prototipo Web Application (Hecho en Figma)](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-|-Mobile---Desktop--Community-?node-id=460-692&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=460%3A692&show-proto-sidebar=1)
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.084.png)
+
+#### Web Application Prototyping
+
+[Prototipo Mobile Application (Hecho en Figma)](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-%7C-Mobile---Desktop--Community-?node-id=433-3841&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=433%3A3841&show-proto-sidebar=1)
+
+![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.085.png)
 
 **Conclusiones** 
 
