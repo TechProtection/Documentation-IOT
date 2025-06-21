@@ -2871,208 +2871,365 @@ Edit Profile
 
 ## 6.2. Landing Page, Services & Applications Implementation. 
 
-### 6.2.1. Sprint 1
+**6.2.1. Sprint 1**
 
-#### 6.2.1.1. Sprint Planning 1
-
-| Sprint #               | Sprint 1                                                                 |
-|------------------------|--------------------------------------------------------------------------|
-| **Sprint Planning Background** |                                                                  |
-| **Date**               | 12 de Mayo del 2025                                                     |
-| **Time**               | 6 horas                                                                 |
-| **Location**           | Modalidad remota por Discord                                            |
-| **Prepared By**        | Rodrigo López                                                          |
-| **Attendees** (to planning meeting) | Todos los miembros                                                  |
-| **Sprint 1 Review Summary** | Reunión de integrantes del grupo para delegar tareas, tanto Landing Page, Web App e informe. |
-| **Sprint 1 Retrospective Summary** | Mejorar comunicación y tiempo de reuniones.                         |
-| **Sprint Goal & User Stories** | En este sprint se planea desarrollar un avance en el informe así como las correcciones del informe. Además, terminar nuestro landing page para mostrar información pertinente y tener un diseño responsive. |
-| **Sprint 1 Velocity**  | 15                                                                      |
-| **Sum of Story Points**| 18                                                                      |
+1. **Sprint Planning 1**
 
 
-#### 6.2.1.2. Aspect Leaders and Collaborators.
 
-| Team Members | Github Usernames | Frontend | LandingPage | Figma | Corrección de informe | Informe |
-|:--:|----|----|----|----|----|----|
-| Elías Sanchez, Harold MigueL | HamesEl | C | C | C | L | C |
-| López Huamán, Rodrigo Adrián | RodrLH | L | L | C | L | L |
-| Meneses Arevalo, Victor Manuel | vrokerev | C | C | L | L | C |
-| Gamboa Delgado, Brayan Stiven | GamboaBrayan | C | C | C | L | C |
-| Salvador Rodríguez, Rodrigo Jesús | Rodrigojsr12 | C | C | C | L | C |
+|Sprint #|Sprint 1|
+| - | - |
+|Sprint Planning Background||
+|Date|12 de Mayo del 2025|
+|Time|6 horas|
+|Location|Modalidad remota por Discord|
+|Prepared By|TechProtection|
+|Attendees (to planning meeting)|Todos los miembros|
+|Sprint 1 Review Summary|Reunión de integrantes del grupo para delegar tareas, tanto Landing Page, Web App  e informe.|
+|Sprint 1 Retrospective Summary|Mejorar comunicación y tiempo de reuniones.|
+|Sprint Goal & User Stories|En este sprint se planea desarrollar un avance en el informe así como las correcciones del informe. Además, terminar nuestro landing page para mostrar información pertinente y tener un diseño responsive.|
+|Sprint 1 Velocity|15|
+|Sum of Story Points|18|
 
-#### 6.2.1.3. Sprint Backlog 1
+2. **Aspect Leaders and Collaborators.**
 
-<table>
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 16%" />
-<col style="width: 7%" />
-<col style="width: 26%" />
-<col style="width: 11%" />
-<col style="width: 13%" />
-<col style="width: 12%" />
-</colgroup>
-<thead>
-<tr>
-<th colspan="2" rowspan="2">SPRINT</th>
-<th colspan="5">SPRINT 1</th>
-</tr>
-<tr>
-<th colspan="5">Work-Item / Task</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>User Story ID</td>
-<td>Title</td>
-<td>id</td>
-<td>Description</td>
-<td>Tiempo (horas)</td>
-<td>Assigned to</td>
-<td>Status (to-do/ in process/ To review/ done</td>
-</tr>
-<tr>
-<td style="text-align: center;">US01</td>
-<td style="text-align: center;">Contactar al equipo de soporte</td>
-<td>01</td>
-<td><p><strong>Como</strong> usuario de GeoEntry, </p>
-<p><strong>Quiero</strong> enviar un mensaje al equipo de soporte desde
-la app </p>
-<p><strong>Para</strong> resolver problemas técnicos.</p></td>
-<td>3</td>
-<td>Rodrigo López</td>
-<td>To review</td>
-</tr>
-<tr>
-<td>US06</td>
-<td style="text-align: center;">Invitar a un familiar</td>
-<td>02</td>
-<td style="text-align: center;"><strong>Como</strong> administrador,
-<strong>quiero</strong> compartir acceso temporal con un familiar
-<strong>para</strong> que controle dispositivos específicos.</td>
-<td>5</td>
-<td>Victor Meneses</td>
-<td>To review</td>
-</tr>
-<tr>
-<td style="text-align: center;">US07</td>
-<td style="text-align: center;">Ver historial de actividad</td>
-<td>03</td>
-<td><p><strong>Como</strong> usuario, </p>
-<p><strong>Quiero</strong> recibir alertas inmediatas si mi puerta
-principal queda abierta accidentalmente,</p>
-<p><strong>Para</strong> prevenir riesgos de seguridad.</p></td>
-<td>4</td>
-<td>Rodrigo López</td>
-<td>Done</td>
-</tr>
-<tr>
-<td style="text-align: center;">US09</td>
-<td style="text-align: center;">Cambiar idioma de la app</td>
-<td>04</td>
-<td><p><strong>Como</strong> usuario, </p>
-<p><strong>Quiero</strong> seleccionar el idioma de la interfaz
-(español/inglés),</p>
-<p><strong>Para</strong> mayor comodidad.</p></td>
-<td>2</td>
-<td>Brayan Gamboa</td>
-<td>To review</td>
-</tr>
-<tr>
-<td style="text-align: center;">US12</td>
-<td style="text-align: center;">Ver estado de dispositivos</td>
-<td>05</td>
-<td><p><strong>Como</strong> usuario, </p>
-<p><strong>Quiero</strong> ver rápidamente qué dispositivos están
-activos/desactivados en mi hogar</p>
-<p><strong>Para</strong> tener un resumen del estado actual.</p></td>
-<td>4</td>
-<td>Harold Elías</td>
-<td>To review</td>
-</tr>
-<tr>
-<td style="text-align: center;">US14</td>
-<td style="text-align: center;">Revocar acceso a un usuario
-invitado</td>
-<td>06</td>
-<td><p><strong>Como</strong> administrador del hogar, </p>
-<p><strong>Quiero</strong> retirar permisos a usuarios invitados cuando
-ya no los necesiten</p>
-<p><strong>Para</strong> mantener la seguridad de mi hogar.</p></td>
-<td>2</td>
-<td>Rodrigo Salvador</td>
-<td>To review</td>
-</tr>
-</tbody>
+
+
+|Team Members|Github Usernames|Frontend|LandingPage|Figma|Corrección de informe|Informe|
+| - | :- | - | - | - | :- | - |
+|Elías Sanchez, Harold MigueL|HamesEl|C|C|C|L|C|
+
+
+
+|López Huamán, Rodrigo Adrián|RodrLH|L|L|C|L|L|
+| :- | - | - | - | - | - | - |
+|Meneses Arevalo, Victor Manuel|vrokerev|C|C|L|L|C|
+|Gamboa Delgado, Brayan Stiven|GamboaBrayan|C|C|C|L|C|
+|Salvador Rodríguez, Rodrigo Jesús|Rodrigojsr12|C|C|C|L|C|
+
+3. **Sprint Backlog 1**
+
+
+
+<table><tr><th colspan="2" rowspan="2" valign="top">SPRINT</th><th colspan="5">SPRINT 1</th></tr>
+<tr><td colspan="5">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">User Story ID</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">id</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Tiemp o (horas)</td><td colspan="1" valign="top">Assigne d to</td><td colspan="1">Status (to-do/ in process / To review/ done</td></tr>
 </table>
 
-#### 6.2.1.4. Development Evidence for Sprint Review.
 
-A continuación, se presentan los commits realizados en el repositorio de
-la landing page, Página Web y el Documento en el Github.
 
-[<u>https://github.com/TechProtection/Documentation-IOT.git</u>](https://github.com/TechProtection/Documentation-IOT.git)
+|US0 1 |Contactar al equipo de soporte |0 1|<p>**Como** usuario de GeoEntry,  **Quiero** enviar un mensaje al equipo de soporte desde la app  </p><p>**Para** resolver problemas técnicos. </p>|3|Victor Meneses|Done|
+| :-: | - | - | :- | - | :- | - |
+|US0 7 |Ver historial de actividad |0 3|<p>**Como** usuario,  **Quiero** recibir alertas inmediatas si mi puerta principal queda abierta accidentalmente , </p><p>**Para** prevenir riesgos de seguridad. </p>|4|Rodrigo López|Done|
+|US2 0 |Redirecció n desde Landing Page a Login |0 8|**Como** usuario visitante de GeoEntry, **Quiero** hacer clic en el botón "Solicitar Demo" en la landing page **Para** ser redirigido a la página de login y acceder a la demo de la aplicación. |1|Rodrigo Salvador|Done|
 
-[<u>https://github.com/TechProtection/geontry-frontend.git</u>](https://github.com/TechProtection/geontry-frontend.git)
+4. **Development Evidence for Sprint Review.**
 
-[<u>https://github.com/TechProtection/geoentry-smart-hub-control.git</u>](https://github.com/TechProtection/geoentry-smart-hub-control.git)
+A continuación, se presentan los commits realizados en el repositorio de la landing page, Página Web y el Documento en el Github.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|----|----|----|----|----|----|
-| geoentry-smart-hub-control | main | 9c9a627 | Add hero image | Implement a hero image related to the product. | April 4 |
-| geoentry-smart-hub-control | main | 319996f | add netlify.toml | . | April 7 |
-| geoentry-smart-hub-control | main | d11f178 | Add GeoEntry buttons | Add two new buttons with GeoEntry styling. | April 9 |
-| geontry-frontend | main | 3a6887e | initial commit | . | May 9 |
-| Documentation-IOT | main | a6b8293 | docs: add cap 1 | add cap 1 | April 12 |
-| Documentation-IOT | main | be67b4e | fix table error | fix error | April 28 |
-| Documentation-IOT | main | 3df094d | Cambios C4 | Correcciones C4 | May 12 |
+[https://github.com/TechProtection/Documentation-IOT.git ](https://github.com/TechProtection/Documentation-IOT.git)[https://github.com/TechProtection/geontry-frontend.git ](https://github.com/TechProtection/geontry-frontend.git)<https://github.com/TechProtection/geoentry-smart-hub-control.git>
 
-#### 6.2.1.5. Testing Suite Evidence for Sprint Review.
 
-Para este Sprint N°1 no se realizaron pruebas para el RESTful API ni
-para el frontend. Solo se verificó el correcto funcionamiento del
-landing page desplegado.
 
-#### 6.2.1.6. Execution Evidence for Sprint Review
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| - | - | :- | - | :- | :- |
+|geoentry-smart- hub-control|main|9c9a627|Add hero image|Implement a hero image related to the product.|April 4|
+|geoentry-smart- hub-control|main|319996f|add netlify.toml|.|April 7|
+|geoentry-smart- hub-control|main|d11f178|Add GeoEntry buttons|Add two new buttons with GeoEntry styling.|April 9|
+|geontry-frontend|main|3a6887e|initial commit|.|May 9|
+|Documentation- IOT|main|a6b8293|docs: add cap 1|add cap 1|April 12|
+|Documentation- IOT|main|be67b4e|fix table error|fix error|April 28|
+|Documentation- IOT|main|3df094d|Cambios C4|Correcciones C4|May 12|
 
-En esta Sprint 1, el equipo desarrolló el Landing page como la primera
-versión del Frontend.
+5. **Testing Suite Evidence for Sprint Review.**
+
+Para este Sprint N°1 no se realizaron pruebas para el RESTful API ni para el frontend. Solo se verificó el correcto funcionamiento del landing page desplegado.
+
+6. **Execution Evidence for Sprint Review**
+
+En esta Sprint 1, el equipo desarrolló el Landing page como la primera versión del Frontend.
 
 **LandingPage**
 
-<img src="./assets/image1.png"
-style="width:5.90556in;height:3.07083in" />
+![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.001.jpeg)
 
 **FrontEnd**
 
-<img src="./assets/image2.png"
-style="width:5.90556in;height:3.03125in" />
+![ref1]
 
-#### 6.2.1.7. Services Documentation Evidence for Sprint Review.
+7. **Services Documentation Evidence for Sprint Review.**
 
-En este Sprint 1, los miembros de TechProtection se enfocaron netamente
-con el diseño y desarrollo de la Landing Page y la primera versión del
-Frontend, también con el despliegue visual del Landing Page con éxito.
+En este Sprint 1, los miembros de TechProtection se enfocaron netamente con el diseño y desarrollo de la Landing Page y la primera versión del Frontend, también con el despliegue visual del Landing Page con éxito.
 
-#### 6.2.1.8. Software Deployment Evidence for Sprint Review.
+8. **Software Deployment Evidence for Sprint Review.**
 
-El equipo ha desplegado de forma exitosa el Landing Page, donde se
-muestra una página con diseño y colores Soft para la vista del usuario e
-información relevante.
+El equipo ha desplegado de forma exitosa el Landing Page, donde se muestra una página con diseño y colores Soft para la vista del usuario e información relevante.
 
 Landing Page:
 
-[<u>https://geoentry.netlify.app/</u>](https://geoentry.netlify.app/)
+[https://geoentry-landing.netlify.app/ ](https://geoentry-landing.netlify.app/)
 
-<img src="./assets/image3.png"
-style="width:5.90556in;height:2.97222in" />
+![ref2]
 
-#### 6.2.1.9. Team Collaboration Insights during Sprint.
+FrontEnd: <https://geoentry-site.netlify.app/>
 
-Aquí se muestra la colaboración del equipo y ramas dentro del proyecto: 
+![ref1]
 
-<img src="./assets/image4.jpeg"
-style="width:5.90556in;height:3.01181in" />
+9. **Team Collaboration Insights during Sprint.**
+
+Aquí se muestra la colaboración del equipo y ramas dentro del proyecto: 
+
+![ref3]
+
+
+
+|Sprint #|Sprint 2|
+| - | - |
+|Sprint Planning Background||
+|Date|16 de Junio del 2025|
+|Time|8 horas|
+|Location|Modalidad remota por Discord|
+|Prepared By|TechProtection|
+|Attendees (to planning meeting)|Todos los miembros|
+|Sprint 1 Review Summary|Reunión de integrantes del grupo para delegar tareas, tanto del Backend, Edge Api, Web App, Mobile App  e informe.|
+|Sprint 2 Retrospective Summary|Mejorar comunicación y tiempo de reuniones.|
+|Sprint Goal & User Stories|En este sprint se plantea realizar la primera versión de nuestro sistema como el Backend, Edge Api, Mobile App y Web App, así como completar el informe.|
+|Sprint 2 Velocity|15|
+|Sum of Story Points|18|
+
+
+
+|Team Members|Github Usernames|REST API|Frontend|Edge - API|Corrección de informe|Mobile Application|Informe|
+| :- | :- | :- | - | :- | :- | :- | - |
+|<p>Elías Sanchez, Harold </p><p>MigueL</p>|HamesEl|C|C|L|L|L|C|
+|López Huamán, Rodrigo Adrián|RodrLH|L|L|C|C|C|C|
+|Meneses Arevalo, Victor Manuel|vrokerev|C|C|C|L|C|L|
+|Gamboa Delgado, Brayan Stiven|Gamboa Bryan|L|C|C|L|C|C|
+|Salvador Rodríguez, Rodrigo Jesús|Rodrigojsr12|C|C|C|L|C|L|
+
+
+
+<table><tr><th colspan="2" rowspan="2" valign="top">SPRINT</th><th colspan="5">SPRINT 2</th></tr>
+<tr><td colspan="5">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">User Story ID</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">id</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Tiemp o (horas )</td><td colspan="1" valign="top">Assigne d to</td><td colspan="1">Status (to-do/ in proces s/ To review / done</td></tr>
+<tr><td colspan="1" valign="top">US0 6</td><td colspan="1" valign="top">Invitar a un familiar </td><td colspan="1" valign="top">0 2</td><td colspan="1" valign="top"><b>Como</b> administrador, <b>quiero</b> compartir acceso temporal con un familiar <b>para</b> que controle dispositivos específicos. </td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Victor Menese s</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US0 9 </td><td colspan="1" valign="top">Cambiar idioma de la app </td><td colspan="1" valign="top">0 3</td><td colspan="1" valign="top"><b>Como</b> usuario,  <b>Quiero</b> seleccionar el idioma de la interfaz (español/inglés), <b>Para</b> mayor comodidad. </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Brayan Gambo a</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+
+
+|US1 2 |Ver estado de dispositivos |0 4|**Como** usuario,  **Quiero** ver rápidamente qué dispositivos están activos/desactivad os en mi hogar **Para** tener un resumen del estado actual. |4|Harold Elías|Done|
+| :-: | :-: | - | :- | - | :- | - |
+|US1 4 |Revocar acceso a un usuario invitado |0 5|<p>**Como** administrador del hogar,  </p><p>**Quiero** retirar permisos a usuarios invitados cuando ya no los necesiten </p><p>**Para** mantener la seguridad de mi hogar. </p>|2|Rodrigo Salvado r|Done|
+|US1 1 |Editar avatar de perfil |0 6|**Como** usuario,  **Quiero** cambiar mi foto de perfil en "Mi Perfil" **Para** personalizar mi cuenta. |2|Rodrigo Lopez|Done|
+
+
+
+|US1 8 |Ver preguntas frecuentes (FAQs) |0 7|<p>**Como** usuario,  **Quiero** acceder a una sección de preguntas frecuentes dentro de la app </p><p>**Para** resolver dudas básicas sin contactar al soporte. </p>|2|Victor Menese s|Done|
+| :-: | :-: | - | :- | - | :- | - |
+|US2 1 |Activación geolocaliza da del hogar inteligente |0 8|**Como** usuario de GeoEntry, **Quiero** que mi hogar detecte automáticamente cuando estoy cerca (mediante geolocalización) **Para** que se activen los dispositivos configurados sin necesidad de acciones manuales. |5|Harold Elías|Done|
+
+A continuación, se presentan los commits realizados en el repositorio de la landing page, Página Web y el Documento en el Github.
+
+[https://github.com/TechProtection/geoentry-edge-api ](https://github.com/TechProtection/geoentry-edge-api)[https://github.com/TechProtection/geoentry-rest-api ](https://github.com/TechProtection/geoentry-rest-api)[https://github.com/TechProtection/geoentry-mobile ](https://github.com/TechProtection/geoentry-mobile)[https://github.com/TechProtection/TechProtect-backend ](https://github.com/TechProtection/TechProtect-backend)<https://github.com/TechProtection/geontry-frontend>
+
+
+
+|Reposit ory|Bran ch|Com mit Id|Commit Message|Commit Message Body|Commit ed on (Date)|
+| :- | :- | :- | - | :- | :- |
+|geoentry- edge-api|master|937f4f3|feat: fix created\_at in db|fix created\_at in db|June 18|
+
+
+
+|geoentry- edge-api|master|261e328|feat: fix db|fix db|June 19|
+| :- | - | - | - | - | - |
+|geoentry- edge-api|master|a7a24eb|chore; config for render deployment|config for render deployment|June 19|
+|geoentry- edge-api|master|4f6c8d7|chore: add swagger-ui|add swagger-ui|June 19|
+|geoentry- edge-api|master|bab9f39|fix: fix backend url error|fix backend url error|June 19|
+|geoentry- edge-api|master|d882cdd|fix: fix host url error|fix host url error|June 19|
+|geoentry- edge-api|master|56301b5|fix: fix backend url|fix backend url|June 19|
+|geoentry- edge-api|master|6868344|fix: fix backend url|fix backend url|June 19|
+|geoentry- edge-api|master|6198264|chore: delete schemas|delete schemas|June 19|
+|geoentry- rest-api|main|b4bf5c6|feat: fix cors errors|fix cors errors|June 16|
+|geoentry- rest-api|main|502d3f8|feat: update tables|update tables|June 17|
+|geoentry- rest-api|main|430aba8|fix: CORS errors|CORS errors|June 17|
+|geoentry- rest-api|main|6ef1bac|fix: fix baseurl error|fix baseurl error|June 17|
+|geoentry- rest-api|main|0db248b|fix: remove local server|remove local server|June 17|
+|geoentry- rest-api|main|529f7d1|chore: update cors|update cors|June 19|
+|geoentry- rest-api|main|cdbc4da|fix: fix errors|fix errors|June 19|
+|geoentry- rest-api|main|ccfd9fb|fix: fix errors|fix errors|June 19|
+|geometry- mobile|main|c81bdfb|feat: change api url|change api url|June 17|
+|geometry- mobile|main|65f66d8|merge: pull request from TechProtection/feat/lo cation|merge: pull request from TechProtection/feat/lo cation|June 17|
+
+
+
+|geometry- mobile|main|559df2f|eas config|eas config|June 14|
+| :- | - | - | - | - | - |
+|geometry- mobile|main|2dcc9d2|api integration|api integration|June 8|
+|geometry- mobile|main|464557c|feat: location set|location set|June 8|
+|geometry- mobile|main|619821c|initial commit: Geometry Mobile app|Geometry Mobile app|June 8|
+|geometry- mobile|main|746fd43|Created a new expo app|Created a new expo app|May 27|
+|TechProtec t-backend|main|ed30f4b|Backend|Backend|June 15|
+|geometry- frontend|main|46d6f52|feat: update types|update types|June 16|
+|geometry- frontend|main|7ed8bf7|feat: updating load states|updating load states|June 17|
+|geometry- frontend|main|c90ae91|feat: add password viewer|add password |June 17|
+
+Para este Sprint N°2 se realizaron pruebas para el RESTful API y para el Edge Api.
+
+En este Sprint 2, el equipo desarrolló el frontend en su segunda versión, el Mobile Application  en su primera versión, primera versión del Edge Api y primera versión del Rest Api.
+
+**FrontEnd**
+
+![ref1]
+
+**Mobile App**
+
+![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.005.jpeg)
+
+**Edge Api**
+
+![ref4]
+
+**Rest Api**
+
+![ref5]
+
+En este Sprint 2, los miembros de TechProtection se enfocaron en el desarrollo de una segunda versión del FrontEnd Web Application, primera versión del Rest Api y Edge Api además de la primera versión de la Mobile Application.
+
+El equipo ha desplegado de forma exitosa el Landing Page, el Frontend, el Rest Api y el Edge Api, en las cuales se evidencia en las siguientes capturas, además de adjuntar sus respectivos links en donde se puede visualizar de mejor manera el desplegado de cada uno.
+
+Landing Page: [https://geoentry-landing.netlify.app/ ](https://geoentry-landing.netlify.app/)
+
+![ref2]
+
+FrontEnd: <https://geoentry-site.netlify.app/>
+
+![ref1]
+
+![ref6]
+
+![ref7]
+
+![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.010.png)
+
+Aquí se muestra la colaboración del equipo y ramas dentro del proyecto: 
+
+![ref3]
+
+**Segmento objetivo: Usuarios residenciales (hogares inteligentes)** **Preguntas generales:** 
+
+1. ¿Cuál es tu nombre? 
+1. ¿Cuántos años tienes? 
+3. ¿Dónde resides actualmente (distrito y ciudad)? 
+3. ¿Vives en casa, departamento u otro tipo de vivienda? 
+
+**Preguntas de validación:** 
+
+1. ¿Te resultó fácil entender cómo funciona GeoEntry desde el primer uso? 
+1. ¿Pudiste configurar sin problemas la automatización de funciones como luces, cerradura 
+   1. climatización? 
+1. ¿La activación automática al llegar a casa funcionó como esperabas? 
+1. ¿Te pareció útil poder personalizar las rutinas de bienvenida según tus preferencias? 
+1. ¿Sientes que la app te ahorra tiempo o esfuerzo en tu día a día? 
+1. ¿Qué tan clara fue la navegación dentro de la aplicación? 
+1. ¿Tuviste algún problema con la conexión entre la app y tus dispositivos inteligentes? 
+1. ¿Consideras que el uso de la app ha mejorado tu experiencia al llegar a casa? 
+1. ¿Confías en el sistema desde el punto de vista de la seguridad digital y física? 
+1. ¿Qué funcionalidades te gustaría agregar para mejorar tu experiencia con GeoEntry? 
+1. ¿Te parece útil que la app esté disponible en tu celular? ¿La usas con frecuencia? 
+
+**Segmento objetivo: Negocios que buscan experiencias de bienvenida automatizadas** 
+
+**Preguntas generales:** 
+
+1. ¿Cuál es tu nombre? 
+1. ¿Cuántos años tienes? 
+1. ¿Dónde resides actualmente (distrito y ciudad)? 
+1. ¿Cómo se llama tu local/oficina/empresa? 
+
+Preguntas de validación:
+
+1. ¿Fue sencillo configurar la bienvenida automatizada en tu local/oficina usando GeoEntry? 
+1. ¿Qué funciones serían las que más quisieras automatizar (luces, clima, cortinas, fragancias, etc.) y cómo fue la experiencia? 
+1. ¿Crees que GeoEntry aporta a la imagen o experiencia que tu negocio brinda a los clientes o visitantes? 
+1. ¿La geolocalización funcionó correctamente para activar las funciones al detectar al personal autorizado o clientes? 
+1. ¿La aplicación te facilitó la gestión remota del ambiente del local (horarios, personalización de rutinas, etc.)? 
+1. ¿Sientes que esta solución ha optimizado recursos como energía o tiempo en tu negocio? 
+1. ¿Tuviste alguna dificultad técnica al integrar GeoEntry con los dispositivos del local? 
+1. ¿Consideras que el sistema es seguro y confiable para un entorno comercial? 
+1. ¿Qué comentarios has recibido de tus clientes o equipo sobre la experiencia de entrada automatizada? 
+1. ¿Qué funciones adicionales te gustaría que tenga GeoEntry para tu tipo de negocio? 
+
+**Segmento 1: Usuarios residenciales (hogares inteligentes)** **Entrevista 1**
+
+- Entrevistado: Alejandro Barturen 
+- Edad: 21 
+- Residencia: San Miguel 
+- Enlace del video:[ https://upcedupe-my.sharepoint.com/ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/ETQyG1cwfBdLjwXhC0JuRhMBMoGw1duNmEkrHdKDHl1gAQ?e=uOphUg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.011.png)
+
+Alejandro comentó que la aplicación le pareció intuitiva y sencilla de usar desde el primer momento. Destacó la utilidad de las funciones automatizadas al llegar a casa, sobre todo por la comodidad que representa en su rutina diaria. No reportó dificultades significativas en la configuración inicial, aunque mencionó que le gustaría contar con más opciones de personalización. En general, considera que GeoEntry mejora su experiencia al ingresar a su hogar y le brinda una sensación de eficiencia y control.
+
+**Entrevista 2** 
+
+- Entrevistado: Harold Mayta 
+- Edad: 20 
+- Residencia: Lince 
+- Enlace del video:[ https://upcedupe-my.sharepoint.com/ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EZISiSe_CJNBkoDW1XE-xTYBi03wqn5ZFkYu7B-nYkxinQ?e=5zXKuv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.012.png)
+
+Harold indicó que la navegación de GeoEntry fue clara y la integración con los dispositivos inteligentes de su hogar se realizó sin mayores inconvenientes. Valoró especialmente la activación automática al llegar, ya que le permite ahorrar tiempo y evita acciones manuales repetitivas. También destacó que la app mejora la percepción de seguridad y le resulta conveniente tener acceso desde su smartphone. Sugirió incorporar funciones adicionales para monitorear el estado del hogar en tiempo real.
+
+**Segmento 2: Negocios que buscan experiencias de bienvenida automatizadas** **Entrevista 1** 
+
+- Entrevistado: Jenny Vasquez 
+- Edad: 24 
+- Residencia: Lince 
+- Nombre del negocio: Maria's Salon 
+- Enlace del video:[ https://upcedupe-my.sharepoint.com/ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EVfdG5TgwCpHjvDu2e7c4DkBH5w0YrjjzzmbGq_wD81UjA?e=m5BXds&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.013.jpeg)
+
+Jenny consideró que la configuración de GeoEntry fue bastante sencilla para su negocio. Logró automatizar luces y música ambiental, lo que generó una atmósfera más acogedora para sus clientas. Señaló que esta funcionalidad contribuye positivamente a la imagen del local. Si bien no reportó problemas técnicos, expresó interés en poder integrar más dispositivos a futuro, como aromatizadores o pantallas de bienvenida. Afirmó que la herramienta aporta valor y profesionalismo a su negocio.
+
+**Entrevista 2** 
+
+- Entrevistado: Viviana Canal 
+- Edad: 20 
+- Residencia: Breña 
+- Nombre del negocio: Hotel Alborada 
+- Enlace del video:[ https://upcedupe-my.sharepoint.com/ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EewdXOEbAiNDoYdjHPD6KygBWFxKTkpDdhKDI_dzne7YIA?e=V1pXbE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.014.jpeg)
+
+Viviana encontró que GeoEntry le facilitó la gestión del ambiente en su hotel. Comentó que la automatización del encendido de luces y el ajuste del clima mejora la experiencia del cliente desde su ingreso. La geolocalización funcionó adecuadamente para detectar al personal autorizado, lo cual ayudó a optimizar procesos. Aunque la experiencia fue positiva, recomendó que se añadan funciones de control remoto más detalladas y reportes de uso. En general, ve la solución como una aliada para ofrecer un servicio más moderno y eficiente.
+
+**6.3.3. Evaluaciones según heurísticas**
+
+Con base en las opiniones recopiladas durante las entrevistas realizadas a usuarios residenciales y representantes de negocios que implementan automatización de bienvenida, se puede concluir lo siguiente:
+
+- La aplicación GeoEntry fue percibida como **intuitiva y fácil de usar**, incluso desde el primer contacto. 
+- **La navegación dentro de la app es clara y fluida**, permitiendo al usuario configurar funciones sin dificultad. 
+- Las vistas de la aplicación presentan la **información relevante de manera organizada**, facilitando la personalización de rutinas tanto en hogares como en negocios. 
+- GeoEntry aporta **valor práctico y emocional**: para los hogares, mejora la experiencia de llegada con comodidad y seguridad; para los negocios, refuerza la imagen profesional y la eficiencia operativa. 
+- La información que se presenta en pantalla se considera **comprensible, completa y útil** para la toma de decisiones respecto al ambiente del espacio automatizado. 
+- Los participantes expresaron una actitud positiva hacia el uso frecuente de la aplicación y **estarían dispuestos a adoptarla como parte de su rutina diaria o como herramienta de mejora para su negocio**. 
+
+Para este entregable es necesario la presentación del video About The Product .
+
+![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.015.jpeg)
+
+Link del Video:[ https://youtu.be/7qB-bXc-_CU](https://youtu.be/7qB-bXc-_CU)
+
+[ref1]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.002.jpeg
+[ref2]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.003.jpeg
+[ref3]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.004.jpeg
+[ref4]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.006.png
+[ref5]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.007.png
+[ref6]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.008.png
+[ref7]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.009.png
 
 
 **Conclusiones** 
