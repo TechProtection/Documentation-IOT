@@ -3106,16 +3106,31 @@ GeoEntry se consolida como una propuesta de alto valor en un mercado en expansi�
 - Ramírez, L. (2023, 26 de enero). Lean UX: ¿Qué es, principios, y cómo implementarlo? IEBS Business School. Recuperado de [https://www.iebschool.com/hub/lean-ux-que-es-principios-como-implementarlo- analitica-usabilidad/ ](https://www.iebschool.com/hub/lean-ux-que-es-principios-como-implementarlo-analitica-usabilidad/) 
 - Statista. (2023). Global smart home market revenue 2016–2022. Recuperado de [https://www.statista.com/statistics/682204/global-smart-home-market-size/ ](https://www.statista.com/statistics/682204/global-smart-home-market-size/)
 
-**Anexos** 
+# Anexos
 
-LEAN UX CANVAS [https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a7031886527872ab596 b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633 ](https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a7031886527872ab596b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633) 
+## LEAN UX CANVAS
+[https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a7031886527872ab596b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633](https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a7031886527872ab596b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633)
 
-EVENT STORMING: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=1 4 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14)    
+## EVENT STORMING
+[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14)
 
-CANDIDATE CONTEXT DISCOVERY: 
+## CANDIDATE CONTEXT DISCOVERY
+[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=14](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=14)
 
-[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=1 4 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=14)  
+## DOMAIN MESSAGE FLOW MODELING
+[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=14](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=14)
 
-DOMAIN MESSAGE FLOW MODELING: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=1 4 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=14)   
+## BOUNDED CONTEXT CANVASES
+[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=14](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=14)
 
-BOUNDED CONTEXT CANVASES: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=1 4 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=14)  
+## LANDING PAGE GEOENTRY
+[https://geoentry-landing.netlify.app/](https://geoentry-landing.netlify.app/)
+
+## FRONTEND WEB APPLICATION GEOENTRY
+[https://geoentry-site.netlify.app/](https://geoentry-site.netlify.app/)
+
+## REST API
+[https://geoentry-rest-api.onrender.com/swagger-ui](https://geoentry-rest-api.onrender.com/swagger-ui)
+
+## EDGE API
+[https://geoentry-edge-api.onrender.com/apidocs/](https://geoentry-edge-api.onrender.com/apidocs/)
