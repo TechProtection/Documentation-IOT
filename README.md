@@ -1,25 +1,35 @@
-**Universidad Peruana de Ciencias Aplicadas  ![](Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.001.png)**
+**Universidad Peruana de Ciencias Aplicadas**
 
-![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.002.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.002.png)
 
 **INFORME DE TRABAJO FINAL**  
 
-Desarrollo de Soluciones IOT <br/>
-NRC: 2968 <br/>
-Carrera de Ingeniería de Software 7to ciclo<br/>
-Docente: Marco Antonio Leon Baca <br/>
+` `**Desarrollo de Soluciones IOT – NRC: 2968  Carrera de Ingeniería de Software – 7to ciclo  Docente: Marco Antonio Leon Baca** 
 
 **Nombre del startup: TechProtection  Nombre del producto: GeoEntry** 
 
-| Código | Apellidos y Nombres |
-| --- | --- |
-| U202212684 | Elías Sanchez, Harold Miguel |
-| U202212338 | López Huamán, Rodrigo Adrián |
-| U202212191 | Meneses Arevalo, Victor Manuel |
-| U202112655 | Gamboa Delgado, Brayan Stiven |
-| U202213646 | Salvador Rodríguez, Rodrigo Jesús |
 
-**Junio 2025**  
+
+|||
+| :- | :- |
+|Código |Apellidos y Nombres  |
+|||
+|||
+|` `U202212684 |Elías Sanchez, Harold Miguel |
+|||
+|||
+|U202212338  |López Huamán, Rodrigo Adrián  |
+|||
+|||
+|` `U202212191 |Meneses Arevalo, Victor Manuel |
+|||
+|||
+|U202112655  |Gamboa Delgado, Brayan Stiven  |
+|||
+|||
+|U202213646  |Salvador Rodríguez, Rodrigo Jesús  |
+|||
+` `**Junio 2025**  
 
 **Registro de Versiones del Informe**  
 
@@ -30,199 +40,244 @@ Docente: Marco Antonio Leon Baca <br/>
 |1\.1  |10/04/2025  |TechProtection |Capítulo I  |
 |1\.2  |13/04/2025  |TechProtection |Capítulo II  |
 |1\.3  |17/04/2025  |TechProtection |Capítulo III  |
-|1\.4  |21/04/2025  |TechProtection |Capítulo IV  |
-|2\.1  |08/05/2025  |TechProtection |Capítulo V  |
-|2\.2  |13/05/2025  |TechProtection |Capítulo VI  |
-|3\.1  |06/06/2025  |TechProtection |Capítulo VI  |
-|3\.2  |18/06/2025  |TechProtection |Capítulo VI  |
+|1\.4  |21/04/2025  |TechProtection |Capítulo IV |
+|2\.1 |08/05/2025 |TechProtection |Capítulo V |
+|2\.2 |13/05/2025 |TechProtection |Capítulo VI |
+|3\.1 |06/06/2025 |TechProtection |Capítulo VI |
+|3\.2 |18/06/2025 |TechProtection |Capítulo VI |
+|4\.1 |03/07/2025 |TechProtection |Capítulo VI |
 
-# Contenido
+**Contenido**  
 
-## Tabla de contenidos
+Tabla de contenidos  Student Outcome  **Capítulo I: Introducción**  
 
-### Student Outcome
+1. Startup Profile 
+   1. Descripción de la Startup 
+   1. Perfiles de integrantes del equipo 
+1. Solution Profile 
+1. Antecedentes y problemática 
+1. Lean UX Process. 
+   1. Lean UX Problem Statements. 
+   1. Lean UX Assumptions. 
+   1. Lean UX Hypothesis Statements. 
+   1. Lean UX Canvas. 
 
-## Capítulo I: Introducción
+      3. Segmentos objetivo. 
 
-### 1.1. Startup Profile
-- 1.1.1. Descripción de la Startup
-- 1.1.2. Perfiles de integrantes del equipo
+**Capítulo II: Requirements Elicitation & Analysis**  
 
-### 1.2. Solution Profile
-- 1.2.1 Antecedentes y problemática
-- 1.2.2 Lean UX Process.
-  - 1.2.2.1. Lean UX Problem Statements.
-  - 1.2.2.2. Lean UX Assumptions.
-  - 1.2.2.3. Lean UX Hypothesis Statements.
-  - 1.2.2.4. Lean UX Canvas.
+1. Competidores. 
+   1. Análisis competitivo. 
+   1. Estrategias y tácticas frente a competidores. 
+1. Entrevistas. 
+   1. Diseño de entrevistas. 
+   1. Registro de entrevistas. 
+   1. Análisis de entrevistas. 
+1. Needfinding. 
+   1. User Personas. 
+   1. User Task Matrix. 
+   1. User Journey Mapping. 
+   1. Empathy Mapping. 
+   1. As-is Scenario Mapping. 
+1. Ubiquitous Language. 
 
-### 1.3. Segmentos objetivo.
+**Capítulo III: Requirements Specification**  
 
-## Capítulo II: Requirements Elicitation & Analysis
+1. To-Be Scenario Mapping. 
+1. User Stories. 
+1. Impact Mapping. 
+1. Product Backlog.  
 
-### 2.1. Competidores.
-- 2.1.1. Análisis competitivo.
-- 2.1.2. Estrategias y tácticas frente a competidores.
+**Capítulo IV: Solution Software Design**  
 
-### 2.2. Entrevistas.
-- 2.2.1. Diseño de entrevistas.
-- 2.2.2. Registro de entrevistas.
-- 2.2.3. Análisis de entrevistas.
+1. Strategic-Level Domain-Driven Design. 
+1. EventStorming. 
+   1. Candidate Context Discovery. 
+   1. Domain Message Flows Modeling. 
+   1. Bounded Context Canvases. 
+1. Context Mapping. 
+1. Software Architecture. 
+1. Software Architecture System Landscape Diagram. 
+1. Software Architecture Context Level Diagrams. 
+2. Software Architecture Container Level Diagrams. 
+2. Software Architecture Deployment Diagrams. 
+2. Tactical-Level Domain-Driven Design 
+1. Bounded Context: Device  
+1. Domain Layer.  
+1. Interface Layer.  
+1. Application Layer.  
+1. Infrastructure Layer.  
+1. Bounded Context Software Architecture Component Level Diagrams.  
+1. Bounded Context Software Architecture Code Level Diagrams.  
+1. Bounded Context Domain Layer Class Diagrams.  
+1. Bounded Context Database Design Diagram  
+2. Bounded Context: Security  
+1. Domain Layer.  
+1. Interface Layer.  
+1. Application Layer.  
+1. Infrastructure Layer.  
+1. Bounded Context Software Architecture Component Level Diagrams.  
+1. Bounded Context Software Architecture Code Level Diagrams.  
+1. Bounded Context Domain Layer Class Diagrams.  
+2. Bounded Context Database Design Diagram  
 
-### 2.3. Needfinding.
-- 2.3.1. User Personas.
-- 2.3.2. User Task Matrix.
-- 2.3.3. User Journey Mapping.
-- 2.3.4. Empathy Mapping.
-- 2.3.5. As-is Scenario Mapping.
+   3. Bounded Context: Climate Control  
+1. Domain Layer.  
+1. Interface Layer.  
+1. Application Layer.  
+1. Infrastructure Layer.  
+1. Bounded Context Software Architecture Component Level Diagrams.  
+1. Bounded Context Software Architecture Code Level Diagrams.  
+1. Bounded Context Domain Layer Class Diagrams.  
+1. Bounded Context Database Design Diagram  
+4. Bounded Context: User  
+1. Domain Layer.  
+1. Interface Layer.  
+1. Application Layer.  
+1. Infrastructure Layer.  
+1. Bounded Context Software Architecture Component Level Diagrams.  
+1. Bounded Context Software Architecture Code Level Diagrams.  
+1. Bounded Context Domain Layer Class Diagrams.  
+1. Bounded Context Database Design Diagram  
+5. Bounded Context: Notification  
+1. Domain Layer.  
+1. Interface Layer.  
+1. Application Layer.  
+1. Infrastructure Layer.  
+1. Bounded Context Software Architecture Component Level Diagrams.  
+6. Bounded Context Software Architecture Code Level Diagrams.  
+1. Bounded Context Domain Layer Class Diagrams.  
+1. Bounded Context Database Design Diagram 
 
-### 2.4. Ubiquitous Language.
+Capítulo V: Solution UI/UX Design  
 
-## Capítulo III: Requirements Specification
+1. Style Guidelines.  
+   1. General Style Guidelines.  
+   1. Web, Mobile and IoT Style Guidelines.  
+1. Information Architecture.  
+   1. Organization Systems.  
+   1. Labeling Systems.  
+   1. SEO Tags and Meta Tags  
+   1. Searching Systems.  
+   1. Navigation Systems.  
+1. Landing Page UI Design.  
+   1. Landing Page Wireframe.  
+   1. Landing Page Mock-up.  
+1. Applications UX/UI Design.  
+1. Applications Wireframes.  
+1. Applications Wireflow Diagrams.  
+2. Applications Mock-ups.  
+2. Applications User Flow Diagrams.  
+5. Applications Prototyping.  
 
-### 3.1. To-Be Scenario Mapping.
-### 3.2. User Stories.
-### 3.3. Impact Mapping.
-### 3.4. Product Backlog.
+Capítulo VI: Product Implementation, Validation & Deployment   
 
-## Capítulo IV: Solution Software Design
+1. Software Configuration Management.  
+   1. Software Development Environment Configuration.  
+   1. Source Code Management.  
+   1. Source Code Style Guide & Conventions.  
+   1. Software Deployment Configuration.  
+1. Landing Page, Services & Applications Implementation.  
+1. Sprint 1 
+   1. Sprint Planning 1. 
+   1. Aspect Leaders and Collaborators. 
+   1. Sprint Backlog 1. 
+   1. Development Evidence for Sprint Review.  
+   1. Testing Suite Evidence for Sprint Review. 
+   1. Execution Evidence for Sprint Review.  
+   1. Services Documentation Evidence for Sprint Review.  
+   1. Software Deployment Evidence for Sprint Review.  
+   1. Team Collaboration Insights during Sprint.  
+1. Sprint 2  
+1. Sprint Planning 2.  
+1. Aspect Leaders and Collaborators.  
+3. Sprint Backlog 2.  
+3. Development Evidence for Sprint Review.  
+3. Testing Suite Evidence for Sprint Review. 
+3. Execution Evidence for Sprint Review.  
+3. Services Documentation Evidence for Sprint Review.  
+3. Software Deployment Evidence for Sprint Review 
+3. Team Collaboration Insights during Sprint.  
+3. Sprint 3 
+1. Sprint Planning 3.  
+1. Aspect Leaders and Collaborators.  
+1. Sprint Backlog 2.  
+1. Development Evidence for Sprint Review.  
+1. Testing Suite Evidence for Sprint Review. 
+1. Execution Evidence for Sprint Review.  
+1. Services Documentation Evidence for Sprint Review.  
+1. Software Deployment Evidence for Sprint Review 
+1. Team Collaboration Insights during Sprint.  
+3. Validation Interviews 
+1. Diseño de Entrevistas 
+1. Registro de Entrevistas 
+1. Evaluaciones según heurísticas 
 
-### 4.1. Strategic-Level Domain-Driven Design.
-- 4.1.1. EventStorming.
-  - 4.1.1.1 Candidate Context Discovery.
-  - 4.1.1.2 Domain Message Flows Modeling.
-  - 4.1.1.3 Bounded Context Canvases.
-- 4.1.2. Context Mapping.
-- 4.1.3. Software Architecture.
-  - 4.1.3.1. Software Architecture System Landscape Diagram.
-  - 4.1.3.2. Software Architecture Context Level Diagrams.
-  - 4.1.3.2. Software Architecture Container Level Diagrams.
-  - 4.1.3.3. Software Architecture Deployment Diagrams.
+   4. Video About-the-Product 
 
-### 4.2. Tactical-Level Domain-Driven Design
-
-#### 4.2.1. Bounded Context: Device
-- 4.2.1.1. Domain Layer.
-- 4.2.1.2. Interface Layer.
-- 4.2.1.3. Application Layer.
-- 4.2.1.4. Infrastructure Layer.
-- 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams.
-- 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams.
-  - 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams.
-  - 4.2.1.6.2. Bounded Context Database Design Diagram
-
-#### 4.2.2. Bounded Context: Security
-- 4.2.2.1. Domain Layer.
-- 4.2.2.2. Interface Layer.
-- 4.2.2.3. Application Layer.
-- 4.2.2.4. Infrastructure Layer.
-- 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams.
-- 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams.
-  - 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams.
-  - 4.2.2.6.2. Bounded Context Database Design Diagram
-
-#### 4.2.3. Bounded Context: Climate Control
-- 4.2.3.1. Domain Layer.
-- 4.2.3.2. Interface Layer.
-- 4.2.3.3. Application Layer.
-- 4.2.3.4. Infrastructure Layer.
-- 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams.
-- 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams.
-  - 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams.
-  - 4.2.3.6.2. Bounded Context Database Design Diagram
-
-#### 4.2.4. Bounded Context: User
-- 4.2.4.1. Domain Layer.
-- 4.2.4.2. Interface Layer.
-- 4.2.4.3. Application Layer.
-- 4.2.4.4. Infrastructure Layer.
-- 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams.
-- 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams.
-  - 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams.
-  - 4.2.4.6.2. Bounded Context Database Design Diagram
-
-#### 4.2.5. Bounded Context: Notification
-- 4.2.5.1. Domain Layer.
-- 4.2.5.2. Interface Layer.
-- 4.2.5.3. Application Layer.
-- 4.2.5.4. Infrastructure Layer.
-- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams.
-- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams.
-  - 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams.
-  - 4.2.5.6.2. Bounded Context Database Design Diagram
-
-## Capítulo V: Solution UI/UX Design
-
-### 5.1. Style Guidelines.
-- 5.1.1. General Style Guidelines.
-- 5.1.2. Web, Mobile and IoT Style Guidelines.
-
-### 5.2. Information Architecture.
-- 5.2.1. Organization Systems.
-- 5.2.2. Labeling Systems.
-- 5.2.3. SEO Tags and Meta Tags
-- 5.2.4. Searching Systems.
-- 5.2.5. Navigation Systems.
-
-### 5.3. Landing Page UI Design.
-- 5.3.1. Landing Page Wireframe.
-- 5.3.2. Landing Page Mock-up.
-
-### 5.4. Applications UX/UI Design.
-- 5.4.1. Applications Wireframes.
-- 5.4.2. Applications Wireflow Diagrams.
-- 5.4.2. Applications Mock-ups.
-- 5.4.3. Applications User Flow Diagrams.
-
-### 5.5. Applications Prototyping.
-
-## Capítulo VI: Product Implementation, Validation & Deployment
-
-### 6.1. Software Configuration Management.
-- 6.1.1. Software Development Environment Configuration.
-- 6.1.2. Source Code Management.
-- 6.1.3. Source Code Style Guide & Conventions.
-- 6.1.4. Software Deployment Configuration.
-
-### 6.2. Landing Page, Services & Applications Implementation.
-
-#### 6.2.1. Sprint 1
-- 6.2.1.1. Sprint Planning 1.
-- 6.2.1.2. Aspect Leaders and Collaborators.
-- 6.2.1.3. Sprint Backlog 1.
-- 6.2.1.4. Development Evidence for Sprint Review.
-- 6.2.1.5. Testing Suite Evidence for Sprint Review.
-- 6.2.1.6. Execution Evidence for Sprint Review.
-- 6.2.1.7. Services Documentation Evidence for Sprint Review.
-- 6.2.1.8. Software Deployment Evidence for Sprint Review.
-- 6.2.1.9. Team Collaboration Insights during Sprint.
-
-#### 6.2.2. Sprint 2
-- 6.2.2.1. Sprint Planning 2.
-- 6.2.2.2. Aspect Leaders and Collaborators.
-- 6.2.2.3. Sprint Backlog 2.
-- 6.2.2.4. Development Evidence for Sprint Review.
-- 6.2.2.5. Testing Suite Evidence for Sprint Review.
-- 6.2.2.6. Execution Evidence for Sprint Review.
-- 6.2.2.7. Services Documentation Evidence for Sprint Review.
-- 6.2.2.8. Software Deployment Evidence for Sprint Review
-- 6.2.2.9. Team Collaboration Insights during Sprint.
-
-### 6.3. Validation Interviews
-- 6.3.1. Diseño de Entrevistas
-- 6.3.2. Registro de Entrevistas
-- 6.3.3. Evaluaciones según heurísticas
-
-### 6.4. Video About-the-Product
-
-### **Student Outcome**
-
-| **Criterio específico**                                                                                       | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Conclusiones** |
-|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                               | **Harold Miguel Elías Sanchez** TB1: En el desarrollo de *Strategic‑Level Domain‑Driven Design*, lideré sesiones de *EventStorming* donde impulsé la identificación colaborativa de contextos candidatos y flujos de mensajes, promoviendo una participación activa y equitativa del equipo para consolidar decisiones clave del dominio. <br>TP:En esta sección, participé activamente en la definición y estandarización de guías de estilo para asegurar consistencia visual y de interacción en las plataformas Web, Mobile e IoT. Propuse pautas para tipografía, colores y patrones de navegación, considerando principios de accesibilidad y usabilidad en cada plataforma.<br>**TB2**: Lideré la implementación del Edge API y la integración con sistemas embebidos, coordinando sesiones de pair programming para asegurar la comunicación efectiva entre dispositivos IoT y la plataforma central. Promoví decisiones técnicas colaborativas que optimizaron el rendimiento del edge computing, estableciendo protocolos de testing distribuido que validaron la funcionalidad en tiempo real. <br><br>**Victor Manuel Meneses Arévalo** TB1: En el capítulo *Requirements Elicitation & Analysis*, participé en el análisis de competidores y en el diseño y realización de entrevistas; contribuí con *User Personas*, *User Journey Mapping* y *Empathy Mapping*, fortaleciendo la comprensión de las necesidades de usuario.<br> TP: He demostrado mi capacidad para trabajar en equipo y proporcionar liderazgo de manera conjunta al participar activamente en el proceso de Elicitación y Análisis de Requisitos. A través de mi contribución en el análisis de competidores, el diseño y realización de entrevistas, y la creación de User Personas, User Journey Mapping y Empathy Mapping, influí en la comprensión profunda de las necesidades del usuario por parte del equipo, guiando la identificación de requisitos centrados en sus perspectivas.<br>**TB2**: Coordine el desarrollo de la aplicación móvil liderando la implementación de funcionalidades de monitoreo y control remoto. Facilité la integración colaborativa con las APIs REST, promoviendo sesiones de code review que aseguraron la calidad del código y la consistencia en la experiencia de usuario entre diferentes plataformas móviles. <br><br>**Brayan Stiven Gamboa Delgado** TB1: En *Software Architecture*, contribuí a la creación del *C4 Model* (Landscape, System Context, Containers y Deployment) para un entendimiento claro y compartido del sistema.<br>TP:Lideré la creación del C4 Model, guiando al equipo en la definición de los niveles Landscape, Context y Containers. Establecí sesiones de revisión para asegurar coherencia entre los diferentes niveles de abstracción del sistema. <br>**TB2**: Dirigí la implementación de la arquitectura web frontend siguiendo los principios del C4 model, liderando sesiones de planificación técnica para la integración con APIs REST. Promoví un liderazgo distribuido donde cada miembro del equipo contribuyó a las decisiones de diseño de componentes, asegurando una solución web escalable y mantenible. <br><br>**Rodrigo Adrián López Huamán** TB1: En *Tactical‑Level Domain‑Driven Design*, estructuré y documenté cinco *Bounded Contexts* (Domain, Interface, Application e Infrastructure) y elaboré diagramas de componentes, clases de dominio y diseño de base de datos para cada contexto.<br>TP: Coordine el desarrollo de 5 Bounded Contexts, estableciendo estándares para las capas Domain, Application e Infrastructure. Mediante revisiones técnicas grupales, aseguramos consistencia en diagramas de clases y esquemas de base de datos. <br>**TB2**: Lideré el desarrollo de las APIs REST implementando los 5 Bounded Contexts, coordinando sesiones de diseño colaborativo para definir endpoints y esquemas de datos. Promoví la participación activa del equipo en decisiones arquitectónicas, estableciendo estándares de desarrollo que facilitaron la integración entre web, mobile y edge systems. <br><br>**Rodrigo Jesús Salvador Rodríguez** TB1: En *Introduction* y *Requirements Specifications*, describí la propuesta de startup (*Lean UX*, *Solution Profile*, segmentos objetivos), y redacté escenarios, *User Stories* y *Product Backlog*.<br>TP: Lideré la priorización del Product Backlog mediante técnicas de Story Mapping, asegurando que las User Stories reflejaran necesidades reales. Establecí criterios de aceptación claros para mantener la trazabilidad con los objetivos del negocio. <br>**TB2:** Lideré la integración del sistema embebido con la plataforma central, coordinando la implementación de protocolos de comunicación IoT. Facilité sesiones colaborativas de testing end-to-end que validaron la funcionalidad completa del sistema, promoviendo decisiones técnicas consensuadas que optimizaron la performance del sistema embebido.|                  |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos                 | **Harold Miguel Elías Sanchez** TB1: Fomenté un ambiente inclusivo guiando al equipo en la creación de *Bounded Context Canvases* y mapas de contexto, estableciendo metas claras y asignando tareas estratégicas que facilitaron el cumplimiento eficiente de los objetivos.<br> TP1:Colaboré en el diseño de la arquitectura de información, definiendo sistemas de organización, etiquetado, SEO, búsqueda y navegación. Estructuré taxonomías y jerarquías de contenido, optimicé meta tags y establecí flujos de búsqueda intuitivos para mejorar la experiencia del usuario.<br>**TB2:** Establecí metas claras para la implementación del Edge API, creando un ambiente inclusivo mediante la asignación estratégica de tareas de desarrollo y testing. Planifiqué sprints estructurados que permitieron la colaboración efectiva entre equipos de embedded systems y backend, cumpliendo objetivos de latencia y rendimiento en tiempo real. <br><br>**Brayan Stiven Gamboa Delgado** TB1: Planifiqué el entorno de trabajo colaborativo, definiendo objetivos y plazos para la entrega del informe y la elaboración del *C4 Model*.<br>TP: Planifiqué hitos claros para la entrega de la arquitectura, asignando responsabilidades en la documentación del C4 Model. Fomenté un enfoque colaborativo que permitió un entendimiento unificado del sistema entre todos los miembros.<br>**TB2:** Planifiqué hitos específicos para el desarrollo web, estableciendo objetivos claros de funcionalidad y performance. Fomenté un entorno colaborativo mediante daily standups y retrospectivas que permitieron la adaptación ágil a los requerimientos, asegurando la entrega exitosa de la plataforma web con integración completa a las APIs.  <br><br>**Victor Manuel Meneses Arévalo** TB1: Participé activamente en la creación de un entorno colaborativo durante las sesiones de análisis y diseño de las herramientas de comprensión del usuario (User Personas, User Journey Mapping, Empathy Mapping). Contribuí a establecer metas claras para la recopilación y síntesis de la información obtenida en las entrevistas y el análisis de competidores, y colaboré en la planificación de las tareas necesarias para generar estos entregables, asegurando así el cumplimiento de los objetivos de comprensión de las necesidades del usuario.<br> TP1: Durante la definición y estandarización de guías de estilo, fomenté un entorno de colaboración al compartir mis perspectivas sobre la usabilidad y accesibilidad en las diferentes plataformas (Web, Mobile e IoT). Participé en el establecimiento de metas para asegurar la consistencia visual y de interacción, y colaboré en la planificación de las tareas relacionadas con la propuesta de pautas para tipografía, colores y patrones de navegación, contribuyendo al objetivo de mejorar la experiencia del usuario en todas las plataformas. <br>**TB2:** Organicé la implementación móvil estableciendo metas específicas de usabilidad y performance, distribuyendo tareas que aprovecharon las fortalezas individuales del equipo. Creé un ambiente inclusivo mediante sesiones de feedback continuo y pair programming, cumpliendo objetivos de compatibilidad cross-platform y experiencia de usuario optimizada. <br><br>**Rodrigo Adrián López Huamán** TB1: Promoví el trabajo colaborativo liderando entrevistas, mapas de empatía y *User Personas*; establecí objetivos y coordiné tareas para una recolección efectiva de información.<br>TP: Definí metas específicas para cada Bounded Context, planificando iteraciones que permitieron avanzar en paralelo. Promoví pair programming para mantener coherencia en los diseños, cumpliendo con los objetivos técnicos en los plazos establecidos. <br>**TB2:** Definí metas técnicas específicas para cada API REST, planificando iteraciones que permitieron el desarrollo paralelo de múltiples endpoints. Fomenté un entorno inclusivo mediante code reviews colaborativos y documentación compartida, cumpliendo objetivos de rendimiento, seguridad y escalabilidad en todas las APIs implementadas.<br><br>**Rodrigo Jesús Salvador Rodríguez** TB1: Planifiqué un entorno colaborativo en la elaboración de *Startup Profile*, *Solution Profile*, segmentos objetivos y *Requirements Specifications*, demostrando responsabilidad y alineación con los objetivos del equipo.<br>TP: Organicé workshops colaborativos para definir el Startup Profile y Solution Profile, integrando aportes de todos los miembros. Asigné tareas específicas que permitieron consolidar una visión unificada de los segmentos objetivos y requerimientos. <br>**TB2:** Planifiqué la integración del sistema embebido estableciendo objetivos claros de conectividad y monitoreo en tiempo real. Creé un entorno colaborativo mediante workshops técnicos y sesiones de troubleshooting grupal, asignando tareas específicas que permitieron cumplir los objetivos de comunicación IoT y recolección de datos del sistema embebido.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                  |
+**Student Outcome**  
 
 
+
+|Criterio específico  |Acciones realizadas  |Conclusiones  |
+| - | - | - |
+
+
+
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta  |<p>**Harold Miguel Elías Sanchez** TB1: En el desarrollo de Strategic-Level Domain-Driven Design, lideré sesiones de EventStorming donde impulsé la identificación colaborativa de contextos candidatos y flujos de mensajes, promoviendo una participación activa y equitativa del equipo para consolidar decisiones clave del dominio. </p><p>TP: </p><p>Lideré sesiones de EventStorming para identificar dominios clave, facilitando la participación equitativa del equipo en la definición de contextos y flujos de mensajes. Promoví decisiones colaborativas que alinearon el diseño estratégico con los objetivos del negocio, asegurando una visión compartida del sistema. </p><p>TB2:  </p><p>Lideré la implementación del Edge API y la integración con sistemas embebidos, coordinando sesiones de pair programming para asegurar la comunicación efectiva entre dispositivos IoT y la plataforma central. Promoví decisiones técnicas colaborativas que optimizaron el rendimiento del edge computing, estableciendo protocolos de testing </p>|` `El  equipo  demostró  un liderazgo colaborativo efectivo mediante  técnicas  como EventStorming,  C4  Model  y Domain-Driven  Design, alineando  la  arquitectura técnica  con  los  objetivos  del negocio.  Se  creó  un  entorno inclusivo  mediante  la planificación  estructurada  de tareas,  establecimiento  de metas  claras  y  distribución equitativa  de responsabilidades,  logrando consolidar  una  solución robusta centrada en el usuario y cumpliendo  con  todos  los objetivos técnicos planteados |
+| :-: | :- | - |
+
+
+
+||<p>distribuido que validaron la funcionalidad en tiempo real. </p><p>TF: </p><p>Lideré la implementación del módulo de vinculación de dispositivos y automatización de luces, coordinando sesiones de revisión de código para garantizar consistencia en la integración con geolocalización. Promoví la estandarización de protocolos de comunicación IoT, facilitando la colaboración entre frontend y backend mediante documentación técnica compartida. </p><p>**Victor Manuel Meneses Arevalo** </p><p>TB1:   </p><p>En el desarrollo del capítulo "Requirements Elicitation & Analysis", participé activamente en el análisis de competidores y en la elaboración de entrevistas, desde su diseño hasta su análisis. Contribuí a la creación de herramientas como User Personas, User Journey Mapping y Empathy Mapping, fomentando una comprensión profunda de las necesidades del usuario y fortaleciendo la base para una solución centrada en el usuario. </p><p>TP: </p><p>Coordine la elaboración de User Personas y Journey Maps mediante talleres participativos, integrando insights de </p>||
+| :- | :- | :- |
+
+
+||<p>entrevistas con usuarios. Promoví técnicas como Empathy Mapping para garantizar que el equipo comprendiera profundamente las necesidades del usuario antes del desarrollo. </p><p>TB2:  </p><p>Coordiné el desarrollo de la aplicación móvil liderando la implementación de funcionalidades de monitoreo y control remoto. Facilité la integración colaborativa con las APIs REST, promoviendo sesiones de code review que aseguraron la calidad del código y la consistencia en la experiencia de usuario entre diferentes plataformas móviles.</p><p>TF: </p><p>Dirigí el desarrollo del sistema de notificaciones por geofencing, organizando reuniones de sincronización para alinear la lógica de detección con el equipo de backend. Impulsé la implementación de pruebas de estrés en diferentes escenarios GPS, fomentando la participación cruzada entre desarrolladores para optimizar precisión y consumo de recursos.</p><p>**Brayan Stiven Gamboa Delgado** </p><p>TB1:  </p><p>En el desarrollo del Software Architecture, contribuí a la creación del C4 Model para el </p>||
+| :- | :- | :- |
+
+
+||<p>Landscape, System Context, Containers y Deployment para un mayor entendimiento del sistema. </p><p>TP: </p><p>Lideré la creación del C4 Model, guiando al equipo en la definición de los niveles Landscape, Context and Containers. Establecí sesiones de revisión para asegurar coherencia entre los diferentes niveles de abstracción del sistema. </p><p>TB2:   </p><p>Dirigí la implementación de la arquitectura web frontend siguiendo los principios del C4 model, liderando sesiones de planificación técnica para la integración con APIs REST. Promoví un liderazgo distribuido donde cada miembro del equipo contribuyó a las decisiones de diseño de componentes, asegurando una solución web escalable y mantenible. </p><p>TF:  </p><p>Coordiné la implementación de alertas por salida de zona y visualización de mapas, estableciendo un flujo de trabajo ágil con el equipo de diseño para mejorar la UX. Lideré la creación de un sistema de caché offline para ubicaciones, promoviendo discusiones técnicas que </p>||
+| :- | :- | :- |
+
+
+||<p>integraron aportes de todos los miembros del equipo.</p><p>**Rodrigo Adrián López Huamán**  </p><p>TB1:   </p><p>En el desarrollo del Tactical- Level Domain-Driven Design, estructuré y documenté cinco Bounded Contexts, detallando sus respectivas capas: Domain, Interface, Application e Infrastructure. Además, elaboré diagramas de arquitectura a nivel de componentes y código, incluyendo diagramas de clases de la capa de dominio y diseños de base de datos para cada contexto, garantizando una visión clara y coherente del sistema a nivel táctico. </p><p>TP: </p><p>Coordine el desarrollo de 5 Bounded Contexts, estableciendo estándares para las capas Domain, Application e Infrastructure. Mediante revisiones técnicas grupales, aseguramos consistencia en diagramas de clases y esquemas de base de datos. </p><p>TB2:  </p><p>` `Lideré el desarrollo de las APIs REST implementando los 5 Bounded Contexts, coordinando sesiones de diseño colaborativo para definir endpoints y esquemas de datos. Promoví la participación activa </p>||
+| :- | :- | :- |
+
+
+||<p>del equipo en decisiones arquitectónicas, estableciendo estándares de desarrollo que facilitaron la integración entre web, mobile y edge systems. </p><p>TF: </p><p>Gestioné el desarrollo del módulo de gestión de dispositivos y soporte técnico, facilitando sesiones de troubleshooting colaborativo. Establecí estándares para el manejo de errores en tiempo real, incentivando la participación del equipo en la definición de protocolos de recuperación ante fallos. </p><p>**Rodrigo Jesús Salvador Rodríguez**  </p><p>TB1:  En el desarrollo de la Introduction, evidencié nuestra propuesta de trabajo en base a lo planteado durante las sesiones con descripción de la startup, Lean UX, Solution Profile y Segmentos objetivos, además en los Requeriments Specifications, evidenciar de buena manera los Scenario Mapping, las User Stories con el formato adecuado y el Product Backlog. </p><p>TP: </p><p>Lideré la priorización del Product Backlog mediante técnicas de Story Mapping, asegurando que las User Stories reflejaran necesidades reales. Establecí criterios de aceptación claros para </p>||
+| :- | :- | :- |
+
+
+||<p>mantener la trazabilidad con los objetivos del negocio. </p><p>TB2:  </p><p>` `Lideré la integración del sistema embebido con la plataforma central, coordinando la implementación de protocolos de comunicación IoT. Facilité sesiones colaborativas de testing end-to- end que validaron la funcionalidad completa del sistema, promoviendo decisiones técnicas consensuadas que optimizaron la performance del sistema embebido. </p><p>TF: </p><p>Lideré el diseño del dashboard de analíticas y resumen del sistema, organizando workshops interdisciplinarios para integrar requerimientos de negocio y técnicos. Fomenté el uso de métricas compartidas para evaluar el rendimiento, creando espacios de retroalimentación que mejoraron la cohesión del equipo. </p>||
+| :- | :- | :- |
+|<p>Crea un entorno colaborativo e </p><p>inclusivo, establece metas, planifica tareas y cumple objetivos. </p>|<p>**Harold Miguel Elías Sanchez** TB1:  </p><p>Fomenté un ambiente inclusivo guiando al equipo en la creación de Bounded Context Canvases y mapas de contexto, estableciendo metas claras y asignando tareas estratégicas que facilitaron el cumplimiento de los objetivos definidos de manera eficiente y coordinada. </p>|` `El equipo fomentó un entorno de  trabajo  colaborativo mediante  talleres participativos, revisión técnica grupal  y  pair  programming, asegurando  la  inclusión  de todas  las  perspectivas.  Se establecieron metas claras con hitos  definidos  para  cada componente  (Bounded Contexts, C4 Model, Backlog), asignando  tareas  específicas|
+
+
+
+||<p>TP: </p><p>Establecí metas claras para el diseño de Bounded Contexts, asignando tareas específicas en la creación de mapas de contexto. Fomenté un ambiente inclusivo donde cada miembro contribuyó al modelado estratégico, logrando consenso en las estructuras clave del dominio </p><p>TB2:  </p><p>` `Establecí metas claras para la implementación del Edge API, creando un ambiente inclusivo mediante la asignación estratégica de tareas de desarrollo y testing. Planifiqué sprints estructurados que permitieron la colaboración efectiva entre equipos de embedded systems y backend, cumpliendo objetivos de latencia y rendimiento en tiempo real. </p><p>TF: </p><p>Creó un entorno colaborativo al organizar revisiones diarias de progreso para el módulo de dispositivos IoT, estableciendo metas claras de integración con geolocalización. Planificó tareas dividiendo el trabajo en micro-sprints de 2 días, logrando completar 100% de los objetivos asignados e incluyendo feedback constante del equipo de QA.</p><p>**Brayan Stiven Gamboa Delgado** </p><p>TB1:  </p>|que  permitieron  cumplir  los objetivos técnicos en los plazos establecidos,  manteniendo siempre  la  coherencia arquitectónica y el enfoque en el usuario. |
+| :- | - | - |
+
+
+
+||<p>Planifiqué un entorno de trabajo colaborativo estableciendo objetivos con duración para la entrega del informe y creación del C4 Model para que sea más estructurado. </p><p>TP: </p><p>Planifiqué hitos claros para la entrega de la arquitectura, asignando responsabilidades en la documentación del C4 Model. Fomenté un enfoque colaborativo que permitió un entendimiento unificado del sistema entre todos los miembros. </p><p>TB2:  </p><p>Planifiqué hitos específicos para el desarrollo web, estableciendo objetivos claros de funcionalidad y performance. Fomenté un entorno colaborativo mediante daily standups y retrospectivas que permitieron la adaptación ágil a los requerimientos, asegurando la entrega exitosa de la plataforma web con integración completa a las APIs. </p><p>TF: </p><p>Fomentó un espacio inclusivo mediante pair programming para desarrollar el sistema de notificaciones, definiendo KPIs de precisión GPS (<50m error). Cumplió los objetivos al implementar 3 escenarios de testing colaborativo, integrando aportes de backend y mobile en la solución final </p>||
+| :- | :- | :- |
+
+
+||<p>**Victor Manuel Meneses Arevalo** </p><p>TB1:   </p><p>Promovì un trabajo colaborativo liderando la planificación y ejecución de actividades clave del análisis de requerimientos, como entrevistas, mapas de empatía y User Personas. Establecí objetivos claros y coordiné la distribución de tareas estratégicas, asegurando una recolección efectiva de información que permitió al equipo comprender a fondo al usuario y al entorno competitivo. </p><p>TP: </p><p>Organicé la ejecución de entrevistas y análisis competitivo, definiendo objetivos y plazos para cada actividad. Distribuí tareas estratégicas que permitieron recolectar información valiosa, sentando las bases para una solución centrada en el usuario.</p><p>TB2:  </p><p>Organicé la implementación móvil estableciendo metas específicas de usabilidad y performance, distribuyendo tareas que aprovecharon las fortalezas individuales del equipo. Creé un ambiente inclusivo mediante sesiones de feedback continuo y pair programming, cumpliendo </p>||
+| :- | :- | :- |
+
+
+||<p>objetivos de compatibilidad cross-platform y experiencia de usuario optimizada. </p><p>TF: </p><p>Estableció metas SMART para las funcionalidades de mapa y alertas, facilitando sesiones de planificación donde todos los miembros priorizaron tareas. Creó un ambiente inclusivo al rotar roles en las pruebas de offline mode, superando el 85% de cobertura en casos de prueba planificados.</p><p>**Rodrigo Adrián López Huamán**  </p><p>TB1:  </p><p>` `Fomenté un entorno colaborativo e inclusivo al coordinar al equipo en la elaboración de los cinco Bounded Contexts dentro de la sección 4.2 del Tactical-Level Domain-Driven Design. Establecí metas claras y planifiqué tareas para el desarrollo estructurado de las capas Domain, Interface, Application e Infrastructure, así como la construcción de los respectivos diagramas de arquitectura a nivel de componentes, código, clases de dominio y diseño de base de datos, cumpliendo los objetivos técnicos de forma eficiente y organizada. </p><p>TP: Definí metas específicas para cada Bounded Context, planificando iteraciones que permitieron avanzar en </p>||
+| :- | :- | :- |
+
+
+||<p>paralelo. Promoví pair programming para mantener coherencia en los diseños, cumpliendo con los objetivos técnicos en los plazos establecidos. </p><p>TB2:  </p><p>Definí metas técnicas específicas para cada API REST, planificando iteraciones que permitieron el desarrollo paralelo de múltiples endpoints. Fomenté un entorno inclusivo mediante code reviews colaborativos y documentación compartida, cumpliendo objetivos de rendimiento, seguridad y escalabilidad en todas las APIs implementadas. </p><p>TF: </p><p>Generó inclusión mediante retroalimentación 360° en el módulo de soporte técnico, trazando hitos semanales medibles. Cumplió el 100% de las tareas asignadas gracias a daily standups estructurados y asignación balanceada de workitems según habilidades. </p><p>**Rodrigo Jesús Salvador Rodríguez**  </p><p>TB1: Planifiqué un entorno colaborativo e inclusivo en el aporte del trabajo, evidenciando mi responsabilidad al desarrollar la Startup Profile, Solution Profile, Segmentos Objetivos, y el desarrollo de los Requeriments Specification. </p>||
+| :- | :- | :- |
+
+
+||<p>TP: </p><p>Organicé workshops colaborativos para definir el Startup Profile y Solution Profile, integrando aportes de todos los miembros. Asigné tareas específicas que permitieron consolidar una visión unificada de los segmentos objetivos y requerimientos. </p><p>TB2:  </p><p>Planifiqué la integración del sistema embebido estableciendo objetivos claros de conectividad y monitoreo en tiempo real. Creé un entorno colaborativo mediante workshops técnicos y sesiones de troubleshooting grupal, asignando tareas específicas que permitieron cumplir los objetivos de comunicación IoT y recolección de datos del sistema embebido. </p><p>TF:  </p><p>Construyó colaboración activa en el desarrollo del dashboard, usando metodologías ágiles para definir metas visuales con el equipo de diseño. Planificó entregas parciales cada 48h, logrando consolidar todos los componentes gráficos con 0 bloqueos reportados. </p>||
+| :- | - | :- |
 Capítulo I: Introducción 
 
 1. Startup Profile 
@@ -243,11 +298,11 @@ Visión: Convertirnos en la solución líder de automatización del hogar inteli
 
 Logotipo de la Startup: 
 
-![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.003.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.003.png)
 
 Logotipo del servicio: 
 
-![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.004.png)
+![ref1]
 
 2. Perfiles de integrantes del equipo 
 
@@ -255,15 +310,15 @@ Logotipo del servicio:
 
 |Miembros |Codigo estudiante |Carrera |Descripción |
 | - | :- | - | - |
-|<p>![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.005.png)</p><p>Brayan Stiven Gamboa Delgado </p>|U202112655 |Ingeniería de Software |Soy un estudiante que está cursando el 8vo ciclo de la carrera de Ingeniería de Software.Tengo experiencia en html, css y js. Me considero una persona puntual y responsable. Me esfuerzo en realizar los trabajos a tiempo y crecer profesionalmente. |
-|<p>![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.006.png)</p><p>Harold Miguel Elias Sanchez </p>|U202212684 |Ingeniería de Software |Soy un estudiante que se encuentra en el séptimo ciclo de la carrera de ingeniería de software. Mi conocimiento técnico abarca el lenguaje C++ y Python, que manejo de manera intermedia. Además, poseo habilidades básicas que me permiten contribuir efectivamente en equipos, aportando ideas y trabajando en colaboración para alcanzar nuestras metas conjuntas. |
+|<p>![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.005.png)</p><p>Brayan Stiven Gamboa Delgado </p>|U202112655 |Ingeniería de Software |Soy un estudiante que está cursando el 8vo ciclo de la carrera de Ingeniería de Software.Tengo experiencia en html, css y js. Me considero una persona puntual y responsable. Me esfuerzo en realizar los trabajos a tiempo y crecer profesionalmente. |
+|<p>![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.006.png)</p><p>Harold Miguel Elias Sanchez </p>|U202212684 |Ingeniería de Software |Soy un estudiante que se encuentra en el séptimo ciclo de la carrera de ingeniería de software. Mi conocimiento técnico abarca el lenguaje C++ y Python, que manejo de manera intermedia. Además, poseo habilidades básicas que me permiten contribuir efectivamente en equipos, aportando ideas y trabajando en colaboración para alcanzar nuestras metas conjuntas. |
 
 
 
-|<p>![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.007.png)</p><p>Rodrigo Adrián López Huamán  </p>|U202212338 |Ingeniería de Software|Mi nombre es Rodrigo Adrián López Huamán, estudiante de séptimo ciclo de Ingeniería de Software, tengo 19 años y me considero un chico responsable y comprometido con mis actividades. Además, de ser una persona creativa y capaz de trabajar en equipo para alcanzar nuestras metas. También tengo habilidades en el manejo de conflictos, lo que me permite resolver situaciones difíciles de manera efectiva. Estoy emocionado de seguir aprendiendo y creciendo en esta carrera. |
+|<p>![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.007.png)</p><p>Rodrigo Adrián López Huamán  </p>|U202212338 |Ingeniería de Software|Mi nombre es Rodrigo Adrián López Huamán, estudiante de séptimo ciclo de Ingeniería de Software, tengo 19 años y me considero un chico responsable y comprometido con mis actividades. Además, de ser una persona creativa y capaz de trabajar en equipo para alcanzar nuestras metas. También tengo habilidades en el manejo de conflictos, lo que me permite resolver situaciones difíciles de manera efectiva. Estoy emocionado de seguir aprendiendo y creciendo en esta carrera. |
 | - | - | - | :-: |
-|<p>![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.008.png)</p><p>Rodrigo Jesús Salvador Rodríguez  </p>|U202213646  |Ingeniería de Software|Mi nombre es Rodrigo Jesus Salvador Rodriguez, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal. |
-|<p>![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.009.png)</p><p>Victor Manuel Meneses Arevalo  </p>|` `U202212191 |Ingeniería de Software|Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me identifico como una persona comprometida, proactiva y orientada al trabajo en equipo. Durante el desarrollo de este proyecto, me comprometo a seguir las directrices establecidas, colaborar activamente con mis compañeros y aportar lo mejor de mí para alcanzar los objetivos propuestos y presentar un proyecto de alta calidad grupal. |
+|<p>![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.008.png)</p><p>Rodrigo Jesús Salvador Rodríguez  </p>|U202213646  |Ingeniería de Software|Mi nombre es Rodrigo Jesus Salvador Rodriguez, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal. |
+|<p>![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.009.png)</p><p>Victor Manuel Meneses Arevalo  </p>|` `U202212191 |Ingeniería de Software|Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me identifico como una persona comprometida, proactiva y orientada al trabajo en equipo. Durante el desarrollo de este proyecto, me comprometo a seguir las directrices establecidas, colaborar activamente con mis compañeros y aportar lo mejor de mí para alcanzar los objetivos propuestos y presentar un proyecto de alta calidad grupal. |
 
 2. **Solution Profile** 
 
@@ -404,7 +459,7 @@ Creemos que una interfaz simple, moderna y centrada en el usuario facilitará la
 
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital Mural: 
 
-![](/assets/Aspose.Words.2d581f40-a636-4153-a8a1-051e79ad94e4.010.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.010.jpeg)
 
 Enlace para acceder al[ Canvas ](https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a7031886527872ab596b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633)
 
@@ -416,9 +471,7 @@ Además, la percepción de inseguridad ha llevado a un incremento en la demanda 
 
 GeoEntry  se  posiciona  como  una  solución  ideal  para  personas  que  buscan  integrar  tecnología  y seguridad en su vida diaria. Su sistema de automatización residencial, que se activa mediante la detección de proximidad del usuario, ofrece una experiencia personalizada al llegar a casa, combinando comodidad, eficiencia energética y seguridad. 
 
-1\.3.1 Stakeholders 
-
-Stakeholders Internos: 
+1\.3.1 Stakeholders Stakeholders Internos: 
 
 - Equipo de desarrollo de GeoEntry. 
 - Diseñadores de experiencia de usuario (UX/UI). 
@@ -429,6 +482,7 @@ Stakeholders Externos:
 - Usuarios finales: jóvenes profesionales, familias tecnológicas y propietarios de viviendas inteligentes en zonas urbanas. 
 - Empresas inmobiliarias interesadas en ofrecer viviendas con tecnología integrada. 
 - Proveedores de dispositivos inteligentes compatibles (cerraduras electrónicas, sensores, termostatos, etc.). 
+
 Capítulo II: Requirements Elicitation & Analysis 
 
 1. Competidores 
@@ -440,40 +494,43 @@ Capítulo II: Requirements Elicitation & Analysis
 
 
 
-|<p>**Nombre de  los Startups** </p><p>**o Empresas** </p>||<p>**GeoEntry** </p><p>![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.001.png)</p>|**Google Nest** |**Samsung SmartThings** |**Control4 (Snap One)** |
+|<p>**Nombre de  los Startups** </p><p>**o Empresas** </p>||<p>**GeoEntry** </p><p>![ref2]</p>|**Google Nest** |**Samsung SmartThings** |**Control4 (Snap One)** |
 | :- | :- | - | - | :- | :- |
+
+
+
 |Perfil |Overvi ew |GeoEntry utiliza sensores IoT que detectan cuando una persona ingresa a un espacio y activa automáticame nte configuracion es personalizada s de iluminación, temperatura y seguridad. Intuitiva y fácil de instalar |Plataforma consolidada con dispositivos propios y compatibilida d con muchos productos de terceros. Usa aprendizaje automático para adaptarse a los hábitos del usuario |Ecosistema abierto y compatible con múltiples marcas. Su hub centraliza el control de dispositivos conectados y permite automatizacio nes basadas en ubicación |Sistema profesional de alta gama con instalación profesional. Ofrece soluciones totalmente personalizadas para hogares de lujo y empresas con necesidades complejas |
-||<p>Ventaja compet itiva: </p><p>` `¿Qué valor ofrece  a los clientes ? </p>|Experiencia inmersiva completa al entrar al espacio sin necesidad de comandos. Solución modular y escalable que no requiere cambiar toda la infraestructur a existente. |<p>Integración perfecta con el ecosistema Google, excelente reconocimient</p><p>o de patrones y aprendizaje del comportamien to del usuario. Actualizacion es constantes y soporte a largo plazo </p>|Gran compatibilida d con dispositivos de diferentes fabricantes. Precio más accesible y opciones de automatizació n basadas en la ubicación del usuario a través del smartphone |Soluciones completamente personalizadas de alto nivel con soporte profesional. Experiencia premium para clientes dispuestos a invertir en sistemas sofisticados |
+| - | :- | :- | :- | :- | :- |
+||<p>Ventaja compet itiva: </p><p>` `¿Qué valor ofrece  a los clientes ? </p>|Experiencia inmersiva completa al entrar al espacio sin necesidad de comandos. Solución modular y escalable que no requiere cambiar toda la infraestructur a existente. Equilibrio entre facilidad de uso y personalizaci ón avanzada |<p>Integración perfecta con el ecosistema Google, excelente reconocimient</p><p>o de patrones y aprendizaje del comportamien to del usuario. Actualizacion es constantes y soporte a largo plazo </p>|Gran compatibilida d con dispositivos de diferentes fabricantes. Precio más accesible y opciones de automatizació n basadas en la ubicación del usuario a través del smartphone |Soluciones completamente personalizadas de alto nivel con soporte profesional. Experiencia premium para clientes dispuestos a invertir en sistemas sofisticados |
 
 
 
-|||Equilibrio entre facilidad de uso y personalizaci ón avanzada ||||
-| :- | :- | :- | :- | :- | :- |
 |Perfil de Marketing |Mercad o Objetiv o |Hogares de clase media- alta interesados en domótica y negocios pequeños- medianos (hoteles boutique, oficinas modernas, spas, estudios de yoga, coworkings) que buscan diferenciarse con experiencias personalizada s |Propietarios de viviendas con cierto poder adquisitivo, familias interesadas en seguridad y comodidad, usuarios ya integrados en el ecosistema Google |Propietarios e inquilinos con presupuesto más ajustado, usuarios que valoran la flexibilidad y quieren centralizar dispositivos de diferentes marcas |Propietarios de viviendas de lujo, hotelería premium, salas de conferencias corporativas y negocios exclusivos |
-
-
-
+| :- | :- | :- | :- | :- | :- |
 ||Estrate gias de Marketi ng |Contenido educativo, alianzas con diseñadores de interiores y arquitectos, demostracion es experienciale s en showrooms de smart homes y ferias tecnológicas |Publicidad masiva, presencia en tiendas como Best Buy, promoción cruzada con otros productos Google, programa Works with Nest para desarrolladore s |Partnerships con múltiples fabricantes, precio competitivo, comunidad activa de usuarios que comparten automatizacio nes |Marketing exclusivo, presencia en ferias de construcción de lujo, alianzas con constructores y diseñadores de élite |
-| :- | :- | :- | :- | :- | :- |
+
+
+
 |Perfil del producto |Product os y servicio s |<p>Hardware: sensores de presencia, hub central, accesorios de conexión. Software: app móvil para configuración , plataforma cloud, APIs para integración. Servicios: asesoría de instalación, mantenimient</p><p>o y actualizacion es </p>|Línea completa de dispositivos smart home, servicio de almacenamien to en la nube Nest Aware, soporte técnico, actualizacione s regulares de software |Hub SmartThings, sensores variados, app móvil, plataforma cloud, marketplace de aplicaciones y servicios, comunidad para compartir automatizacio nes |Sistema Control4 completo con componentes propios, servicios de diseño e instalación profesional, mantenimiento premium, actualizaciones y personalizacione s exclusivas |
-
-
-
+| - | :- | :- | :- | :- | :- |
 ||Precios y Costos |Kit básico hogar: $249 (hub + 2 sensores). Kit negocio: $599 (hub + 5 sensores + software analítico). Sensores adicionales: $49/unidad. Suscripción opcional: $5.99/mes (análisis avanzado y backup) |Termostato Nest: $249. Cámara Nest: $199-299. Timbre Nest: $229. Suscripción Nest Aware: $6-12/mes. Sin costos de instalación profesional obligatoria |Hub: $99. Sensores entre $20-60. Sin costos de suscripción obligatoria. Compatible con dispositivos económicos de diferentes marcas |Sistemas desde $5,000 hasta $50,000+ dependiendo de la complejidad. Instalación profesional obligatoria ($1,000+). Suscripción anual de mantenimiento recomendada |
-| :- | :- | :- | :- | :- | :- |
+
+
+
 ||<p>Canales de distribu ción </p><p>` `(Web y/o Móvil) </p>|Web propia con e- commerce, Amazon, tiendas especializada s en smart home, alianzas con integradores de domótica, app móvil (iOS/Android ) y aplicación web para gestión |Google Store, Amazon, Best Buy, Home Depot, instaladores autorizados. Control mediante app Nest/Google Home (iOS/Android) |Tienda online propia, Amazon, Best Buy, Walmart. Control mediante app SmartThings (iOS/Android ) |Exclusivamente a través de distribuidores e instaladores autorizados. Venta consultiva con demostración previa. Control mediante app Control4 (iOS/Android) y paneles táctiles instalados |
-
-
-
+| :- | :- | :- | :- | :- | :- |
 |Análisis SWOT |Fortale zas |<p>Experiencia inmersiva "manos libres" sin necesidad de comandos </p><p>` `Sistema modular y escalable </p><p>` `Equilibrio entre facilidad de uso y personalizaci ón </p><p>` `Compatible con múltiples ecosistemas existentes </p><p>` `Precio competitivo para el valor ofrecido </p>|<p>Marca reconocida y respaldo de Google </p><p>` `Productos de alta calidad y diseño atractivo </p><p>` `Fuerte integración con asistentes virtuales </p><p>` `Constantes actualizacione s y mejoras </p><p>` `Amplia red de distribución </p>|<p>Gran compatibilida d con diferentes marcas </p><p>` `Comunidad activa de usuarios </p><p>` `Precios accesibles </p><p>` `Plataforma abierta para desarrolladore s </p><p>` `Respaldo de Samsung </p>|<p>Calidad premium </p><p>` `Personalización total </p><p>` `Soluciones a medida para hogares y negocios </p><p>` `Servicio completo (diseño, instalación, mantenimiento)  Experiencia en proyectos complejos </p>|
-| :- | :- | :- | :- | :- | :- |
+
+
+
 ||Debilid ades |<p>Marca nueva sin reconocimien to en el mercado </p><p>` `Red de distribución limitada </p><p>` `Dependencia de fabricantes de dispositivos para integraciones  Equipo más pequeño que las grandes corporaciones </p>|<p>Precios elevados </p><p>` `Ecosistema cerrado que prioriza productos Google </p><p>` `Necesidad de conexión a internet constante </p><p>Preocupacione s de privacidad por recopilación de datos </p>|<p>Experiencia de usuario menos pulida  Algunas automatizacio nes requieren conocimiento s técnicos </p><p>` `Menor reconocimient</p><p>o de marca que Google </p><p>` `Soporte técnico limitado </p>|<p>Precios muy elevados </p><p>` `Instalación profesional obligatoria </p><p>` `Dependencia del instalador para cambios </p><p>- Menor </p><p>flexibilidad para actualizaciones DIY </p><p>- Curva de </p><p>aprendizaje pronunciada </p>|
-
-
-
-||Oportu nidades |<p>Crecimiento del mercado de smart home y IoT  Aumento de conciencia sobre eficiencia energética </p><p>` `Interés creciente en experiencias personalizada s </p><p>` `Potencial para expandirse al sector hotelero y hospitalidad </p>|<p>Expansión del ecosistema Google Home  Integración con nuevos electrodomésti cos inteligentes </p><p>` `Alianzas con constructoras para instalaciones en nuevas viviendas </p><p>` `Desarrollo de IA más avanzada </p>|<p>Crecimiento del mercado de dispositivos compatibles </p><p>` `Potencial para convertirse en el estándar de interoperabili dad </p><p>` `Expansión internacional  Nuevos acuerdos con fabricantes </p>|<p>Aumento de construcciones de lujo </p><p>` `Crecimiento del segmento de hoteles boutique  Expansión a oficinas corporativas premium </p><p>` `- Internacionaliza ción a mercados emergentes de lujo </p>|
 | :- | :- | :- | :- | :- | :- |
+||Oportu nidades |<p>Crecimiento del mercado de smart home y IoT  Aumento de conciencia sobre eficiencia energética </p><p>` `Interés creciente en experiencias personalizada s </p><p>` `Potencial para expandirse al sector hotelero y hospitalidad </p>|<p>Expansión del ecosistema Google Home  Integración con nuevos electrodomésti cos inteligentes </p><p>` `Alianzas con constructoras para instalaciones en nuevas viviendas </p><p>` `Desarrollo de IA más avanzada </p>|<p>Crecimiento del mercado de dispositivos compatibles </p><p>` `Potencial para convertirse en el estándar de interoperabili dad </p><p>` `Expansión internacional  Nuevos acuerdos con fabricantes </p>|<p>Aumento de construcciones de lujo </p><p>` `Crecimiento del segmento de hoteles boutique  Expansión a oficinas corporativas premium </p><p>` `- Internacionaliza ción a mercados emergentes de lujo </p>|
+
+
+
 ||Amena zas |<p>Entrada de grandes tecnológicas al mismo nicho </p><p>` `Cambios en estándares de conectividad </p><p>Preocupacion es sobre privacidad y seguridad </p><p>` `Recesión económica que afecte el gasto en tecnología </p>|<p>Competencia creciente de Amazon y Apple </p><p>` `Regulaciones de privacidad más estrictas  Saturación del mercado premium </p><p>Vulnerabilida des de seguridad </p>|<p>Posible consolidación del mercado </p><p>` `Competencia de soluciones propietarias más integradas </p><p>` `Cambios en la estrategia de Samsung </p><p>` `Problemas de compatibilida d con actualizacione s de terceros </p>|<p>Soluciones DIY cada vez más sofisticadas </p><p>` `Disminución en la demanda de instalaciones profesionales </p><p>- Competencia </p><p>de sistemas modulares más accesibles </p><p>- Cambios </p><p>generacionales en preferencias de consumo </p>|
+| :- | :- | :- | :- | :- | :- |
 
 2. Estrategias y tácticas frente a competidores 
 
@@ -482,14 +539,12 @@ Capítulo II: Requirements Elicitation & Analysis
 |Competidores |¿Qué se puede hacer para ganarle a la competencia? |
 | - | :- |
 |Competidor 1: Google Nest |<p>- Ofrecer una experiencia "manos libres" completamente automática, sin necesidad de comandos manuales. </p><p>- Posicionarse como la opción con mejor relación valor-precio en el segmento medio-alto, superando la oferta de Nest en accesibilidad y facilidad de uso. </p><p>- Desarrollar soluciones modulares que permitan a los usuarios comenzar con una inversión más baja y escalar gradualmente. </p><p>- Establecer alianzas estratégicas con arquitectos, diseñadores de interiores y constructoras para aumentar la visibilidad y el alcance en proyectos de viviendas inteligentes. </p>|
+
+
+
 |Competidor 2: SmartThings (Samsung) |<p>- Simplificar la instalación y gestión para hacerla accesible a usuarios menos técnicos, ofreciendo una experiencia intuitiva y sin fricciones. </p><p>- Mejorar la integración con dispositivos existentes para que los usuarios no necesiten reemplazar toda su infraestructura de hogar inteligente. </p><p>- Enfocar más en la personalización para negocios, como hoteles boutique y espacios comerciales, agregando valor a esos segmentos con características específicas. </p><p>- Fomentar una comunidad activa de usuarios que compartan configuraciones personalizadas y escenas para aumentar el valor de la plataforma a medida que crece. </p>|
-|Competidor 3: Control4 (Snap One) |<p>- Proporcionar una opción más accesible, enfocándose en la facilidad de uso y la reducción de la necesidad de instalación profesional obligatoria. </p><p>- Ofrecer precios más competitivos en comparación con Control4, haciendo que la tecnología avanzada sea más accesible para un público más amplio. </p><p>- Desarrollar un sistema modular que permita a los usuarios comenzar con una </p>|
-
-
-
-||<p>inversión pequeña y aumentar la escala a medida que se familiarizan con el sistema. </p><p>- Desarrollar propiedad intelectual alrededor de sus algoritmos de detección y personalización para proteger la tecnología y mantener una ventaja competitiva. </p>|
-| :- | :- |
-
+| - | :- |
+|Competidor 3: Control4 (Snap One) |<p>- Proporcionar una opción más accesible, enfocándose en la facilidad de uso y la reducción de la necesidad de instalación profesional obligatoria. </p><p>- Ofrecer precios más competitivos en comparación con Control4, haciendo que la tecnología avanzada sea más accesible para un público más amplio. </p><p>- Desarrollar un sistema modular que permita a los usuarios comenzar con una inversión pequeña y aumentar la escala a medida que se familiarizan con el sistema. </p><p>- Desarrollar propiedad intelectual alrededor de sus algoritmos de detección y personalización para proteger la tecnología y mantener una ventaja competitiva. </p>|
 2. Entrevistas 
 
 En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos 
@@ -515,9 +570,7 @@ Preguntas: preguntas ordenadas para entrevistar a los dos segmentos objetivos de
 1. **Expectativas de Resultados**: ¿Cómo imagina que sería la experiencia ideal al llegar a su hogar si pudiera personalizarla completamente? 
 1. **Decisión de Compra**: ¿Qué factores serían determinantes para que usted decidiera invertir en un nuevo sistema de automatización para su hogar? 
 
-**Segmento: Negocios que buscan experiencias de bienvenida automatizadas** 
-
-**Principales:** 
+**Segmento: Negocios que buscan experiencias de bienvenida automatizadas Principales:** 
 
 1. **Contexto del Negocio**: ¿Podría describir su negocio y cómo es actualmente la experiencia de sus clientes o empleados al ingresar a su establecimiento? 
 1. **Objetivos de Experiencia**: ¿Qué tipo de primera impresión o experiencia de bienvenida le gustaría crear para las personas que ingresan a su establecimiento? 
@@ -529,8 +582,6 @@ Preguntas: preguntas ordenadas para entrevistar a los dos segmentos objetivos de
 1. **Presupuesto y Recursos**: ¿Qué presupuesto consideraría razonable para implementar una solución de este tipo? ¿Cuenta con personal que podría gestionar esta tecnología? 
 1. **Personalización y Control**: ¿Qué nivel de personalización y control necesitaría sobre las experiencias automatizadas para diferentes tipos de clientes o momentos del día? 
 1. **Factores de Decisión**: ¿Qué aspectos serían determinantes para que usted decidiera implementar una solución de bienvenida automatizada en su negocio (facilidad de uso, escalabilidad, compatibilidad con sistemas existentes, etc.)? 
-
-
 2. Registro de entrevistas 
 
 A continuación se presentan los resúmenes de las entrevistas realizadas a representantes de nuestros dos segmentos objetivo. 
@@ -543,7 +594,7 @@ A continuación se presentan los resúmenes de las entrevistas realizadas a repr
 - **Edad:** 21 
 - **Distrito:** San Miguel 
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.002.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.012.jpeg)
 
 URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EWaFGrpWV4xApxird8jnfNIBsRNl3LYrlh1bVEhv8_Q5Mg?e=9x7JxC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -559,7 +610,7 @@ URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20
 - **Edad:** 24 
 - **Distrito:** San Miguel 
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.003.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.013.jpeg)
 
 URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EchLT4C3VYFEh-IPtMOirHgBedGcVkTbePxXf29lP59Dhg?e=5IuhUW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -575,7 +626,7 @@ URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20
 - **Edad:** 21 
 - **Distrito:** Lince 
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.004.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.014.jpeg)
 
 URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/Ef1mZmoe1IhPqK2f1KDjgCcBLt2oHTY96O9FZXKflCoC6Q?e=ivDzYC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -591,7 +642,7 @@ URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20
 - **Negocio:** Hotel boutique (15 habitaciones) 
 - **Cargo:** Dueño y Gestor 
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.005.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.015.jpeg)
 
 URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EYDUf-6A7vtLoOxfVTENShABHeXudaaxe8F-KvkZjX5-Ew?e=EKU2Lq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -607,7 +658,7 @@ URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20
 - **Negocio:** Estudio de yoga y bienestar 
 - **Cargo:** Dueño y Administrador 
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.006.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.016.jpeg)
 
 URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EeXl6Ym9kc5LlgI_SfIKWI0BDc9sPoTI2daCDkESI1Gluw?e=69lcaK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -623,7 +674,7 @@ URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20
 - **Negocio:** Espacio de coworking 
 - **Cargo:** Administrador 
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.007.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.017.jpeg)
 
 URL:[ Link de entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EZPAAJNQre9Jhpd3GScHJQkBGMWWwFLWYQu7LjusuwP-5A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KPHLt2)
 
@@ -651,9 +702,13 @@ Tras analizar las entrevistas realizadas, se identifican los siguientes patrones
 - Instalación y configuración sencilla, idealmente sin conocimientos técnicos avanzados 
 - Buena relación calidad-precio con opción de expansión modular 
 
-**Rangos de inversión:** Entre $300-1000 dependiendo del nivel de adopción previo de tecnología y complejidad de la solución. 
+**Rangos de inversión:** Entre $300-1000 dependiendo del nivel de adopción previo de tecnología y complejidad de la solución.** 
 
-**Segmento 2: Negocios que buscan experiencias de bienvenida automatizadas Patrones identificados:** 
+**Propósito de Entrevistas (Segmento 1):** 
+
+El propósito de estas entrevistas es comprender en profundidad las rutinas, frustraciones y expectativas de los usuarios residenciales que ya interactúan con tecnología inteligente en sus hogares. Buscamos identificar qué aspectos de su experiencia de llegada a casa podrían mejorarse mediante automatización, qué tipo de soluciones les resultan atractivas, qué barreras perciben para adoptar nuevas tecnologías y cuál es su disposición a invertir en sistemas que mejoren su comodidad y seguridad. Además, deseamos explorar cómo priorizan elementos como la privacidad, el control, la personalización y la compatibilidad entre dispositivos, ya que estos factores influyen directamente en su confianza hacia nuevas soluciones tecnológicas. Con esta información, podremos definir de forma más precisa las características mínimas necesarias para una propuesta de valor efectiva, segmentar a los usuarios según sus hábitos y preferencias, y anticipar posibles objeciones en el proceso de adopción. También se busca detectar patrones en las decisiones de compra y evaluar la aceptación de sistemas basados en geolocalización o automatización contextual. 
+
+**Patrones identificados:** 
 
 1. **Personalización como diferenciador**: Los tres negocios ven la experiencia personalizada como un importante diferenciador en mercados competitivos. 
 1. **Transiciones fluidas**: Buscan eliminar fricciones en los momentos de llegada, registro o cambio de actividad. 
@@ -665,23 +720,24 @@ Tras analizar las entrevistas realizadas, se identifican los siguientes patrones
 
 - Reconocimiento automático de clientes/miembros con activación de preferencias personalizadas 
 - Integración con sistemas de gestión y reservas existentes 
-
 - Interfaz simple para configuración por personal no técnico 
 - Capacidades analíticas para optimizar operaciones 
 - Escalabilidad según el tamaño y crecimiento del negocio 
 
 **Rangos de inversión:** Entre $3,000-15,000 dependiendo del tamaño del negocio, la complejidad de la integración con sistemas existentes y el nivel de personalización deseado. Negocios más grandes o con alto flujo de clientes están dispuestos a invertir más si la solución ofrece beneficios claros en eficiencia operativa y experiencia del usuario. 
 
+**Propósito de Entrevistas (Segmento 2):** 
+
+Estas entrevistas tienen como finalidad explorar cómo los negocios perciben la importancia de la primera impresión al recibir a sus clientes o empleados, y qué limitaciones enfrentan actualmente para ofrecer una experiencia de entrada fluida y memorable. Se busca entender el valor que le asignan a la automatización en este contexto, qué nivel de personalización requieren, cuáles son sus expectativas en cuanto al retorno de inversión, y qué factores influirían en su decisión de implementar una solución tecnológica. También nos interesa conocer los tipos de negocios más receptivos a este tipo de soluciones, la frecuencia de interacción con sus visitantes, y los puntos críticos donde la automatización podría generar mayor impacto. A partir de esto, podremos determinar cuáles son los casos de uso más relevantes, identificar requisitos funcionales comunes entre negocios y diseñar propuestas flexibles que puedan adaptarse a distintos tamaños, rubros y horarios de operación. Asimismo, evaluaremos la disposición de los negocios a invertir recursos humanos y financieros en mantener este tipo de tecnologías operativas.
+
 3. Needfinding 
 1. User Personas
 
 **Segmento 1: Usuarios Residenciales de Hogares Inteligentes** 
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.008.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.018.jpeg)
 
-**Segmento 2: Negocios que buscan experiencias de bienvenida automatizadas** 
-
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.009.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.019.jpeg)
 
 
 2. User Task Matrix 
@@ -762,7 +818,7 @@ La coincidencia entre estos segmentos radica en la necesidad de **automatizació
 |Encuentra difícil adaptar automatizaciones a horarios variables. |Acceso a una solución que le permita expandir su sistema sin cambiar todo el ecosistema tecnológico de su hogar. |
 | :- | :- |
 
-**Segmento 2: Negocios con Experiencia de Bienvenida Automatizada ![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.010.png)**
+**Segmento 2: Negocios con Experiencia de Bienvenida Automatizada ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.020.png)**
 
 
 
@@ -793,11 +849,11 @@ La coincidencia entre estos segmentos radica en la necesidad de **automatizació
 
 **Segmento 1: Usuarios Residenciales de Hogares Inteligentes**
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.011.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.021.jpeg)
 
 **Segmento 2: Negocios con Experiencia de Bienvenida Automatizada**
 
-![](/assets/Aspose.Words.9b521b04-08bf-4acd-8353-66b82e5c5886.012.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.022.jpeg)
 
 4. Ubiquitous Language 
 
@@ -809,7 +865,6 @@ La coincidencia entre estos segmentos radica en la necesidad de **automatizació
 |**Automatización** |Proceso en el que las tareas repetitivas o manuales dentro de un hogar o negocio se realizan sin intervención humana, gracias a la configuración de dispositivos inteligentes que responden a condiciones predefinidas. Incluye detección de presencia, ajuste de iluminación y personalización de ambientes. |
 |**Ecosistema Tecnológico** |Conjunto de dispositivos y plataformas digitales que interactúan entre sí dentro de una red doméstica o empresarial para ofrecer una experiencia integrada y fluida. Puede incluir asistentes de voz, sensores, cámaras de seguridad, termostatos inteligentes y aplicaciones de gestión de automatización. |
 |**Integración** |Capacidad de los dispositivos inteligentes de diferentes marcas y sistemas para conectarse y trabajar en conjunto sin interferencias, ofreciendo una experiencia homogénea. La integración es clave para evitar la fragmentación tecnológica dentro de un hogar o negocio. |
-
 
 
 
@@ -829,11 +884,11 @@ Para realizar el To-be Scenario Mapping el equipo determinó como se vería el f
 
 - Familias: 
 
-![](/assets/Aspose.Words.f2d1795a-f772-41eb-b869-4d78c9ec2bbe.001.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.023.jpeg)
 
 - Jóvenes: 
 
-![](/assets/Aspose.Words.f2d1795a-f772-41eb-b869-4d78c9ec2bbe.002.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.024.jpeg)
 
 2. User Stories Epics: 
 
@@ -895,79 +950,75 @@ Para realizar el To-be Scenario Mapping el equipo determinó como se vería el f
 
   **Entonces** el sistema mostrará "Mensaje recibido" y notificará al equipo. 
 
-US02: Ver tutorial de configuración inicial 
+- **Escenario 2: Formulario incompleto** 
 
-**Como** usuario nuevo de GeoEntry,  
+  **Dado que** el usuario deja campos obligatorios vacíos en el formulario de soporte **Cuando** intente hacer clic en "Enviar" 
 
-**Quiero** acceder a un tutorial interactivo dentro de la app  **Para** aprender a configurar mis dispositivos. 
+  **Entonces** el sistema mostrará "Complete los campos requeridos" y resaltará en rojo los campos faltantes. 
+
+US02: Agregar dispositivo para geolocalización 
+
+**Como** usuario nuevo de GeoEntry, 
+
+**Quiero** agregar un dispositivo desde la sección "Dispositivos" **Para** comenzar a controlar mi hogar inteligente.** 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Tutorial disponible** 
+- **Escenario 1: Dispositivo agregado exitosamente** 
 
-  **Dado que** el usuario abre la app por primera vez  **Cuando** seleccione "Guía de inicio".  
+  **Dado que** el usuario hace clic en "Agregar Dispositivo" en la sección "Dispositivos". **Cuando** ingresa el dispositivo que desee agregar. 
 
-  **Entonces** se mostrarán 3 pasos básicos con animaciones. 
+  **Entonces** el sistema muestra "Dispositivo vinculado correctamente" y lo agrega a la lista. 
 
-US03: Agregar dispositivo inteligente 
+- **Escenario 2: Dispositivo ya registrado** 
+
+  **Dado que** el dispositivo ya está vinculado a otra cuenta, 
+
+  **Cuando** el usuario intenta agregarlo, 
+
+  **Entonces** el sistema muestra "Este dispositivo ya está en uso" y sugiere contactar al soporte. 
+
+US03: Prender luces inteligentes automáticamente 
 
 **Como** usuario,  
 
-**Quiero** escanear y vincular un nuevo dispositivo **Para** mi cuenta de GeoEntry. 
+**Quiero** que al entrar a mi casa las luces inteligentes se prendan automáticamente **Para** tener mi casa preparada a lo que quiera hacer** 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Vinculación exitosa** 
+- **Escenario 1:  Activación exitosa al llegar** 
 
-  **Dado que** el dispositivo está en modo emparejamiento  
+  **Dado que** el usuario entra en un radio de 20m de su casa, **Cuando** el sistema detecta su ubicación, 
 
-  **Cuando** el usuario seleccione "Añadir dispositivo" 
+  **Entonces** las luces se encienden. 
 
-  **Entonces** el sistema lo detectará y mostrará "Dispositivo conectado". 
+- **Escenario 2: Fallo en el sensor de luz** 
 
-US04: Activar rutina "Bienvenida" 
+  **Dado que** el sensor de luz no responde, 
+
+  **Cuando** el sistema intenta activar las luces, 
+
+  **Entonces** envía una notificación: "Error al encender luces - Verificar conexión". 
+
+US04: Recibir alerta al llegar a ubicación 
 
 **Como** usuario,  
 
-**Quiero** que mi hogar active luces y ajuste el clima automáticamente al detectar mi proximidad, 
-
-**Para** una bienvenida perfecta sin esfuerzo. 
+**Quiero** que la aplicación me notifique al acercarme a mi ubicación configurada **Para** tener un registro de mi actividad.** 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Activación exitosa** 
+- **Escenario 1: Notificación de llegada** 
 
-  **Dado que** estoy a 50m de mi casa 
+  **Dado que** el usuario está a 30m de su ubicación configurada. **Cuando** el sistema detecta su proximidad. 
 
-  **Cuando** el sistema detecte mi ubicación 
+  **Entonces** envía un push: "¡Bienvenido a Casa!". 
 
-  **Entonces** se encenderán las luces y ajustará el termostato a 22°C. 
+- **Escenario 2:  Ubicación no reconocida** 
 
-- **Escenario 2: Fuera de rango** 
+  **Dado que** el GPS tiene baja precisión (+300m), **Cuándo**  sistema no puede confirmar la ubicación **Entonces** muestra "No se pudo detectar tu llegada". 
 
-  **Dado que** estoy a 500m de casa  
-
-  **Cuando** el sistema verifique mi ubicación **Entonces** no se activará ninguna rutina. 
-
-US05: Recibir alerta de puerta abierta 
-
-**Como** usuario,  
-
-**Quiero** recibir alertas inmediatas si mi puerta principal queda abierta accidentalmente, **Para** prevenir riesgos de seguridad. 
-
-**Criterio de Aceptación:** 
-
-- **Escenario 1: Alerta enviada** 
-
-  **Dado que** la puerta lleva +5 minutos abierta **Cuando** el sensor detecte el estado **Entonces** recibiré una notificación push. 
-
-- **Escenario 2: Falso positivo** 
-
-  **Dado que** estoy moviendo muebles (puerta abierta >5 min) **Cuando** marque "Ignorar" 
-
-  **Entonces** se silenciarán alertas por 1 hora. 
-
-US06: Invitar a un familiar 
+US05: Invitar a un familiar 
 
 **Como** administrador,  
 
@@ -981,7 +1032,13 @@ US06: Invitar a un familiar
 
   **Entonces** el familiar recibirá un enlace de activación. 
 
-US07: Ver historial de actividad 
+- **Escenario 2: Límite de usuarios alcanzado** 
+
+  **Dado que** el usuario ya ha invitado al máximo de familiares permitidos **Cuando** intente añadir un nuevo familiar 
+
+  **Entonces** el sistema mostrará "Ha alcanzado el límite de usuarios invitados" y sugerirá actualizar a un plan premium. 
+
+US06: Ver historial de actividad 
 
 **Como** usuario,  
 
@@ -1005,31 +1062,27 @@ US07: Ver historial de actividad
 
   **Entonces** veré "No hay eventos en este período". 
 
-US08: Configurar modo "Vacaciones" 
+US07: Recibir alerta al salir de ubicación 
 
 **Como** usuario,  
 
-**Quiero** programar mi casa para simular presencia cuando esté de viaje, **Para** disuadir robos. 
+**Quiero** ser notificado si salgo de mi ubicación configurada **Para** tener un registro de mi actividad.** 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Configuración exitosa** 
+- **Escenario 1: Notificación de salida** 
 
-  **Dado que** activo "Modo Vacaciones" 
+  **Dado que** el usuario se aleja 20m de su casa, **Cuándo**  el sistema lo detecta 
 
-  **Cuando** establezca horarios aleatorios 
+  **Entonces** enviará: "Has salido de la zona”. 
 
-  **Entonces** las luces se encenderán automáticamente. 
+- **Escenario 2: Falso positivo por GPS** 
 
-- **Escenario 2: Desactivación remota** 
+  **Dado que** el usuario está en el límite de la zona (50-150m). **Cuando** el GPS fluctúa 
 
-  **Dado que** el modo está activo 
+  **Entonces** el sistema espera 2 minutos antes de notificar. 
 
-  **Cuando** lo desactive desde la app 
-
-  **Entonces** las luces volverán a su estado normal. 
-
-US09: Cambiar idioma de la app 
+US08: Cambiar idioma de la app 
 
 **Como** usuario,  
 
@@ -1039,11 +1092,17 @@ US09: Cambiar idioma de la app
 
 - **Escenario 1: Cambio exitoso** 
 
-  **Dado que** el usuario entra a "Configuración" **Cuando** seleccione "Español" 
+  **Dado que** el usuario entra a "Configuración" **Cuando** seleccione "Idioma → Español" **Entonces** toda la app se traducirá inmediatamente 
 
-  **Entonces** toda la app se traducirá inmediatamente 
+- **Escenario 2: Idioma no disponible** 
 
-US10: Desconectar un dispositivo 
+  **Dado que** el usuario intenta cambiar a un idioma no soportado**  
+
+  **Cuando** seleccione el idioma en la lista 
+
+  **Entonces** el sistema mostrará "Idioma no disponible actualmente" y mantendrá el idioma anterior seleccionado. 
+
+US09: Desconectar un dispositivo 
 
 **Como** usuario,  
 
@@ -1053,7 +1112,7 @@ US10: Desconectar un dispositivo
 
 - **Escenario 1: Eliminación exitosa** 
 
-  **Dado que** selecciono "Eliminar dispositivo" **Cuando** confirme la acción 
+  **Dado que** el usuario seleccione "Eliminar dispositivo" **Cuando** confirme la acción 
 
   **Entonces** desaparecerá de mi dashboard. 
 
@@ -1063,25 +1122,31 @@ US10: Desconectar un dispositivo
 
   **Entonces** veré "No se puede eliminar mientras está activo". 
 
-US11: Configurar notificaciones personalizadas 
+US10: Editar avatar de perfil 
 
 **Como** usuario,  
 
-**Quiero** elegir qué tipos de notificaciones recibo **Para** evitar alertas innecesarias. 
+**Quiero** cambiar mi foto de perfil en "Mi Perfil" **Para** personalizar mi cuenta. 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Personalización exitosa** 
+- **Escenario 1: Imagen válida** 
 
-  **Dado que** el usuario entra a "Configuración de Notificaciones" **Cuando** active/desactive categorías 
+  **Dado que** el usuario sube una imagen en formato JPG, **Cuando** haga clic en "Guardar cambios", 
 
-  **Entonces** el sistema guardará sus preferencias. 
+  **Entonces** el avatar se actualizará. 
 
-US12: Ver Estado de Dispositivos 
+- **Escenario 2: Imagen muy grande** 
+
+  **Dado que** el usuario sube una imagen de 10MB, **Cuando** intente guardar, 
+
+  **Entonces** mostrará: "Tamaño máximo: 2MB". 
+
+US11: Ver Estado de Dispositivos 
 
 **Como** usuario,  
 
-**Quiero** ver rápidamente qué dispositivos están activos/desactivados en mi hogar **Para** tener un resumen del estado actual. 
+**Quiero** ver rápidamente qué dispositivos están activados/desactivados en mi hogar **Para** tener un resumen del estado actual. 
 
 **Criterio de Aceptación:** 
 
@@ -1095,31 +1160,31 @@ US12: Ver Estado de Dispositivos
 
 - **Escenario 2: Filtro por habitación** 
 
-  **Dado que** el usuario selecciona "Cocina" en el filtro **Cuando** aplique el filtro 
+  **Dado que** el usuario selecciona, por ejemplo "Cocina" en el filtro **Cuando** aplique el filtro 
 
   **Entonces** solo mostrará dispositivos de esa área. 
 
-US13: Crear rutina personalizada 
+US12: Reportar problema técnico 
 
 **Como** usuario,  
 
-**Quiero** crear rutinas personalizadas que agrupen múltiples acciones **Para** automatizar escenarios complejos en mi hogar. 
+**Quiero** enviar un ticket en "Help Center > Contact Support" **Para** resolver fallos en mis dispositivos. 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Creación exitosa** 
+- **Escenario 1:  Ticket exitoso** 
 
-  **Dado que** selecciono "Nueva Rutina" 
+  **Dado que** el usuario describe el problema "AC no responde", **Cuando** envíe el formulario, 
 
-  **Cuando** agregue luces al 50% y temperatura a 24°C **Entonces** podré activarla como "Modo Cine". 
+  **Entonces** recibirá un email de confirmación. 
 
-- **Escenario 2: Acciones insuficientes** 
+- **Escenario 2: Campo obligatorio vacío** 
 
-  **Dado que** intento guardar una rutina con solo 1 acción **Cuando** confirme 
+  **Dado que** el usuario no ingresa su email, **Cuando** intente enviar, 
 
-  **Entonces** veré "Se requieren al menos 2 acciones". 
+  **Entonces** mostrará: "Email es requerido". 
 
-US14: Revocar acceso a un usuario invitado 
+US13: Revocar acceso a un usuario invitado 
 
 **Como** administrador del hogar,  
 
@@ -1131,7 +1196,7 @@ US14: Revocar acceso a un usuario invitado
 
   **Dado que** selecciono un miembro invitado **Cuando** haga clic en "Revocar acceso" **Entonces** dejará de aparecer en la lista. 
 
-- **Escenario 2: Intento de auto-eliminación** 
+- **Escenario 2: Intento de autoeliminación** 
 
   **Dado que** soy el administrador principal 
 
@@ -1139,85 +1204,167 @@ US14: Revocar acceso a un usuario invitado
 
   **Entonces** veré "No puedes revocar tu propio acceso". 
 
-US15: Recibir alerta de batería baja 
+US14: Visualizar ubicaciones en mapa 
 
 **Como** usuario,  
 
-**Quiero** ser notificado cuando la batería de mis dispositivos inteligentes esté baja **Para** evitar fallos en su funcionamiento. 
+**Quiero** ver mis ubicaciones configuradas en el mapa dentro de la página **Para** poder identificar fácilmente la localización de cada punto.** 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Notificación temprana** 
+- **Escenario 1: Mapa cargado correctamente** 
 
-  **Dado que** la batería de la cerradura está al 15% **Cuando** el sistema lo detecte 
+  **Dado que** el usuario abre la pestaña "Mapa" 
 
-  **Entonces** recibiré "Batería baja en Cerradura Principal". 
+  **Cuando** el sistema carga las ubicaciones, 
 
-- **Escenario 2: Dispositivo desconectado** 
+  **Entonces** muestra marcadores con nombres personalizados. 
 
-  **Dado que** un sensor no reporta batería por 24h **Cuando** revise el estado 
+- **Escenario 2: Sin conexión a internet** 
 
-  **Entonces** veré "Verifica conexión del sensor". 
+  **Dado que** no hay conexión 
 
-US16: Sincronizar con Google Calendar 
+  **Cuando** el usuario intenta ver el mapa 
 
-**Como** usuario,  
+  **Entonces** muestra "Mapa no disponible”. 
 
-**Quiero** vincular mi calendario  
+US15: Revisar historial de eventos 
 
-**Para** activar rutinas basadas en eventos. 
+**Como** usuario, 
+
+**Quiero** visualizar el historial de eventos en una lista ordenada **Para** poder consultar fácilmente las acciones realizadas y su fecha** 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Vinculación exitosa** 
+- **Escenario 1: Historial ordenado** 
 
-  **Dado que** el usuario autoriza acceso a Google Calendar **Cuando** cree una rutina basada en un evento 
+  **Dado que** el usuario selecciona "Historial" 
 
-  **Entonces** se ejecutará automáticamente. 
+  **Cuando** el sistema carga los datos, 
 
-US17: Restablecer configuración de fábrica 
+  **Entonces** muestra una lista ordenada por fecha (más reciente primero). 
 
-**Como** usuario,  
+- **Escenario 2:  Filtrado por tipo de evento** 
 
-**Quiero** reiniciar completamente mi sistema GeoEntry a valores de fábrica **Para** preparar el dispositivo para un nuevo dueño. 
+  **Dado que** el usuario aplica el filtro "Solo alertas", **Cuando** se actualiza la lista, 
+
+  **Entonces** muestra únicamente notificaciones de seguridad. 
+
+US16: Visualizar analíticas de patrones 
+
+**Como** usuario, 
+
+**Quiero** visualizar analíticas sobre patrones de ubicación y actividad 
+
+**Para** obtener una visión clara y comprensible del comportamiento registrado en el sistema** 
 
 **Criterio de Aceptación:** 
 
 - **Escenario 1: Reset exitoso** 
 
-  **Dado que** ingreso a "Configuración Avanzada" **Cuando** confirme "Restablecer" 
+  **Dado que** el usuario abre "Analíticas" 
 
-  **Entonces** todos mis datos se borrarán. 
+  **Cuando** selecciona "Últimos 7 días" 
 
-- **Escenario 2: Cancelación** 
+  **Entonces** muestra un gráfico de horas pico de actividad. 
 
-  **Dado que** apareció el mensaje de confirmación **Cuando** seleccione "Cancelar" 
+- **Escenario 2: Datos insuficientes** 
 
-  **Entonces** el sistema mantendrá mi configuración actual. 
+  **Dado que** el usuario acaba de instalar GeoEntry **Cuando** intenta ver analíticas 
 
-US18: Ver Preguntas Frecuentes (FAQs) 
+  **Entonces** muestra "Revisa esto para ver insights". 
 
-**Como** usuario,  
+US17: Visualizar ubicaciones configuradas 
 
-**Quiero** acceder a una sección de preguntas frecuentes dentro de la app **Para** resolver dudas básicas sin contactar al soporte. 
+**Como** usuario, 
+
+**Quiero** visualizar la lista de mis ubicaciones configuradas 
+
+**Para** poder consultarlas y asegurarme de que están correctamente registradas** 
 
 **Criterio de Aceptación:** 
 
-- **Escenario 1: Visualizar FAQs** 
+- **Escenario 1: Lista completa** 
 
-  **Dado que** el usuario selecciona "Ayuda" en el menú 
+  **Dado que** el usuario tiene 3 ubicaciones guardadas. 
 
-  **Cuando** haga clic en "Preguntas Frecuentes" 
+  **Cuando** abre "Mis Ubicaciones" 
 
-  **Entonces** verá una lista de 10+ preguntas comunes con sus respuestas. 
+  **Entonces** muestra "Casa", "Oficina" y "Gimnasio" con sus radios. 
 
-- **Escenario 2: Búsqueda específica** 
+- **Escenario 2: Edición rápida** 
 
-  **Dado que** el usuario escribe "luces" en el buscador de FAQs 
+  **Dado que** el usuario hace clic en "Oficina" **Cuando** selecciona "Editar radio". 
 
-  **Cuando** presione "Enter" 
+  **Entonces** permite ajustar el rango de 50-500m. 
 
-  **Entonces** el sistema filtrará preguntas relacionadas con la iluminación. 
+US18: Resumen general del sistema 
+
+**Como** usuario 
+
+**Quiero** visualizar un resumen consolidado de mis ubicaciones**,** dispositivos y eventos **Para** obtener una visión rápida y clara del estado actual de mi cuenta y actividades** 
+
+**Criterio de Aceptación:** 
+
+- **Escenario 1:  Dashboard completo** 
+
+  **Dado que** el usuario abre la app, 
+
+  **Cuando** carga el resumen, 
+
+  **Entonces** muestra los dispositivos activos, ubicaciones configuradas y los eventos. 
+
+- **Escenario 2: Modo sin datos** 
+
+  **Dado que** hay un error en el servidor, 
+
+  **Cuando** el sistema no puede cargar datos, 
+
+  **Entonces** muestra "Reintentar" con un icono de advertencia. 
+
+US19: Redirección desde Landing Page a Login 
+
+**Como** usuario visitante de GeoEntry, 
+
+**Quiero** hacer clic en el botón "Solicitar Demo" en la landing page 
+
+**Para** ser redirigido a la página de login y acceder a la demo de la aplicación. 
+
+**Criterio de Aceptación:** 
+
+- **Escenario 1:  Redirección exitosa al login** 
+
+  **Dado que** el usuario está en la landing page de GeoEntry **Cuando** haga clic en el botón "Solicitar Demo" **Entonces** el sistema lo redirigirá a la página de login. 
+
+- **Escenario 2: Acceso a información alternativa** 
+
+  **Dado que** el usuario prefiere conocer más antes de probar la demo **Cuando** haga clic en el botón "Saber más" 
+
+  **Entonces** el sistema lo redirigirá a “Características de GeoEntry”. 
+
+US20: Activación geolocalizada del hogar inteligente 
+
+**Como** usuario de GeoEntry, 
+
+**Quiero** que mi hogar detecte automáticamente cuando estoy cerca (mediante geolocalización) 
+
+**Para** que se activen los dispositivos configurados sin necesidad de acciones manuales. 
+
+**Criterio de Aceptación:** 
+
+- **Escenario 1:  Llegada a la zona configurada** 
+
+  **Dado que** estoy a 100m de mi hogar **Cuando** el sistema detecte mi ubicación **Entonces** encenderá luces y ajustará el clima. 
+
+- **Escenario 2: Salida de la zona configurada Dado que** me alejo 200m por más de 5 minutos 
+
+  **Cuando** el sistema lo confirme 
+
+  **Entonces** activará el modo "Ausencia" (luces apagadas, clima en ahorro). 
+
+- **Escenario 3: Geocerca personalizada** 
+
+  **Dado que** modifico los radios en Configuración **Cuando** guarde 150m (llegada) y 300m (salida) **Entonces** el sistema actualizará las zonas en el mapa. 
 
 Technical Stories: TS01: POST /api/devices 
 
@@ -1339,7 +1486,7 @@ TS05: POST /api/notifications
 
 3. Impact Mapping 
 
-![](/assets/Aspose.Words.f2d1795a-f772-41eb-b869-4d78c9ec2bbe.003.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.025.jpeg)
 
 4. Product Backlog 
 
@@ -1348,38 +1495,43 @@ TS05: POST /api/notifications
 |N° Orden |User Story ID |Título |Descripción |Story Points |
 | - | :- | - | - | - |
 |1 |US01 |Contactar al equipo de soporte |<p>**Como** usuario de GeoEntry,  </p><p>**Quiero** enviar un mensaje al equipo de soporte desde la app  **Para** resolver problemas técnicos.** </p>|1 |
-|2 |US02 |Ver tutorial de configuración inicial |**Como** usuario nuevo, **quiero** acceder a un tutorial interactivo dentro de la app **para** aprender a configurar mis dispositivos. |3 |
-|3 |US03 |Agregar dispositivo inteligente |**Como** usuario nuevo de GeoEntry,  **Quiero** acceder a un tutorial interactivo dentro de la app  **Para** aprender a configurar mis dispositivos.** |5 |
-|4 |US04 |Activar rutina "Bienvenida" |<p>**Como** usuario,  **Quiero** escanear y vincular un nuevo dispositivo </p><p>**Para** mi cuenta de GeoEntry.** </p>|5 |
-|5 |US05 |Recibir alerta de puerta abierta |**Como** usuario,  **Quiero** que mi hogar active luces y ajuste el clima automáticamente al detectar mi proximidad, |3 |
+|2 |US02 |Agregar dispositivo para geolocalización |<p>**Como** usuario nuevo de GeoEntry, **Quiero** agregar un dispositivo desde la sección "Dispositivos" </p><p>**Para** comenzar a controlar mi hogar inteligente.** </p>|3 |
+|3 |US03 |Prender luces inteligentes |**Como** usuario,  **Quiero** que al entrar a mi casa las luces inteligentes se prendan automáticamente **Para** tener mi casa preparada a lo que quiera hacer** |5 |
+|4 |US04 |Recibir alerta al llegar a mi ubicación |**Como** usuario,  **Quiero** que la aplicación me notifique al acercarme a mi ubicación configurada |3 |
 
 
 
-||||**Para** una bienvenida perfecta sin esfuerzo.** ||
+||||**Para** tener un registro de mi actividad** ||
 | :- | :- | :- | - | :- |
-|6 |US06 |Invitar a un familiar |**Como** administrador, **quiero** compartir acceso temporal con un familiar **para** que controle dispositivos específicos. |5 |
-|7 |US07 |Ver historial de actividad |**Como** usuario,  **Quiero** recibir alertas inmediatas si mi puerta principal queda abierta accidentalmente, **Para** prevenir riesgos de seguridad.** |5 |
-|8 |US08 |Configurar modo "Vacaciones" |<p>**Como** usuario,  **Quiero** programar mi casa para simular presencia cuando esté de viaje, </p><p>**Para** disuadir robos. </p>|3 |
-|9 |US09 |Cambiar idioma de la app |**Como** usuario,  **Quiero** seleccionar el idioma de la interfaz (español/inglés), **Para** mayor comodidad. |3 |
-|10 |US10 |Desconectar un dispositivo |**Como** usuario,  **Quiero** remover dispositivos que ya no uso de mi sistema **Para** mantener mi lista organizada. |1 |
-|11 |US11 |Configurar notificaciones personalizadas |**Como** usuario,  **Quiero** elegir qué tipos de notificaciones recibo |3 |
+|5 |US05 |Invitar a un familiar |**Como** administrador, **quiero** compartir acceso temporal con un familiar **para** que controle dispositivos específicos. |5 |
+|6 |US06 |Ver historial de actividad |**Como** usuario,  **Quiero** recibir alertas inmediatas si mi puerta principal queda abierta accidentalmente, **Para** prevenir riesgos de seguridad.** |5 |
+|7 |US07 |Recibir alerta al salir de la ubicación |<p>**Como** usuario,  **Quiero** ser notificado si salgo de mi ubicación configurada </p><p>**Para** tener un registro de mi actividad.** </p>|3 |
+|8 |US08 |Cambiar idioma de la app |**Como** usuario,  **Quiero** seleccionar el idioma de la interfaz (español/inglés), **Para** mayor comodidad. |3 |
+|9 |US09 |Desconectar un dispositivo |**Como** usuario,  **Quiero** remover dispositivos que ya no uso de mi sistema **Para** mantener mi lista organizada. |1 |
+|10 |US10 |Editar avatar de perfil |**Como** usuario,  |3 |
 
 
 
-||||**Para** evitar alertas innecesarias. ||
+||||<p>**Quiero** cambiar mi foto de perfil en "Mi Perfil" </p><p>**Para** personalizar mi cuenta.** </p>||
 | :- | :- | :- | :- | :- |
-|12 |US12 |Ver estado de dispositivos |<p>**Como** usuario,  **Quiero** ver rápidamente qué dispositivos están activos/desactivados en mi hogar </p><p>**Para** tener un resumen del estado actual. </p>|3 |
-|13 |US13 |Crear rutina personalizada |<p>**Como** usuario,  **Quiero** crear rutinas personalizadas que agrupen múltiples acciones </p><p>**Para** automatizar escenarios complejos en mi hogar. </p>|5 |
-|14 |US14 |Revocar acceso a un usuario invitado |<p>**Como** administrador del hogar,  </p><p>**Quiero** retirar permisos a usuarios invitados cuando ya no los necesiten **Para** mantener la seguridad de mi hogar. </p>|3 |
-|15 |US15 |Recibir alerta de batería baja |**Como** usuario,  **Quiero** ser notificado cuando la batería de mis dispositivos inteligentes esté baja **Para** evitar fallos en su funcionamiento. |3 |
-|16 |US16 |Sincronizar con Google Calendar |**Como** usuario,  **Quiero** vincular mi calendario  |5 |
+|11 |US11 |Ver estado de dispositivos |<p>**Como** usuario,  **Quiero** ver rápidamente qué dispositivos están activos/desactivados en mi hogar </p><p>**Para** tener un resumen del estado actual. </p>|3 |
+|12 |US12 |Reportar problema técnico |<p>**Como** usuario,  **Quiero** enviar un ticket en "Help Center > Contact Support" </p><p>**Para** resolver fallos en mis dispositivos.** </p>|5 |
+|13 |US13 |Revocar acceso a un usuario invitado |<p>**Como** administrador del hogar,  </p><p>**Quiero** retirar permisos a usuarios invitados cuando ya no los necesiten **Para** mantener la seguridad de mi hogar. </p>|3 |
+|14 |US14 |Visualizar ubicaciones en el mapa  |<p>**Como** usuario,  **Quiero** ver mis ubicaciones configuradas en el mapa dentro de la página </p><p>**Para** poder identificar fácilmente la localización de cada punto.** </p>|3 |
 
 
 
-||||**Para** activar rutinas basadas en eventos. ||
-| :- | :- | :- | - | :- |
-|17 |US17 |Restablecer configuración de fábrica |**Como** usuario,  **Quiero** reiniciar completamente mi sistema GeoEntry a valores de fábrica **Para** preparar el dispositivo para un nuevo dueño. |5 |
-|18 |US18 |Ver preguntas frecuentes (FAQs) |**Como** usuario,  **Quiero** acceder a una sección de preguntas frecuentes dentro de la app **Para** resolver dudas básicas sin contactar al soporte. |1 |
+|15 |US15 |Revisar historial de eventos |**Como** usuario, **Quiero** visualizar el historial de eventos en una lista ordenada **Para** poder consultar fácilmente las acciones realizadas y su fecha** |5 |
+| - | - | - | :- | - |
+|16 |US16 |Visualizar analíticas de patrones de ubicación y actividad |<p>**Como** usuario, **Quiero** visualizar analíticas sobre patrones de ubicación y actividad </p><p>**Para** obtener una visión clara y comprensible del comportamiento registrado en el sistema** </p>|5 |
+|17 |US17 |Visualizar mis ubicaciones configuradas |<p>**Como** usuario, **Quiero** visualizar la lista de mis ubicaciones configuradas </p><p>**Para** poder consultarlas y asegurarme de que están correctamente registradas** </p>|3 |
+|18 |US18 |Visualizar el resumen general del sistema |<p>**Como** usuario **Quiero** visualizar un resumen consolidado de mis ubicaciones**,** dispositivos y eventos </p><p>**Para** obtener una visión rápida y clara del estado actual de mi cuenta y actividades** </p>|3 |
+
+
+
+|19 |US19 |Redirección desde Landing Page a Login |<p>**Como** usuario visitante de GeoEntry, </p><p>**Quiero** hacer clic en el botón "Solicitar Demo" en la landing page </p><p>**Para** ser redirigido a la página de login y acceder a la demo de la aplicación.** </p>|1 |
+| - | - | :-: | :- | - |
+|20 |US20 |Activación geolocalizada del hogar inteligente |<p>**Como** usuario de GeoEntry, </p><p>**Quiero** que mi hogar detecte automáticamente cuando estoy cerca (mediante geolocalización) **Para** que se activen los dispositivos configurados sin necesidad de acciones manuales.** </p>|5 |
 
 Capítulo IV: Strategic-Level Software Design 
 
@@ -1389,33 +1541,35 @@ Explicamos el proceso que seguimos para tomar decisiones estratégicas aplicando
 
 1. EventStorming 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.001.jpeg)Anexo: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14) 
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.026.jpeg)
+
+Anexo: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14) 
 
 2. Candidate Context Discovery 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.002.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.027.jpeg)
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.003.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.028.jpeg)
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.004.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.029.jpeg)
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.005.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.030.jpeg)
 
 Anexo: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=14) 
 
 3. Domain Message Flows Modeling
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.006.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.031.jpeg)
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.007.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.032.jpeg)
 
 Anexo: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=14) 
 
 4. Bounded Context Canvases 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.008.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.033.jpeg)
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.009.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.034.jpeg)
 
 Anexo: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=14)
 
@@ -1426,20 +1580,17 @@ Explicamos cómo elaboramos los context maps analizando la información recolect
 3. **Software Architecture** 
 1. **Software Architecture System Landscape Diagram** 
 
-![](/assets/Landscape.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.035.jpeg)
 
 2. **Software Architecture Context Level Diagrams** 
 
-![](/assets/Context.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.036.jpeg)
 
 3. **Software Architecture Container Level Diagrams** 
 
-![](/assets/Container.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.037.jpeg)
 
 4. **Software Architecture Deployment Diagrams** 
-
-![](/assets/development.PNG)
-
 2. **Tactical-Level Domain-Driven Design** 
 1. **Bounded Context: Device** 
 1. **Domain Layer.** 
@@ -1576,20 +1727,20 @@ Esta capa implementa los detalles técnicos y la comunicación con sistemas exte
 - **DeviceStateCache**: Implementa cache para estados de dispositivos de acceso frecuente, mejorando el rendimiento. 
 5. **Bounded Context Software Architecture Component Level Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.014.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.038.jpeg)
 
 [Device Context Component Diagram](https://structurizr.com/share/101484/983f53f0-c6de-4b77-88d5-bb58bdf8bf51/diagrams#DeviceComponentView)
 
 6. **Bounded Context Software Architecture Code Level Diagrams.** 
 1. **Bounded Context Domain Layer Class Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.015.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.039.jpeg)
 
 [Device Context Class Diagram ](https://miro.com/app/board/uXjVI_phoV0=/?moveToWidget=3458764625532886537&cot=14)
 
 2. **Bounded Context Database Design Diagram.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.016.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.040.jpeg)
 
 2. **Bounded Context: Security** 
 1. **Domain Layer.** 
@@ -1739,24 +1890,22 @@ Esta capa implementa los detalles técnicos y la comunicación con sistemas exte
 - **CredentialEncryptionService**: Gestiona el cifrado seguro de credenciales de acceso. 
 - **AccessTokenValidator**: Valida tokens de acceso para operaciones de seguridad. 
 - **AuditLogService**: Registra de forma inmutable todas las operaciones críticas de seguridad. 
-
 5. **Bounded Context Software Architecture Component Level Diagrams.** 
 5. **Bounded Context Software Architecture Code Level Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.017.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.041.jpeg)
 
 [Security Context Component Diagram** ](https://structurizr.com/share/101484/983f53f0-c6de-4b77-88d5-bb58bdf8bf51/diagrams#SecurityComponentView)
 
 1. **Bounded Context Domain Layer Class Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.018.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.042.jpeg)
 
 [Security Context Class Diagram ](https://miro.com/app/board/uXjVI_phoV0=/?moveToWidget=3458764625536852902&cot=14)
 
-
 2. **Bounded Context Database Design Diagram.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.019.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.043.jpeg)
 
 3. **Bounded Context: ClimateControl** 
 1. **Domain Layer.** 
@@ -1897,14 +2046,12 @@ Esta capa implementa los detalles técnicos y la comunicación con sistemas exte
 - **TemperatureTrendAnalyzer**: Analiza tendencias de temperatura para recomendaciones. 
 - **EnergyConsumptionCalculator**: Calcula métricas de consumo energético. 
 - **ComfortIndexService**: Evalúa índices de confort basados en múltiples parámetros ambientales. 
-
 5. **Bounded Context Software Architecture Component Level Diagrams.** 
 5. **Bounded Context Software Architecture Code Level Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.020.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.044.jpeg)
 
 [Climate Control Context Component Diagram ](https://structurizr.com/share/101484/983f53f0-c6de-4b77-88d5-bb58bdf8bf51/diagrams#ClimateComponentView)
-
 
 1. **Bounded Context Domain Layer Class Diagrams.** 
 
@@ -1912,7 +2059,7 @@ Esta capa implementa los detalles técnicos y la comunicación con sistemas exte
 
 2. **Bounded Context Database Design Diagram.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.021.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.045.jpeg)
 
 4. **Bounded Context: User** 
 1. **Domain Layer.** 
@@ -2013,7 +2160,6 @@ Esta capa orquesta los flujos de trabajo y casos de uso relacionados con la gest
 - **UserProfileSynchronizationService**: Mantiene sincronizados los datos entre la aplicación y Supabase. 
 - **AuthorizationService**: Gestiona la evaluación de permisos para diferentes operaciones. 
 - **UserPreferenceService**: Gestiona las preferencias personalizadas de los usuarios. 
-
 4. **Infrastructure Layer.** 
 
 Esta capa implementa los detalles técnicos y la comunicación con sistemas externos: **Repositories (Implementaciones):** 
@@ -2042,24 +2188,22 @@ Esta capa implementa los detalles técnicos y la comunicación con sistemas exte
 **Storage Services:** 
 
 - **StorageService**: Integra con el servicio de almacenamiento de Supabase para archivos de usuario. 
-
 5. **Bounded Context Software Architecture Component Level Diagrams.** 
 5. **Bounded Context Software Architecture Code Level Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.022.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.046.jpeg)
 
 [User Context Component Diagram** ](https://structurizr.com/share/101484/983f53f0-c6de-4b77-88d5-bb58bdf8bf51/diagrams#UserComponentView)
 
 1. **Bounded Context Domain Layer Class Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.023.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.047.jpeg)
 
 [User Context Class Diagram ](https://miro.com/app/board/uXjVI_phoV0=/?moveToWidget=3458764625542278955&cot=14)
 
-
 2. **Bounded Context Database Design Diagram.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.024.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.048.jpeg)
 
 5. **Bounded Context: Notifications** 
 1. **Domain Layer.** 
@@ -2209,945 +2353,1357 @@ Esta capa implementa los detalles técnicos y la comunicación con sistemas exte
 5. **Bounded Context Software Architecture Component Level Diagrams.** 
 5. **Bounded Context Software Architecture Code Level Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.025.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.049.jpeg)
 
 [Notification Context Component Diagram ](https://structurizr.com/share/101484/983f53f0-c6de-4b77-88d5-bb58bdf8bf51/diagrams#NotificationComponentView)
 
 1. **Bounded Context Domain Layer Class Diagrams.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.026.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.050.jpeg)
 
 [Notification Context Class Diagram ](https://miro.com/app/board/uXjVI_phoV0=/?moveToWidget=3458764625542279000&cot=14)
 
 2. **Bounded Context Database Design Diagram.** 
 
-![](/assets/Aspose.Words.bbc09e1a-94d3-47dc-83a6-8f2ccc3d2672.027.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.051.jpeg)
 
-# Capítulo V: Solution UI/UX Design
+**Capítulo V: Solution UI/UX Design**  
 
-## 5.1 Style Guidelines
-En este capítulo se presenta el desarrollo de las interfaces y procesos de la aplicación GeoEntry. El objetivo principal es ofrecer una experiencia visual atractiva y sencilla para el usuario. Para lograrlo, se aplicaron colores que reflejan tecnología y confianza, se aprovechó el espacio de forma eficiente en distintos dispositivos, y se incorporaron imágenes y textos concisos que evitan la sobrecarga informativa. Además, las funcionalidades se organizaron en secciones claramente diferenciadas según su propósito dentro del sistema de automatización residencial.
+1. **Style Guidelines.**  
 
-### 5.1.1 General Style Guidelines
-**Branding**
+En este capítulo se presenta el desarrollo de las interfaces y procesos de la aplicación GeoEntry. El objetivo principal es ofrecer una experiencia visual atractiva y sencilla para el usuario. Para lograrlo, se aplicaron colores que reflejan tecnología y confianza, se aprovechó el espacio de forma eficiente en distintos dispositivos, y se incorporaron imágenes y textos concisos que evitan la sobrecarga informativa. Además, las funcionalidades se organizaron en secciones claramente diferenciadas según su propósito dentro del sistema de automatización residencial. 
 
-La identidad de TechProtection debe transmitir una visión clara: innovación al servicio del bienestar diario. Nuestro ecosistema tecnológico se presenta como confiable, moderno y centrado en el usuario. La marca se posiciona como el puente entre el confort del hogar y la potencia de la automatización inteligente, apelando tanto al aspecto emocional (seguridad y tranquilidad) como racional (eficiencia energética y control remoto).
+1. **General Style Guidelines.** 
 
-El diseño visual debe evocar tecnología accesible pero sofisticada, evitando complejidad innecesaria y resaltando una sensación de orden, precisión y armonía. La consistencia visual a través de todos los canales (app móvil, web y dispositivos físicos) reforzará la recordación y confianza en la marca.
+**Branding** 
 
+La identidad de TechProtection debe transmitir una visión clara: innovación al servicio del bienestar diario. Nuestro ecosistema tecnológico se presenta como confiable, moderno y centrado en el usuario. La marca se posiciona como el puente entre el confort del hogar y la potencia de la automatización inteligente, apelando tanto al aspecto emocional (seguridad y tranquilidad) como racional (eficiencia energética y control remoto). 
 
-**Colors**
+El diseño visual debe evocar tecnología accesible pero sofisticada, evitando complejidad innecesaria y resaltando una sensación de orden, precisión y armonía. La consistencia visual a través de todos los canales (app móvil, web y dispositivos físicos) reforzará la recordación y confianza en la marca. 
 
-La paleta de colores busca un balance entre profesionalismo y calidez:
+**Colors** 
 
-Azul Tecnológico (#0057B7): color primario, transmite innovación, fiabilidad y tecnología.
+La paleta de colores busca un balance entre profesionalismo y calidez: 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.001.png)
+Azul Tecnológico (#0057B7): color primario, transmite innovación, fiabilidad y tecnología. 
 
-Verde Activo (#5BC236): color secundario, señala acciones exitosas y estados activos.
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.052.png)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.002.png)
+Verde Activo (#5BC236): color secundario, señala acciones exitosas y estados activos. 
 
-Blanco Puro (#FFFFFF): base para interfaces limpias y luminosas.
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.053.png)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.003.png)
+Blanco Puro (#FFFFFF): base para interfaces limpias y luminosas. 
 
-Gris Neutro (#F0F0F0): fondo y elementos de soporte, suaviza la interfaz y resalta lo importante.
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.054.png)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.004.png)
+Gris Neutro (#F0F0F0): fondo y elementos de soporte, suaviza la interfaz y resalta lo importante. 
 
-Negro Suave (#1E1E1E): fondo para modo oscuro, utilizado principalmente en la app móvil y web en horarios nocturnos.
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.055.png)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.005.png)
+Negro Suave (#1E1E1E): fondo para modo oscuro, utilizado principalmente en la app móvil y web en horarios nocturnos. 
 
-#### <a name="_lwsliuyiwa5o"></a>**Typography**
-- **Lato**: fuente principal de títulos, botones y encabezados. Su estilo geométrico y moderno comunica tecnología limpia y clara.
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.056.png)
 
-  ![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.006.png)
+**Typography**  
 
-- **OpenSans**: usada para textos secundarios, párrafos y descripciones; ofrece alta legibilidad, especialmente en pantallas pequeñas.
+- **Lato**: fuente principal de títulos, botones y encabezados. Su estilo geométrico y moderno comunica tecnología limpia y clara. 
 
-  ![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.007.png)
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.057.png)
 
-- En general, se privilegian tipografías sans-serif por su carácter digital, versátil y elegante.
-#### <a name="_j7axrgqla5fi"></a>**Spacing**
-El diseño se construye sobre una estructura visual **ordenada y aireada**, que favorece la navegación intuitiva y reduce la carga cognitiva. Las jerarquías se establecen mediante:
+- **OpenSans**: usada para textos secundarios, párrafos y descripciones; ofrece alta legibilidad, especialmente en pantallas pequeñas. 
 
-- Tamaños tipográficos progresivos.
-- Contraste de colores y sombras suaves.
-- Uso de tarjetas, divisores y márgenes uniformes.
-- Botones grandes y accesibles, especialmente para comandos frecuentes como apertura de puerta, encendido de luces o activación de rutinas.
-### 5.1.2 Web, Mobile and IoT Style Guidelines
-**Aplicación Web**
-` `Pensada como un centro de control más técnico y administrativo. Permite la configuración avanzada de dispositivos, visualización de historial de eventos, personalización de rutinas, y ajustes de seguridad.
-` `También está orientada a usuarios que desean un mayor grado de control sobre las automatizaciones y parámetros específicos del hogar. Es ideal para monitoreo desde escritorio o laptop en sesiones más prolongadas.
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.058.png)
 
-**Spacing:**
-` `Se utiliza un diseño modular con tarjetas bien separadas para evitar sobrecarga visual. Las secciones están claramente delimitadas y accesibles desde un menú lateral o superior.
-` `El uso del espaciado refuerza la jerarquía visual, permitiendo que cada tarjeta o bloque informativo respire, haciendo más sencilla su lectura y comprensión.
+- En general, se privilegian tipografías sans-serif por su carácter digital, versátil y elegante. 
 
-**Typography:**
-` `Se mantiene la jerarquía con Montserrat en títulos y botones, y Roboto en listas, historiales y formularios.
-` `Esta combinación genera contraste entre elementos de navegación y contenido, aportando elegancia y claridad a la interfaz.
+**Spacing** 
 
-**Extras:**
-` `Modo oscuro para uso nocturno.
-` `Permite reducir el cansancio visual, especialmente en ambientes con poca iluminación o durante sesiones prolongadas.
+El diseño se construye sobre una estructura visual **ordenada y aireada**, que favorece la navegación intuitiva y reduce la carga cognitiva. Las jerarquías se establecen mediante: 
 
-Iconografía representativa (cerradura, luz, temperatura, aroma).
-` `Los íconos ayudan a identificar rápidamente funciones y dispositivos, manteniendo la estética coherente en toda la plataforma.
+- Tamaños tipográficos progresivos. 
+- Contraste de colores y sombras suaves. 
+- Uso de tarjetas, divisores y márgenes uniformes. 
+- Botones grandes y accesibles, especialmente para comandos frecuentes como apertura de puerta, encendido de luces o activación de rutinas. 
+2. **Web, Mobile y IoT Style Guidelines** 
 
-Layout adaptable a pantallas grandes (responsive).
-` `Garantiza compatibilidad con diferentes resoluciones, desde laptops hasta monitores ultrawide, asegurando una experiencia fluida.
+**Aplicación Web** 
 
------
-**Aplicación Móvil**
-` `Diseñada para interacción rápida y cotidiana, con foco en gestos simples y acceso inmediato a funciones clave.
-` `Es ideal para momentos puntuales como llegar a casa, salir o activar rutinas rápidas, permitiendo control desde cualquier lugar.
+` `Pensada como un centro de control más técnico y administrativo. Permite la configuración avanzada de dispositivos, visualización de historial de eventos, personalización de rutinas, y ajustes de seguridad. 
 
-**Spacing:**
-` `Compacto pero táctil, con elementos accesibles con un solo pulgar. Los botones flotantes y el menú inferior permiten operar sin esfuerzo.
-` `El diseño se adapta a manos de distintos tamaños, facilitando la navegación sin depender de ambas manos.
+` `También está orientada a usuarios que desean un mayor grado de control sobre las automatizaciones y parámetros específicos del hogar. Es ideal para monitoreo desde escritorio o laptop en sesiones más prolongadas. 
 
-**Typography:**
-` `Se prioriza Roboto en casi todos los elementos por su claridad en pantallas pequeñas, con Montserrat reservado para secciones destacadas o pantallas de bienvenida.
-` `Esto mejora la legibilidad, reduce errores de lectura y mantiene una estética limpia y moderna.
+**Spacing:** 
 
-**Extras:**
-` `Navegación inferior fija con cuatro íconos: Inicio, Dispositivos, Rutinas, Perfil.
-` `Estos íconos están pensados para que el usuario no tenga que memorizar rutas complejas ni acceder a menús desplegables.
+` `Se utiliza un diseño modular con tarjetas bien separadas para evitar sobrecarga visual. Las secciones están claramente delimitadas y accesibles desde un menú lateral o superior. 
 
-Animaciones suaves para cambios de estado o navegación.
-` `Contribuyen a una experiencia más fluida y agradable, transmitiendo sensación de modernidad sin sobrecargar el sistema.
+` `El uso del espaciado refuerza la jerarquía visual, permitiendo que cada tarjeta o bloque informativo respire, haciendo más sencilla su lectura y comprensión. 
 
-Diseño responsive adaptable a smartphones y tablets.
-` `La experiencia se mantiene uniforme sin importar el tamaño del dispositivo, promoviendo accesibilidad para todos los usuarios.
-
-Gestos como deslizar para abrir puertas o activar escenas rápidas.
-` `Estos gestos permiten acciones intuitivas sin depender de múltiples toques o botones.
-
------
-**Dispositivos IoT**
-`a`La línea de productos físicos está diseñada para integrarse visualmente en hogares modernos sin sacrificar identidad tecnológica.
-` `Cada dispositivo busca ser funcional y estéticamente neutro, permitiendo que encaje en distintos estilos de decoración.
-
-**Espaciado físico:**
-` `Dispositivos con superficies limpias, sin botones visibles innecesarios, manteniendo una estética minimalista y ergonómica.
-` `Este enfoque evita distracciones visuales y simplifica el uso cotidiano, incluso para personas con poca experiencia tecnológica.
-
-**Indicadores LED:**
-` `Utilización de luces sutiles en azul, verde o rojo suave para comunicar estados como “activo”, “en espera” o “alerta”, sin generar contaminación visual.
-` `Los indicadores están ubicados estratégicamente para ser visibles sin desentonar con el entorno del hogar.
-
-**Typography:**
-` `En etiquetas físicas (si las hay), se usa tipografía sans-serif clara y legible. El nombre de cada dispositivo puede personalizarse desde la app para reforzar el vínculo con el usuario.
-` `Esto permite identificar dispositivos rápidamente, personalizando la experiencia de forma más humana y cercana.
-
-**Acabado:**
-` `Materiales como plástico texturizado mate o metal cepillado para dar una sensación de calidad y durabilidad.
-` `El diseño transmite confianza y solidez, ayudando a que el usuario perciba el producto como una inversión segura.
+**Typography:** 
 
-## 5.2 Information Architecture
-### 5.2.1 Organization Systems
-**Aplicación Web**
-` `La estructura de la versión web está pensada para facilitar la administración del sistema desde una perspectiva más técnica y detallada, especialmente útil para usuarios avanzados o administradores del hogar.
-` `Cada módulo está diseñado para brindar acceso directo a funciones complejas sin sacrificar claridad visual ni usabilidad.
+` `Se mantiene la jerarquía con Montserrat en títulos y botones, y Roboto en listas, historiales y formularios. 
 
-**Jerárquico (Hierarchical):**
-` `Se priorizan las funciones principales (Panel de control, Dispositivos, Seguridad) mediante diferencias visuales como tamaños, colores y ubicación.
-` `Esto guía al usuario naturalmente hacia las secciones más importantes del sistema, reduciendo tiempos de búsqueda.
+` `Esta combinación genera contraste entre elementos de navegación y contenido, aportando elegancia y claridad a la interfaz. 
 
-**Secuencial (Sequential):**
-` `Se aplicará en los flujos de configuración inicial, donde el usuario sigue pasos guiados para conectar dispositivos IoT, definir rutinas y ajustar permisos.
-` `Los pasos están acompañados de ayudas visuales e instrucciones contextuales para facilitar el proceso, incluso a usuarios sin experiencia previa.
+**Extras:** 
 
-**Matriz (Matrix):**
-` `Se brindará la opción de navegar entre dispositivos o rutinas según distintas categorías (por habitación, por tipo de dispositivo, por frecuencia de uso), facilitando la personalización.
-` `Esto permite una exploración libre, útil cuando el usuario busca inspiración o desea optimizar la configuración existente.
+` `Modo oscuro para uso nocturno. 
 
------
-**Aplicación Móvil**
-` `La arquitectura de la app móvil está centrada en el uso diario y accesible con una sola mano. Se ha diseñado para que cualquier acción esté a pocos toques de distancia, reforzando la idea de control rápido y desde cualquier lugar.
-` `Las pantallas son intuitivas, mostrando información clara sin requerir navegación profunda o pasos innecesarios.
+` `Permite reducir el cansancio visual, especialmente en ambientes con poca iluminación o durante sesiones prolongadas. 
 
-**Inicio de sesión y gestión de usuario:**
-` `La app permite autenticación segura, con opciones para ingresar, recuperar contraseña y gestionar perfiles de usuario y hogar.
-` `Se incluye la posibilidad de autenticación biométrica (huella o rostro) para mayor rapidez y seguridad.
+Iconografía representativa (cerradura, luz, temperatura, aroma). 
 
-**Panel principal:**
-` `Desde aquí se accede a un resumen del hogar (estado de dispositivos, notificaciones y accesos recientes).
-` `Este panel puede personalizarse según las preferencias del usuario, mostrando lo más relevante primero.
+` `Los íconos ayudan a identificar rápidamente funciones y dispositivos, manteniendo la estética coherente en toda la plataforma. 
 
-**Dispositivos:**
-` `Se listan todos los dispositivos conectados, con posibilidad de agruparlos por habitación o función (iluminación, seguridad, ambiente).
-` `Cada dispositivo tiene una tarjeta con acceso a controles rápidos y un botón para configuración avanzada.
+Layout adaptable a pantallas grandes (responsive). 
 
-**Rutinas:**
-` `Permite crear, editar y activar rutinas como "Modo noche", "Llegada a casa", o "Vacaciones", combinando múltiples dispositivos.
-` `El usuario puede definir horarios, condiciones y automatizaciones para cada rutina, con una interfaz tipo asistente paso a paso.
+` `Garantiza compatibilidad con diferentes resoluciones, desde laptops hasta monitores ultrawide, asegurando una experiencia fluida. ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.059.png)
 
-**Historial y alertas:**
-` `Visualización clara de eventos recientes como aperturas de puertas, cambios de temperatura, o actividad inusual.
-` `El historial puede filtrarse por fechas o tipo de evento, facilitando la revisión ante incidentes o anomalías.
+**Aplicación Móvil** 
 
-**Notificaciones:**
-` `Sistema de avisos en tiempo real ante eventos importantes, accesible desde cualquier sección.
-` `Las notificaciones pueden personalizarse por nivel de prioridad, tipo de evento o por usuario.
+` `Diseñada para interacción rápida y cotidiana, con foco en gestos simples y acceso inmediato 
 
-**Configuración:**
-` `Permite personalizar preferencias, usuarios secundarios, conexión con asistentes de voz, y ajustes de seguridad.
-` `Incluye control parental, zonas de acceso restringido y opciones de respaldo de configuración.
+a funciones clave. 
 
-**Soporte y ayuda:**
-` `Sección para contactar al equipo técnico, acceder a preguntas frecuentes o solicitar asistencia remota.
-` `Incluye chat en vivo, tutoriales en video y guía paso a paso para la solución de problemas comunes.
+` `Es ideal para momentos puntuales como llegar a casa, salir o activar rutinas rápidas, permitiendo control desde cualquier lugar. 
 
------
-**Dispositivos IoT**
-` `Los dispositivos están organizados lógicamente en la app y en el sistema para facilitar su gestión.
-` `El objetivo es lograr que el usuario sienta que todo está bajo control, sin importar cuántos dispositivos tenga instalados.
+**Spacing:** 
 
-**Agrupación por ambientes:**
-` `Los dispositivos se asignan a habitaciones o zonas del hogar para un control contextualizado.
-` `Esto facilita la activación por zonas (“Encender luces del segundo piso”) o rutinas por ambiente.
+` `Compacto pero táctil, con elementos accesibles con un solo pulgar. Los botones flotantes y el menú inferior permiten operar sin esfuerzo. 
 
-**Categorización funcional:**
-` `Ya sea iluminación, seguridad o confort, cada tipo de dispositivo tiene un ícono y color identificable.
-` `Esto permite identificar rápidamente su función incluso en interfaces densas o múltiples dispositivos en una misma habitación.
+` `El diseño se adapta a manos de distintos tamaños, facilitando la navegación sin depender de ambas manos. 
 
-**Estados claros:**
-` `Cada dispositivo muestra su estado actual (activo, inactivo, alerta) y permite ajustes rápidos desde su tarjeta.
-` `Además, se pueden visualizar cambios recientes, tiempo desde la última activación y condiciones actuales.
+**Typography:** 
 
-**Compatibilidad:**
-` `La interfaz permite integrar nuevos dispositivos fácilmente, manteniendo una estructura uniforme para que todo el ecosistema se sienta como una unidad.
-` `El sistema detecta nuevos equipos automáticamente y guía al usuario en su configuración paso a paso.
+` `Se prioriza Roboto en casi todos los elementos por su claridad en pantallas pequeñas, con Montserrat reservado para secciones destacadas o pantallas de bienvenida. 
 
-### 5.2.2 Labeling Systems
-**Web Application**
-` `Las etiquetas utilizadas en la interfaz web son simples y directas. Se agrupan por funcionalidades como: “Inicio”, “Dispositivos”, “Rutinas”, “Historial” y “Configuración”.
-` `El objetivo es evitar ambigüedades y permitir una navegación clara, incluso para nuevos usuarios sin experiencia técnica.
+` `Esto mejora la legibilidad, reduce errores de lectura y mantiene una estética limpia y moderna. 
 
-**Mobile Application**
-` `En la aplicación móvil, se utilizan etiquetas breves acompañadas de íconos representativos para cada sección. Por ejemplo, un ícono de casa para “Inicio”, un rayo para “Rutinas” y un reloj para “Historial”.
-` `La combinación de texto e iconografía mejora la comprensión y usabilidad, incluso en condiciones de uso apresurado o con poca atención visual.
+**Extras:** 
 
-**IoT Devices**
-` `Los dispositivos IoT no requieren etiquetas complejas. Al estar pensados para activarse automáticamente mediante la geolocalización del usuario, se muestran solo los estados relevantes (por ejemplo: “Activado”, “Apagado”, “Modo Bienvenida”).
-` `Esto evita sobrecargar las interfaces de los dispositivos, y permite que los usuarios los identifiquen fácilmente en entornos reales.
+` `Navegación inferior fija con cuatro íconos: Inicio, Dispositivos, Rutinas, Perfil. 
 
-### 5.2.3 SEO Tags and Meta Tags
-**Web Application**
+` `Estos íconos están pensados para que el usuario no tenga que memorizar rutas complejas ni acceder a menús desplegables. 
 
-<title>GeoEntry – Automatización inteligente del hogar</title>
+Animaciones suaves para cambios de estado o navegación. 
 
-<meta name="description" content="GeoEntry automatiza la bienvenida al hogar integrando luces, puertas, clima y aromas mediante geolocalización. Sin esfuerzo, solo comodidad.">
+` `Contribuyen a una experiencia más fluida y agradable, transmitiendo sensación de modernidad sin sobrecargar el sistema. 
 
-<meta name="keywords" content="hogar inteligente, automatización, IoT, llegada automática, luces, puertas, sensores, entrada inteligente">
+Diseño responsive adaptable a smartphones y tablets. 
 
-<meta name="author" content="TechProtection">
+` `La experiencia se mantiene uniforme sin importar el tamaño del dispositivo, promoviendo accesibilidad para todos los usuarios. 
 
-Estas etiquetas mejoran la visibilidad en motores de búsqueda, alineando el contenido con términos usados por el público objetivo.
+Gestos como deslizar para abrir puertas o activar escenas rápidas. 
 
-**Mobile Application (AndroidManifest.xml)**
+` `Estos gestos permiten acciones intuitivas sin depender de múltiples toques o botones. ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.060.png)
 
-<application
-android:label="GeoEntry - Hogar Inteligente"
-android:description="Tu casa se prepara para ti automáticamente con GeoEntry">
-</application>
+**Dispositivos IoT** 
 
-Estas etiquetas refuerzan la identidad de la app y su funcionalidad en tiendas de aplicaciones, facilitando su descubrimiento.
+` `La línea de productos físicos está diseñada para integrarse visualmente en hogares modernos sin sacrificar identidad tecnológica. 
 
-**IoT Devices**
-` `No utilizan etiquetas SEO tradicionales, pero los dispositivos que se identifican en la red local usan nombres entendibles como “Puerta Entrada”, “Sensor Aromas”, “Luz Recibidor”, para facilitar la gestión desde el sistema o app si fuera necesario.
-` `Esto también mejora la experiencia del usuario cuando hay múltiples dispositivos en el hogar.
+` `Cada dispositivo busca ser funcional y estéticamente neutro, permitiendo que encaje en distintos estilos de decoración. 
 
-### 5.2.4 Searching Systems
-**Web Application**
-` `Incluye un sistema de búsqueda sencillo para localizar dispositivos o eventos pasados. El usuario puede escribir “puerta”, “sensor aroma” o “rutina noche” y recibir resultados filtrados de forma clara.
-` `Esto reduce el tiempo de interacción y permite encontrar información específica de manera eficiente, incluso si el usuario no recuerda el nombre exacto.
+**Espaciado físico:** 
 
-**Mobile Application**
-` `La app permite buscar dispositivos o rutinas por nombre, tipo o ubicación. Por ejemplo: “baño”, “climatización”, o “modo mañana”. También permite revisar el historial usando filtros por fecha o tipo de acción.
-` `Esto da al usuario control total desde su teléfono, sin necesidad de navegar por múltiples menús o secciones.
+` `Dispositivos con superficies limpias, sin botones visibles innecesarios, manteniendo una estética minimalista y ergonómica. 
 
-### 5.2.5 Navigation Systems
-**Web Application**
-` `La navegación se basa en una barra fija en la parte superior, con accesos directos a: “Inicio”, “Dispositivos”, “Rutinas”, “Historial”, “Configuración”.
-` `Toda la estructura busca reducir la cantidad de clics necesarios para realizar acciones comunes, mejorando la eficiencia del sistema.
+` `Este enfoque evita distracciones visuales y simplifica el uso cotidiano, incluso para personas con poca experiencia tecnológica. 
 
-**Mobile Application**
-` `Navegación mediante una barra inferior con íconos. La app está optimizada para uso ocasional, ya que la mayoría de funciones se activan automáticamente. Aun así, el usuario puede acceder rápidamente a cada sección si desea realizar cambios.
-` `La estructura está pensada para responder rápidamente al contexto del usuario, favoreciendo la simplicidad y el control en todo momento.
+**Indicadores LED:** 
 
-## 5.3 Landing Page UI Design
-La propuesta de diseño de la landing page de GeoEntry refleja directamente las decisiones tomadas en torno a la arquitectura de información y los principios de diseño centrado en el usuario. Se buscó una estructura limpia, con una jerarquía visual clara y accesible desde cualquier dispositivo. La navegación está anclada a una barra superior fija que contiene el logo y cuatro botones principales: “Características”, “Cómo funciona”, “Contacto” y “Solicitar demo”. Cada uno dirige a la sección correspondiente dentro de la misma página, asegurando una experiencia fluida y sin distracciones.
+` `Utilización de luces sutiles en azul, verde o rojo suave para comunicar estados como “activo”, “en espera” o “alerta”, sin generar contaminación visual. 
 
-La landing page fue pensada como el primer punto de contacto entre los usuarios potenciales y nuestra solución de automatización inteligente. Por ello, el diseño equilibra lo estético con lo funcional: se utilizaron contrastes accesibles, iconografía representativa, textos concisos y llamadas a la acción bien posicionadas. Se integraron principios de diseño inclusivo como tipografía legible, botones táctiles, estructura semántica clara y compatibilidad con lectores de pantalla.
+` `Los indicadores están ubicados estratégicamente para ser visibles sin desentonar con el entorno del hogar. 
 
-### 5.3.1 Landing Page Wireframe
-#### <a name="_alig7j2wu6c7"></a>**Introducción a las decisiones de diseño y arquitectura de información**
-Los wireframes de la landing page fueron elaborados para visualizar la estructura y disposición funcional del contenido antes de su diseño final. Se desarrollaron versiones específicas tanto para Desktop como para Mobile Web Browser, aplicando principios como consistencia, visibilidad de opciones, y simplicidad cognitiva.
+**Typography:** 
 
-**Versión Desktop Web Browser:**
+` `En etiquetas físicas (si las hay), se usa tipografía sans-serif clara y legible. El nombre de cada dispositivo puede personalizarse desde la app para reforzar el vínculo con el usuario.  Esto permite identificar dispositivos rápidamente, personalizando la experiencia de forma más humana y cercana. 
 
-- **Header:** App bar con logo alineado a la izquierda y botones de navegación a la derecha. Siempre visible (sticky).
-- **Hero Section:** Eslogan principal y un botón de acción (“Solicitar Demo”), acompañado de una imagen que refuerza el mensaje de bienvenida automatizada.
-- **Características:** Cards con icono, título y breve descripción, dispuestas en una grilla simétrica de tres columnas.
-- **Cómo funciona:** Sección vertical con pasos numerados que describen el proceso de integración y uso de GeoEntry.
-- **Solicitar demo:** Tres beneficios destacados de solicitar una demo, con énfasis visual en claridad y brevedad.
-- **Contacto:** Formulario simple con campos de nombre, correo y mensaje. Destacado en color y accesible.
-- **Footer:** Redes sociales y aviso de derechos reservados, alineado al branding general.
+**Acabado:** 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.008.png)
+` `Materiales como plástico texturizado mate o metal cepillado para dar una sensación de calidad y durabilidad. 
 
-Apartado de Características:
+` `El diseño transmite confianza y solidez, ayudando a que el usuario perciba el producto como una inversión segura. 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.009.png)
+2. **Information Architecture** 
+1. **Organization Systems** 
 
+**Aplicación Web** 
 
-Apartado de Solicitar Demo:
+` `La estructura de la versión web está pensada para facilitar la administración del sistema desde una perspectiva más técnica y detallada, especialmente útil para usuarios avanzados o administradores del hogar. 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.010.png)
+` `Cada módulo está diseñado para brindar acceso directo a funciones complejas sin sacrificar claridad visual ni usabilidad. 
 
-Apartado de Contacto:
+**Jerárquico (Hierarchical):** 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.011.png)
+` `Se priorizan las funciones principales (Panel de control, Dispositivos, Seguridad) mediante diferencias visuales como tamaños, colores y ubicación. 
 
+` `Esto guía al usuario naturalmente hacia las secciones más importantes del sistema, reduciendo tiempos de búsqueda. 
 
-**Versión Mobile Web Browser:**
+**Secuencial (Sequential):** 
 
-- Las secciones se reorganizan en una columna vertical con desplazamiento natural (scroll), optimizando la lectura y navegación en pantallas pequeñas.
-- Cards e íconos son más grandes para permitir una interacción táctil cómoda.
-- El menú de navegación se transforma en un **hamburger menu** accesible desde la esquina superior derecha.
-- Los formularios y botones tienen suficiente espaciado para ser utilizados fácilmente con el dedo pulgar.
-- Los textos se adaptan a tamaños legibles sin necesidad de hacer zoom, manteniendo la consistencia visual.
+` `Se aplicará en los flujos de configuración inicial, donde el usuario sigue pasos guiados para conectar dispositivos IoT, definir rutinas y ajustar permisos. 
 
+` `Los pasos están acompañados de ayudas visuales e instrucciones contextuales para facilitar el proceso, incluso a usuarios sin experiencia previa.** 
 
-Apartado de Caracteristicas:
+**Matriz (Matrix):** 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.012.png)
+` `Se brindará la opción de navegar entre dispositivos o rutinas según distintas categorías (por habitación, por tipo de dispositivo, por frecuencia de uso), facilitando la personalización. 
 
-Apartado de Solicitar Demo:
+` `Esto permite una exploración libre, útil cuando el usuario busca inspiración o desea optimizar la configuración existente. ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.061.png)
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.013.png)
+**Aplicación Móvil** 
 
-Apartado de Contacto:
+` `La arquitectura de la app móvil está centrada en el uso diario y accesible con una sola mano. Se ha diseñado para que cualquier acción esté a pocos toques de distancia, reforzando la idea de control rápido y desde cualquier lugar. 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.014.png)
+` `Las pantallas son intuitivas, mostrando información clara sin requerir navegación profunda o pasos innecesarios. 
 
-Apartado de información de contacto:
+**Inicio de sesión y gestión de usuario:** 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.015.png)
+` `La app permite autenticación segura, con opciones para ingresar, recuperar contraseña y gestionar perfiles de usuario y hogar. 
 
-### 5.3.2 Landing Page Mock-up
+` `Se incluye la posibilidad de autenticación biométrica (huella o rostro) para mayor rapidez y seguridad. 
 
-Los mock-ups desarrollados para la landing page de GeoEntry representan la versión visual definitiva del diseño, aplicando todos los lineamientos del sistema de diseño establecido para la marca. Este Design System incluye uso de tipografías Montserrat y Roboto, paleta de colores institucional (azules, blancos y verdes suaves), y componentes reutilizables como cards, botones, iconografía y formularios.
+**Panel principal:** 
 
-Versión Desktop Web Browser:
+` `Desde aquí se accede a un resumen del hogar (estado de dispositivos, notificaciones y accesos recientes). 
 
-- Se mantiene un layout amplio, con un uso efectivo del espacio negativo para evitar sobrecarga visual.
-- Las cards de características presentan íconos representativos de iluminación, seguridad, aroma y confort, enmarcadas dentro de bloques elevados con sombras suaves.
-- El CTA “Solicitar Demo” se resalta con un color primario contrastante y un hover state animado.
-- El formulario de contacto respeta los estándares de accesibilidad: etiquetas visibles, validación básica y botones de envío bien definidos.
+` `Este panel puede personalizarse según las preferencias del usuario, mostrando lo más relevante primero. 
 
+**Dispositivos:** 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.016.png)
+` `Se listan todos los dispositivos conectados, con posibilidad de agruparlos por habitación o función (iluminación, seguridad, ambiente). 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.017.png)
+` `Cada dispositivo tiene una tarjeta con acceso a controles rápidos y un botón para configuración avanzada. 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.018.png)
+**Rutinas:** 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.019.png)
+` `Permite crear, editar y activar rutinas como "Modo noche", "Llegada a casa", o "Vacaciones", combinando múltiples dispositivos. 
 
+` `El usuario puede definir horarios, condiciones y automatizaciones para cada rutina, con una interfaz tipo asistente paso a paso. 
 
-**Versión Mobile Web Browser:**
+**Historial y alertas:** 
 
-- El mock-up móvil prioriza la legibilidad y la facilidad de uso con una mano.
-- Las secciones se apilan verticalmente con espaciado consistente y tipografía legible.
-- Se incluyen microinteracciones para transiciones suaves, y el botón de “Solicitar Demo” permanece siempre visible en la parte inferior como botón flotante.
-- Los formularios tienen campos accesibles, compatibles con teclado predictivo y controles nativos del sistema operativo móvil.
+` `Visualización clara de eventos recientes como aperturas de puertas, cambios de temperatura, 
 
-Ambos mock-ups fueron diseñados siguiendo los principios de diseño inclusivo, manteniendo coherencia visual con los demás productos de TechProtection y asegurando una experiencia fluida, accesible y efectiva para distintos perfiles de usuario.
+- actividad inusual. 
 
+` `El historial puede filtrarse por fechas o tipo de evento, facilitando la revisión ante incidentes 
 
-Apartado de Hero Section:
+- anomalías. 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.020.png)
+**Notificaciones:** 
 
-Apartado de Características:
+` `Sistema de avisos en tiempo real ante eventos importantes, accesible desde cualquier sección. 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.021.png)
+` `Las notificaciones pueden personalizarse por nivel de prioridad, tipo de evento o por usuario. 
 
+**Configuración:** 
 
-Apartado de Solicitar Demo:
+` `Permite personalizar preferencias, usuarios secundarios, conexión con asistentes de voz, y ajustes de seguridad. 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.022.png)
+` `Incluye control parental, zonas de acceso restringido y opciones de respaldo de configuración. 
 
+**Soporte y ayuda:** 
 
+` `Sección para contactar al equipo técnico, acceder a preguntas frecuentes o solicitar asistencia remota. 
 
+` `Incluye chat en vivo, tutoriales en video y guía paso a paso para la solución de problemas comunes. ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.062.png)
 
-Apartado de Contacta con Nosotros:
+**Dispositivos IoT** 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.023.png)
+` `Los dispositivos están organizados lógicamente en la app y en el sistema para facilitar su gestión. 
 
+` `El objetivo es lograr que el usuario sienta que todo está bajo control, sin importar cuántos dispositivos tenga instalados. 
 
+**Agrupación por ambientes:** 
 
+` `Los dispositivos se asignan a habitaciones o zonas del hogar para un control contextualizado.  Esto facilita la activación por zonas (“Encender luces del segundo piso”) o rutinas por ambiente. 
 
-Apartado de Información de Contacto:
+**Categorización funcional:** 
 
-![](assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.024.png)
+` `Ya sea iluminación, seguridad o confort, cada tipo de dispositivo tiene un ícono y color identificable. 
 
+` `Esto permite identificar rápidamente su función incluso en interfaces densas o múltiples dispositivos en una misma habitación. 
 
-## 5.4 Applications UX/UI Design
-### 5.4.1 Applications Wireframes
+**Estados claros:** 
 
-En esta parte se explora el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web GeoEntry. Tanto la ubicación de elementos como la selección de fuentes, íconos y colores han sido cuidadosamente pensados para ofrecer una navegación intuitiva, una estructura clara y una experiencia visualmente atractiva y fluida.
+` `Cada dispositivo muestra su estado actual (activo, inactivo, alerta) y permite ajustes rápidos desde su tarjeta. 
 
-La sección de Proyectos es la principal, donde el usuario puede visualizar las automatizaciones creadas y, si lo desea, iniciar una nueva. También se incluye una breve descripción de la solución general, resaltando los beneficios de GeoEntry como sistema de automatización inteligente. Todo el diseño busca reflejar comodidad, seguridad y eficiencia, pilares fundamentales de nuestra propuesta.
+` `Además, se pueden visualizar cambios recientes, tiempo desde la última activación y condiciones actuales. 
 
-**Mobile Application Wireframes**
+**Compatibilidad:** 
 
-Home
+` `La interfaz permite integrar nuevos dispositivos fácilmente, manteniendo una estructura uniforme para que todo el ecosistema se sienta como una unidad. 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.025.png)
+` `El sistema detecta nuevos equipos automáticamente y guía al usuario en su configuración paso a paso. ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.063.png)
 
-Devices
+2. **Labeling Systems** 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.026.png)
+**Web Application** 
 
-Stats y Logs -  Device Activity
+` `Las etiquetas utilizadas en la interfaz web son simples y directas. Se agrupan por funcionalidades como: “Inicio”, “Dispositivos”, “Rutinas”, “Historial” y “Configuración”.  El objetivo es evitar ambigüedades y permitir una navegación clara, incluso para nuevos usuarios sin experiencia técnica. 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.027.png)
+**Mobile Application** 
 
-Groups
+` `En la aplicación móvil, se utilizan etiquetas breves acompañadas de íconos representativos para cada sección. Por ejemplo, un ícono de casa para “Inicio”, un rayo para “Rutinas” y un reloj para “Historial”. 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.028.png)
+` `La combinación de texto e iconografía mejora la comprensión y usabilidad, incluso en condiciones de uso apresurado o con poca atención visual. 
 
-Notifications
+**IoT Devices** 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.029.png)
+` `Los dispositivos IoT no requieren etiquetas complejas. Al estar pensados para activarse automáticamente mediante la geolocalización del usuario, se muestran solo los estados relevantes (por ejemplo: “Activado”, “Apagado”, “Modo Bienvenida”). 
 
+` `Esto evita sobrecargar las interfaces de los dispositivos, y permite que los usuarios los identifiquen fácilmente en entornos reales. 
 
-Settings
+3. **SEO Tags and Meta Tags** 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.030.png)
+**Web Application** 
 
-Support
+<title>GeoEntry – Automatización inteligente del hogar</title> 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.031.png)
+<meta name="description" content="GeoEntry automatiza la bienvenida al hogar integrando luces, puertas, clima y aromas mediante geolocalización. Sin esfuerzo, solo comodidad."> 
+
+<meta name="keywords" content="hogar inteligente, automatización, IoT, llegada automática, luces, puertas, sensores, entrada inteligente"> 
+
+<meta name="author" content="TechProtection"> 
+
+Estas etiquetas mejoran la visibilidad en motores de búsqueda, alineando el contenido con términos usados por el público objetivo. 
+
+**Mobile Application (AndroidManifest.xml)** 
+
+<application 
+
+android:label="GeoEntry - Hogar Inteligente" 
+
+android:description="Tu casa se prepara para ti automáticamente con GeoEntry" > 
+
+</application> 
+
+Estas etiquetas refuerzan la identidad de la app y su funcionalidad en tiendas de aplicaciones, facilitando su descubrimiento. 
+
+**IoT Devices** 
+
+` `No utilizan etiquetas SEO tradicionales, pero los dispositivos que se identifican en la red local usan nombres entendibles como “Puerta Entrada”, “Sensor Aromas”, “Luz Recibidor”, para facilitar la gestión desde el sistema o app si fuera necesario. 
+
+` `Esto también mejora la experiencia del usuario cuando hay múltiples dispositivos en el hogar. 
+
+4. **Searching Systems** 
+
+**Web Application** 
+
+` `Incluye un sistema de búsqueda sencillo para localizar dispositivos o eventos pasados. El usuario puede escribir “puerta”, “sensor aroma” o “rutina noche” y recibir resultados filtrados de forma clara. 
+
+` `Esto reduce el tiempo de interacción y permite encontrar información específica de manera eficiente, incluso si el usuario no recuerda el nombre exacto. 
+
+**Mobile Application** 
+
+` `La app permite buscar dispositivos o rutinas por nombre, tipo o ubicación. Por ejemplo: “baño”, “climatización”, o “modo mañana”. También permite revisar el historial usando filtros por fecha o tipo de acción. 
+
+` `Esto da al usuario control total desde su teléfono, sin necesidad de navegar por múltiples menús o secciones. ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.064.png)
+
+5. **Navigation Systems** 
+
+**Web Application** 
+
+` `La navegación se basa en una barra fija en la parte superior, con accesos directos a: “Inicio”, “Dispositivos”, “Rutinas”, “Historial”, “Configuración”. 
+
+` `Toda la estructura busca reducir la cantidad de clics necesarios para realizar acciones comunes, mejorando la eficiencia del sistema. 
+
+**Mobile Application** 
+
+` `Navegación mediante una barra inferior con íconos. La app está optimizada para uso ocasional, ya que la mayoría de funciones se activan automáticamente. Aun así, el usuario puede acceder rápidamente a cada sección si desea realizar cambios. 
+
+` `La estructura está pensada para responder rápidamente al contexto del usuario, favoreciendo 
+
+la simplicidad y el control en todo momento.
+
+3. **Landing Page UI Design.**  
+
+La propuesta de diseño de la landing page de GeoEntry refleja directamente las decisiones tomadas en torno a la arquitectura de información y los principios de diseño centrado en el usuario. Se buscó una estructura limpia, con una jerarquía visual clara y accesible desde cualquier dispositivo. La navegación está anclada a una barra superior fija que contiene el logo y cuatro botones principales: “Características”, “Cómo funciona”, “Contacto” y “Solicitar demo”. Cada uno dirige a la sección correspondiente dentro de la misma página, asegurando una experiencia fluida y sin distracciones. 
+
+La landing page fue pensada como el primer punto de contacto entre los usuarios potenciales y nuestra solución de automatización inteligente. Por ello, el diseño equilibra lo estético con lo funcional: se utilizaron contrastes accesibles, iconografía representativa, textos concisos y llamadas a la acción bien posicionadas. Se integraron principios de diseño inclusivo como tipografía legible, botones táctiles, estructura semántica clara y compatibilidad con lectores de pantalla. 
+
+1. **Landing Page Wireframe.**  
+
+**Introducción a las decisiones de diseño y arquitectura de información** 
+
+Los wireframes de la landing page fueron elaborados para visualizar la estructura y disposición funcional del contenido antes de su diseño final. Se desarrollaron versiones específicas tanto para Desktop como para Mobile Web Browser, aplicando principios como consistencia, visibilidad de opciones, y simplicidad cognitiva. 
+
+**Versión Desktop Web Browser:** 
+
+- **Header:** App bar con logo alineado a la izquierda y botones de navegación a la derecha. Siempre visible (sticky). 
+- **Hero Section:** Eslogan principal y un botón de acción (“Solicitar Demo”), acompañado de una imagen que refuerza el mensaje de bienvenida automatizada. 
+- **Características:** Cards con icono, título y breve descripción, dispuestas en una grilla simétrica de tres columnas. 
+- **Cómo funciona:** Sección vertical con pasos numerados que describen el proceso de integración y uso de GeoEntry. 
+- **Solicitar demo:** Tres beneficios destacados de solicitar una demo, con énfasis visual en claridad y brevedad. 
+- **Contacto:** Formulario simple con campos de nombre, correo y mensaje. Destacado en color y accesible. 
+- **Footer:** Redes sociales y aviso de derechos reservados, alineado al branding general. 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.065.jpeg)
+
+Apartado de Características: 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.066.jpeg)
+
+Apartado de Solicitar Demo: 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.067.jpeg)
+
+Apartado de Contacto: 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.068.jpeg)
+
+**Versión Mobile Web Browser:** 
+
+- Las secciones se reorganizan en una columna vertical con desplazamiento natural (scroll), optimizando la lectura y navegación en pantallas pequeñas. 
+- Cards e íconos son más grandes para permitir una interacción táctil cómoda. 
+- El menú de navegación se transforma en un **hamburger menu** accesible desde la esquina superior derecha. 
+- Los formularios y botones tienen suficiente espaciado para ser utilizados fácilmente con el dedo pulgar. 
+- Los textos se adaptan a tamaños legibles sin necesidad de hacer zoom, manteniendo la consistencia visual. 
+
+Apartado de Caracteristicas: 
+
+Apartado de Solicitar Demo: 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.069.jpeg)
+
+Apartado de Contacto: 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.070.jpeg)
+
+Apartado de información de contacto: 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.071.jpeg)
+
+2. **Landing Page Mock-up.**  
+
+Los mock-ups desarrollados para la landing page de GeoEntry representan la versión visual definitiva del diseño, aplicando todos los lineamientos del sistema de diseño establecido para la marca. Este Design System incluye uso de tipografías Montserrat y Roboto, paleta de colores institucional (azules, blancos y verdes suaves), y componentes reutilizables como cards, botones, iconografía y formularios. 
+
+Versión Desktop Web Browser: 
+
+- Se mantiene un layout amplio, con un uso efectivo del espacio negativo para evitar sobrecarga visual. 
+- Las cards de características presentan íconos representativos de iluminación, seguridad, aroma y confort, enmarcadas dentro de bloques elevados con sombras suaves. 
+- El CTA “Solicitar Demo” se resalta con un color primario contrastante y un hover state animado. 
+- El formulario de contacto respeta los estándares de accesibilidad: etiquetas visibles, validación básica y botones de envío bien definidos. 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.072.jpeg)
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.073.jpeg)
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.074.jpeg)
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.075.jpeg)
+
+**Versión Mobile Web Browser:** 
+
+- El mock-up móvil prioriza la legibilidad y la facilidad de uso con una mano. 
+- Las secciones se apilan verticalmente con espaciado consistente y tipografía legible. 
+- Se incluyen microinteracciones para transiciones suaves, y el botón de “Solicitar Demo” permanece siempre visible en la parte inferior como botón flotante. 
+- Los formularios tienen campos accesibles, compatibles con teclado predictivo y controles nativos del sistema operativo móvil. 
+
+Ambos mock-ups fueron diseñados siguiendo los principios de diseño inclusivo, manteniendo coherencia visual con los demás productos de TechProtection y asegurando una experiencia fluida, accesible y efectiva para distintos perfiles de usuario. 
+
+Apartado de Hero Section: 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.076.jpeg)
+
+Apartado de Características:** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.077.jpeg)
+
+Apartado de Solicitar Demo:** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.078.jpeg)
+
+Apartado de Contacta con Nosotros:** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.079.jpeg)
+
+Apartado de Información de Contacto:** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.080.jpeg)
+
+4. **Applications UX/UI Design.** 
+1. **Applications Wireframes.** 
+
+En esta parte se explora el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web GeoEntry. Tanto la ubicación de elementos como la selección de fuentes, íconos y colores han sido cuidadosamente pensados para ofrecer una navegación intuitiva, una estructura clara y una experiencia visualmente atractiva y fluida. 
+
+La sección de Proyectos es la principal, donde el usuario puede visualizar las automatizaciones creadas y, si lo desea, iniciar una nueva. También se incluye una breve descripción de la solución general, resaltando los beneficios de GeoEntry como sistema de automatización inteligente. Todo el diseño busca reflejar comodidad, seguridad y eficiencia, pilares fundamentales de nuestra propuesta. 
+
+**Mobile Application Wireframes** Home 
+
+Devices 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.081.jpeg)
+
+Stats y Logs -  Device Activity 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.082.jpeg)
+
+Groups 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.083.jpeg)
+
+Notifications** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.084.jpeg)
+
+Settings 
+
+Support 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.085.jpeg)
+
+Profile 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.086.jpeg)
+
+**Web Application Wireframes** Home 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.087.jpeg)
+
+**Devices** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.088.jpeg)
+
+Stats & Logs 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.089.jpeg)
+
+Group 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.090.jpeg)
+
+Notifications 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.091.jpeg)
+
+**Settings** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.092.jpeg)
+
+Support 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.093.jpeg)
 
 Profile
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.032.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.094.jpeg)
 
-**Web Application Wireframes**
+**Sign in** 
 
-Home
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.095.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.034.png)
+2. **Applications Wireflow Diagrams.  Sign In / Sign Up** 
 
-**Devices**
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.096.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.035.png)
+   See and Manage Devices 
 
-Stats & Logs
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.097.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.036.png)
+   Manage Logs 
 
-Group
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.098.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.037.png)
+   **Manage Group** 
 
-Notifications
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.099.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.038.png)
+   See Notifications 
 
-**Settings**
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.100.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.039.png)
+   Edit Setting 
 
-Support
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.101.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.040.png)
+   Obtain Support 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.102.jpeg)
 
-Profile
+   Edit Profile 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.041.png)
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.103.jpeg)
 
-**5.4.2. Applications Wireflow Diagrams.** 
+2. **Applications Mock-ups.**  
 
-See and Manage Devices
+Los siguientes mockups ofrecen una vista previa del diseño y estructura visual de la aplicación web antes de su desarrollo final. Gracias a estos mockups podemos anticipar cómo se dispondrán los diferentes elementos en la interfaz, garantizando que el diseño sea claro, intuitivo y coherente con la identidad de la solución. 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.044.png)
+La sección de Proyectos es fundamental, ya que permite a los usuarios gestionar sus automatizaciones inteligentes, visualizar el estado de sus dispositivos conectados y crear nuevas reglas basadas en ubicación. Esta vista previa permite validar que la experiencia del usuario sea fluida y centrada en la comodidad, seguridad y eficiencia que ofrece GeoMetry. 
 
-Manage Logs
+**Mobile Application MockUps** Home 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.045.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.104.jpeg)
 
-**Manage Group**
+Devices 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.046.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.105.jpeg)
 
-See Notifications
+Notifications 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.047.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.106.jpeg)
 
-Edit Setting
+Profile 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.048.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.107.jpeg)
 
-Obtain Support
+Settings 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.049.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.108.jpeg)
 
-Edit Profile
+**Para Mockups de Aplicación Móvil:** 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.050.png)
+"Los mockups de la aplicación móvil dan vida a la visión de una **experiencia de usuario inmersiva y atractiva**. La **paleta de colores cuidadosamente seleccionada** busca evocar [menciona la sensación 
 
-### 5.4.3. Applications Mock-ups.
+- emoción deseada, e.g., dinamismo, calma, profesionalismo], mientras que la **tipografía legible y armoniosa** asegura una comunicación clara y placentera. La **iconografía intuitiva y estilizada** facilita la navegación y la comprensión de las funcionalidades de un vistazo. Se ha prestado especial atención a los **detalles visuales y las transiciones sutiles**, buscando una sensación de **cohesión y fluidez** en cada interacción. Estos mockups representan una interfaz móvil que aspira a ser **visualmente cautivadora y eminentemente usable**, invitando a los usuarios a una experiencia **rica y satisfactoria** en sus dispositivos." 
 
-Los siguientes mockups ofrecen una vista previa del diseño y estructura visual de la aplicación web antes de su desarrollo final. Gracias a estos mockups podemos anticipar cómo se dispondrán los diferentes elementos en la interfaz, garantizando que el diseño sea claro, intuitivo y coherente con la identidad de la solución.
+  **Para Mockups de Aplicación Web:** 
 
-La sección de Proyectos es fundamental, ya que permite a los usuarios gestionar sus automatizaciones inteligentes, visualizar el estado de sus dispositivos conectados y crear nuevas reglas basadas en ubicación. Esta vista previa permite validar que la experiencia del usuario sea fluida y centrada en la comodidad, seguridad y eficiencia que ofrece GeoMetry.
+  "Los mockups de la aplicación web exploran una **estética visual refinada y profesional**, donde la **disposición armoniosa de los elementos** y el **uso estratégico del espacio** contribuyen a una **interfaz limpia y organizada**. La **paleta de colores considerada** busca transmitir [menciona la sensación o emoción deseada, e.g., confianza, innovación, eficiencia], complementada por una **tipografía clara y jerárquica** que optimiza la legibilidad y la comprensión de la información. La **iconografía coherente y expresiva** enriquece la navegación y la interacción con las diversas secciones. Se ha puesto énfasis en la **consistencia visual** y en la creación de un **flujo visual intuitivo**, buscando una experiencia que sea tanto **estéticamente agradable como altamente funcional**, facilitando a los usuarios la consecución de sus tareas de manera **cómoda y eficiente** en un entorno digital atractivo." 
 
+  Logs 
 
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.109.jpeg)
 
-**Mobile Application MockUps**
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.110.jpeg)
 
-Home
+  Support 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.051.png)
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.111.jpeg)
 
-Devices
+  Sign In 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.052.png)
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.112.jpeg)
 
-Notifications
+  **Web Application MockUps** Home 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.053.png)
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.113.jpeg)
 
+  Devices
 
-Profile
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.114.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.054.png)
+  Stats y Logs 
 
-Settings
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.115.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.055.png)
+  Group 
 
-Logs
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.116.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.056.png)
+  Notifications 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.057.png)
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.117.jpeg)
 
-Support
+  Settings 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.058.png)
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.118.jpeg)
 
+  Login 
 
-**Web Application MockUps**
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.119.jpeg)
 
-Home
+  Support 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.060.png)Devices![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.061.png)
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.120.jpeg)
 
+  Profile 
 
+  ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.121.jpeg)
 
+3. **Applications User Flow Diagrams.  Mobile Application User Flow Diagrams** 
 
+   Edit Settings 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.122.jpeg)
 
+   **Obtain Suppport** 
 
-Stats y Logs
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.123.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.062.png)
+   Edit Profile 
 
-Group
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.124.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.063.png)
+   Sign Up / Sign In
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.125.jpeg)
 
+   Manage Devices
 
+   Visualize Logs 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.126.jpeg)
 
+   Manage Groups 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.127.jpeg)
 
-Notifications
+   Visualize Notifications
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.064.png)
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.128.jpeg)
 
-Settings
+   **Web Application User Flow Diagrams** 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.065.png)
+   Register-SignIn 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.129.jpeg)
 
+   Manage Devices 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.130.jpeg)
 
+   Manage Groups 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.131.jpeg)
 
+   Manage Logs 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.132.jpeg)
 
+   Manage Settings 
 
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.133.jpeg)
 
+   Obtain Support 
 
-Support
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.134.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.067.png)
+   Edit Profile 
 
-Profile
+   ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.135.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.068.png)
+5. **Applications Prototyping.** 
 
+[https://www.figma.com/proto/gHjErqfAizdZ6oX3tLViFO/Untitled?node-id=1- 3440&t=oLEiZS406phv2tQp-0&scaling=scale-down&content-scaling=fixed&page- id=0%3A1&starting-point-node-id=1%3A2510&show-proto-sidebar=1 ](https://www.figma.com/proto/gHjErqfAizdZ6oX3tLViFO/Untitled?node-id=1-3440&t=oLEiZS406phv2tQp-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2510&show-proto-sidebar=1)
 
-### 5.4.4. Applications User Flow Diagrams.
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.136.jpeg)
 
-**Mobile Application User Flow Diagrams**
+[https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website- Template-%7C-Mobile---Desktop--Community-?node-id=460- 692&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page- id=0%3A1&starting-point-node-id=460%3A692&show-proto-sidebar=1 ](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-%7C-Mobile---Desktop--Community-?node-id=460-692&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=460%3A692&show-proto-sidebar=1)
 
-Edit Settings
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.137.jpeg)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.069.png)
+**Capítulo VI: Product Implementation, Validation & Deployment**   
 
-**Obtain Suppport**
+1. **Software Configuration Management.**  
+1. **Software Development Environment Configuration.**  *Requirements Management* 
+- **Trello:** Herramienta para gestionar flujos de trabajo en proyectos ágiles. Se usará para monitorear y actualizar el estado de tareas e historias de usuario durante el sprint. Referencia: [https://trello.com/es ](https://trello.com/es)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.070.png)
+*Product UX/UI Design* 
 
-Edit Profile
+- **Figma:** Plataforma de diseño de prototipos e interfaces digitales. Se empleará para crear los diseños de la aplicación en sus versiones web y móvil. Referencia: [https://www.figma.com/login ](https://www.figma.com/login)
+- **Lucidchart:** Aplicación para crear diagramas. Se utilizará para diseñar flujos de usuario, wireflows y el diagrama de clases del sistema. Referencia:[ https://www.lucidchart.com/ ](https://www.lucidchart.com/)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.071.png)
+*Software Testing* 
 
-Sign Up / Sign In![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.072.png)
+- **Gherkin:** Lenguaje para especificar criterios de aceptación en formato Given-When-Then. Ayudará a definir los requerimientos de las user stories. Referencia: [https://cucumber.io/docs/gherkin/ ](https://cucumber.io/docs/gherkin/)
 
-Manage Devices![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.073.png)Visualize Logs
+*Software Development* 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.074.png)
+- **Visual Studio Code**: IDE seleccionado para el desarrollo por su versatilidad, soporte multiplataforma y amplia gama de extensiones útiles para proyectos web modernos. Referencia[: https://code.visualstudio.com/ ](https://code.visualstudio.com/)
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario basadas en componentes reutilizables. Permite el desarrollo eficiente de aplicaciones web dinámicas. Referenci[a: https://react.dev/ ](https://react.dev/)
+- **TypeScript**: Superset de JavaScript que añade tipado estático, lo que mejora la mantenibilidad y reduce errores durante el desarrollo. Es ampliamente utilizado con React en proyectos modernos. Referencia:[ https://www.typescriptlang.org/docs/ ](https://www.typescriptlang.org/docs/)
+- **Vite**: Herramienta de desarrollo frontend rápida y ligera que permite una experiencia de desarrollo optimizada con soporte nativo para módulos de ES y excelente integración con React y TypeScript. Referencia[: https://vitejs.dev/ ](https://vitejs.dev/)
+- **Tailwind CSS**: Framework de CSS utilitario que permite crear interfaces modernas y responsivas directamente en el marcado HTML o JSX. Facilita el diseño rápido y coherente sin necesidad de escribir CSS personalizado extensivo. Referencia[: https://tailwindcss.com/docs ](https://tailwindcss.com/docs)
+- **Flutter:** Framework de código abierto para desarrollar interfaces de usuario nativas compiladas para móvil, web y escritorio desde una única base de código, utilizando el lenguaje Dart. Referencia:[ https://docs.flutter.dev/ ](https://docs.flutter.dev/)
 
-Manage Groups
+*Software Deployment* 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.075.png)
+- **Git:** Sistema de control de versiones diseñado para registrar y administrar las distintas iteraciones del código fuente. Será implementado para conservar un registro detallado de todas las modificaciones realizadas al proyecto, facilitando así la identificación y solución de incidencias. Los desarrolladores interactuarán con esta herramienta mediante terminal o línea de comandos en sus equipos locales. Ruta de referencia[ https://git-scm.com/ ](https://git-scm.com/)
 
-Visualize Notifications![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.076.png)
+*Software Documentation and Project Management* 
 
-**Web Application User Flow Diagrams**
+- **Github:** Plataforma de alojamiento en la nube que servirá como repositorio centralizado para el código del proyecto. Esta solución permitirá la colaboración simultánea entre los miembros del equipo y el seguimiento detallado de todas las contribuciones individuales. El acceso a la plataforma se realizará mediante navegadores web convencionales. Ruta de referencia[: https://github.com/ ](https://github.com/)
+2. **Source Code Management.**  
 
-Manage Devices
+El desarrollo del proyecto adoptará las convenciones del flujo de trabajo GitFlow para la gestión de versiones, empleando GitHub como plataforma principal para el control de versiones. A continuación, se explicará la implementación específica de GitFlow como metodología para el control de versiones, junto con los enlaces correspondientes a los repositorios de GitHub para cada componente: Landing Page, Web Services y Frontend Web Applications. 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.078.png)
+**Flujo de trabajo GitFlow:** El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model". 
 
-Manage Groups
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.138.png)
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.079.png)
+Estructura de branches (Ramas): 
 
-Manage Logs
+1. **Master  branch  (Rama  principal):**  Constituirá  el  eje  central  del  proyecto,  albergando exclusivamente versiones estables y definitivas del producto. Los cambios sólo se incorporarán tras superar rigurosas pruebas en otras ramas de desarrollo. 
+1. **Develop branch (Rama de desarrollo):** Servirá como núcleo para la evolución continua del proyecto,  donde  convergerán  todas  las  contribuciones  del  equipo  durante  el  proceso  de desarrollo. 
+1. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad específica contará con una rama independiente. Al completarse su desarrollo, se integrará a la rama principal de desarrollo. La  nomenclatura  seguirá  el  formato  "feature/descripción-funcionalidad"  para  garantizar claridad y unicidad. 
+1. **Release  branches  (Ramas  de  lanzamiento):**  Estas  bifurcaciones  representarán  versiones candidatas  de  la  rama  develop,  preparadas  para  su  eventual  incorporación  a  master.  Su identificación se basará en el Versionamiento Semántico estándar. 
+1. **Hotfix branches (Ramas de corrección):** Se implementarán para resolver de manera ágil errores críticos detectados en producción que afecten directamente la funcionalidad del sistema. 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.080.png)
+**Versionamiento Semántico:** El control de versiones aplicará estrictamente los principios del Versionamiento Semántico 2.0.0 (SemVer) 
 
-Manage Settings
+**Convenciones de Commits:** Los mensajes de confirmación seguirán las directrices de Conventional Commits, inspiradas en Angular Commit Guidelines. La estructura básica será: 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.081.png)
+*git commit -m "<type>[optional scope]:<title>" -m"<description">*
 
-Obtain Support
+3. **Source Code Style Guide & Conventions.**  
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.082.png)
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
 
-Edit Profile
+1. Cerrar todos los elementos HTML: Por ejemplo, *<h>Esto es un título.</h>* 
+1. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad. 
+1. Utilizar comillas en caso de que los atributos contengan espacios entre sí. 
+1. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: *<img src="abc.img" alt="image name" style="width:64px;height:64px">* 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.083.png)  
+**CSS:** Entre las prácticas empleadas se mencionan: 
 
-## 5.5 Applications Prototyping
+1. Los identificadores de clases deben ser concisos y descriptivos por sí mismos. 
+1. Separar los nombres de las clases y ID con un guión, por ejemplo: *#video-id y .hero-shadow{}* 
+1. Evitar especificar la unidad de medida luego de usar el valor 0, por ejemplo: margin: 0 en lugar de margin: 0px. 
+1. Cada selector y declaración CSS debe ubicarse en líneas independientes para facilitar su lectura y mantenimiento. 
 
-#### Mobile Application Prototyping
+**Gherkin:** Es un lenguaje especializado diseñado para abordar un desafío específico: facilitar la comunicación efectiva entre los equipos de negocio y técnicos al implementar Behavior Driven Development (BDD). Para optimizar su uso, se implementaron las siguientes prácticas: 
 
-[Prototipo Web Application (Hecho en Figma)](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-|-Mobile---Desktop--Community-?node-id=460-692&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=460%3A692&show-proto-sidebar=1)
+1. **Organización visual:** Se emplearon saltos de línea estratégicos para estructurar claramente los diferentes escenarios y mejorar su legibilidad. 
+1. **Palabras clave:** Se utilizaron los términos fundamentales "Given", "When", "Then" y "And" para: 
+- Establecer el contexto inicial. 
+- Describir las acciones principales. 
+- Definir los resultados esperados. 
+- Agregar condiciones complementarias cuando fuera necesario. 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.084.png)
+Este enfoque garantiza que los criterios de aceptación sean:  
 
-#### Web Application Prototyping
+- Claros para todos los stakeholders  
+- Fáciles de mantener  
+- Alienados con los requisitos del negocio
+4. **Software Deployment Configuration.**  
 
-[Prototipo Mobile Application (Hecho en Figma)](https://www.figma.com/proto/3paifCmo3Uq7KaSUgXRHmo/Personal-Portfolio-Website-Template-%7C-Mobile---Desktop--Community-?node-id=433-3841&p=f&t=rFZqKPbuMUrHsY9N-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=433%3A3841&show-proto-sidebar=1)
+**Landing page deployment:** 
 
-![](/assets/Aspose.Words.f89818fd-145b-446d-905e-2ff738bfca0f.085.png)
+Para desplegar la landing page utilizando Netlify, es necesario cumplir con ciertos prerrequisitos: disponer de una cuenta personal en Netlify, tener un repositorio en GitHub correctamente configurado con los archivos del proyecto y mantener una estructura de carpetas clara. A continuación, se detalla el proceso de implementación paso a paso: 
 
-## 6.2. Landing Page, Services & Applications Implementation. 
+**Estructura de directorios:** 
 
-**6.2.1. Sprint 1**
+- El archivo principal del proyecto debe nombrarse como **index.html.**
+- La hoja de estilos debe almacenarse bajo el nombre **style.css.**
+- Crear una carpeta **img/** para contener todos los recursos gráficos. 
 
-1. **Sprint Planning 1**
+**Sincronización con el repositorio:** 
 
+- Subir los archivos al repositorio de GitHub mediante un commit, siguiendo las convenciones de mensajes establecidas por el equipo. 
 
+**Configuración en Netlify:** 
 
-|Sprint #|Sprint 1|
+- Acceder a la plataforma de Netlify y seleccionar la opción "Add new site" > "Import from Git". 
+- Conectar la cuenta de GitHub y seleccionar el repositorio correspondiente. 
+- Definir la rama de despliegue (por lo general **main** o **master**). 
+
+**Publicación:** 
+
+- Netlify detectará automáticamente el contenido estático y procederá a realizar el primer despliegue. 
+- Una vez completado, se generará un enlace público desde donde se podrá visualizar la landing page en producción. 
+- Cada nuevo commit en el repositorio desencadenará automáticamente un nuevo despliegue. 
+2. **Landing Page, Services & Applications Implementation.**  
+1. **Sprint 1** 
+1. **Sprint Planning 1** 
+
+
+
+|Sprint # |Sprint 1 |
 | - | - |
-|Sprint Planning Background||
-|Date|12 de Mayo del 2025|
-|Time|6 horas|
-|Location|Modalidad remota por Discord|
-|Prepared By|TechProtection|
-|Attendees (to planning meeting)|Todos los miembros|
-|Sprint 1 Review Summary|Reunión de integrantes del grupo para delegar tareas, tanto Landing Page, Web App  e informe.|
-|Sprint 1 Retrospective Summary|Mejorar comunicación y tiempo de reuniones.|
-|Sprint Goal & User Stories|En este sprint se planea desarrollar un avance en el informe así como las correcciones del informe. Además, terminar nuestro landing page para mostrar información pertinente y tener un diseño responsive.|
-|Sprint 1 Velocity|15|
-|Sum of Story Points|18|
+|Sprint Planning Background ||
+|Date |12 de Mayo del 2025 |
+|Time |6 horas |
+|Location |Modalidad remota por Discord |
+|Prepared By |TechProtection |
+|Attendees (to planning meeting) |Todos los miembros |
+|Sprint 1 Review Summary |Reunión de integrantes del grupo para delegar tareas, tanto Landing Page, Web App  e informe. |
+|Sprint 1 Retrospective Summary |Mejorar comunicación y tiempo de reuniones. |
+|Sprint Goal & User Stories |En este sprint se planea desarrollar un avance en el informe así como las correcciones del informe. Además, terminar nuestro landing page para mostrar información pertinente y tener un diseño responsive. |
+|Sprint 1 Velocity |15 |
+|Sum of Story Points |18 |
 
-2. **Aspect Leaders and Collaborators.**
-
-
-
-|Team Members|Github Usernames|Frontend|LandingPage|Figma|Corrección de informe|Informe|
-| - | :- | - | - | - | :- | - |
-|Elías Sanchez, Harold MigueL|HamesEl|C|C|C|L|C|
+2. **Aspect Leaders and Collaborators.** 
 
 
 
-|López Huamán, Rodrigo Adrián|RodrLH|L|L|C|L|L|
-| :- | - | - | - | - | - | - |
-|Meneses Arevalo, Victor Manuel|vrokerev|C|C|L|L|C|
-|Gamboa Delgado, Brayan Stiven|GamboaBrayan|C|C|C|L|C|
-|Salvador Rodríguez, Rodrigo Jesús|Rodrigojsr12|C|C|C|L|C|
-
-3. **Sprint Backlog 1**
+|Team Members |Github Usernames |Frontend |LandingPag e |Figma |Corrección de informe |Informe |
+| :- | :- | - | :- | - | - | - |
+|Elías Sanchez, |HamesEl |C |C |C |L |C |
 
 
 
-<table><tr><th colspan="2" rowspan="2" valign="top">SPRINT</th><th colspan="5">SPRINT 1</th></tr>
-<tr><td colspan="5">Work-Item / Task</td></tr>
-<tr><td colspan="1" valign="top">User Story ID</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">id</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Tiemp o (horas)</td><td colspan="1" valign="top">Assigne d to</td><td colspan="1">Status (to-do/ in process / To review/ done</td></tr>
-</table>
+|Harold MigueL|||||||
+| - | :- | :- | :- | :- | :- | :- |
+|López Huamán, Rodrigo Adrián|RodrLH |L |L |C |L |L |
+|Meneses Arevalo, Victor Manuel|vrokerev |C |C |L |L |C |
+|Gamboa Delgado, Brayan Stiven|GamboaBra yan |C |C |C |L |C |
+|Salvador Rodríguez, Rodrigo Jesús|Rodrigojsr1 [2 ](https://github.com/orgs/TechProtection/people/Rodrigojsr12)|C |C |C |L |C |
+
+3. **Sprint Backlog 1** 
+
+SPRINT  SPRINT 1 ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.139.png)![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.140.png)
+
+Work-Item / Task 
 
 
 
-|US0 1 |Contactar al equipo de soporte |0 1|<p>**Como** usuario de GeoEntry,  **Quiero** enviar un mensaje al equipo de soporte desde la app  </p><p>**Para** resolver problemas técnicos. </p>|3|Victor Meneses|Done|
-| :-: | - | - | :- | - | :- | - |
-|US0 7 |Ver historial de actividad |0 3|<p>**Como** usuario,  **Quiero** recibir alertas inmediatas si mi puerta principal queda abierta accidentalmente , </p><p>**Para** prevenir riesgos de seguridad. </p>|4|Rodrigo López|Done|
-|US2 0 |Redirecció n desde Landing Page a Login |0 8|**Como** usuario visitante de GeoEntry, **Quiero** hacer clic en el botón "Solicitar Demo" en la landing page **Para** ser redirigido a la página de login y acceder a la demo de la aplicación. |1|Rodrigo Salvador|Done|
-
-4. **Development Evidence for Sprint Review.**
-
-A continuación, se presentan los commits realizados en el repositorio de la landing page, Página Web y el Documento en el Github.
-
-[https://github.com/TechProtection/Documentation-IOT.git ](https://github.com/TechProtection/Documentation-IOT.git)[https://github.com/TechProtection/geontry-frontend.git ](https://github.com/TechProtection/geontry-frontend.git)<https://github.com/TechProtection/geoentry-smart-hub-control.git>
+|User Story ID |Title |id |Description |Tiemp o (horas) |Assigned to |Status (to- do/ in process/ To review/ done |
+| :- | - | - | - | :- | :- | :- |
+|US01|Contactar al equipo de soporte|01 |<p>**Como** usuario de GeoEntry,  **Quiero** enviar un mensaje al equipo de soporte desde la app  </p><p>**Para** resolver problemas técnicos.</p>|3 |Victor Meneses |Done |
+|US06|Ver historial de actividad |03 |<p>**Como** usuario,  **Quiero** recibir alertas inmediatas si mi puerta principal queda abierta accidentalmen te, </p><p>**Para** prevenir riesgos de seguridad.** </p>|4 |Rodrigo López |Done |
 
 
 
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
-| - | - | :- | - | :- | :- |
-|geoentry-smart- hub-control|main|9c9a627|Add hero image|Implement a hero image related to the product.|April 4|
-|geoentry-smart- hub-control|main|319996f|add netlify.toml|.|April 7|
-|geoentry-smart- hub-control|main|d11f178|Add GeoEntry buttons|Add two new buttons with GeoEntry styling.|April 9|
-|geontry-frontend|main|3a6887e|initial commit|.|May 9|
-|Documentation- IOT|main|a6b8293|docs: add cap 1|add cap 1|April 12|
-|Documentation- IOT|main|be67b4e|fix table error|fix error|April 28|
-|Documentation- IOT|main|3df094d|Cambios C4|Correcciones C4|May 12|
+|US19 |Redirección desde Landing Page a Login |08 |**Como** usuario visitante de GeoEntry, **Quiero** hacer clic en el botón "Solicitar Demo" en la landing page **Para** ser redirigido a la página de login y acceder a la demo de la aplicación.** |1 |Rodrigo Salvador |Done |
+| - | :-: | - | :- | - | :- | - |
 
-5. **Testing Suite Evidence for Sprint Review.**
+4. **Development Evidence for Sprint Review.** 
 
-Para este Sprint N°1 no se realizaron pruebas para el RESTful API ni para el frontend. Solo se verificó el correcto funcionamiento del landing page desplegado.
+A continuación, se presentan los commits realizados en el repositorio de la landing page, Página Web y el Documento en el Github. 
 
-6. **Execution Evidence for Sprint Review**
+[https://github.com/TechProtection/Documentation-IOT.git ](https://github.com/TechProtection/Documentation-IOT.git)[https://github.com/TechProtection/geontry-frontend.git ](https://github.com/TechProtection/geontry-frontend.git)[https://github.com/TechProtection/geoentry-smart-hub-control.git ](https://github.com/TechProtection/geoentry-smart-hub-control.git)
 
-En esta Sprint 1, el equipo desarrolló el Landing page como la primera versión del Frontend.
 
-**LandingPage**
 
-![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.001.jpeg)
+|Repository |Branch |Commit Id |Commit Message |Commit Message Body |Commited on (Date) |
+| - | - | - | - | - | :- |
+|geoentry- smart-hub- control |main |9c9a627|Add hero image |Implement a hero image related to the product.|April 4 |
+|geoentry- smart-hub- control|main |319996f|add netlify.toml|. |April 7 |
+|geoentry- smart-hub- control|main |d11f178|Add GeoEntry buttons|Add two new buttons with GeoEntry styling.|April 9 |
 
-**FrontEnd**
 
-![ref1]
 
-7. **Services Documentation Evidence for Sprint Review.**
+|geontry- frontend |main |3a6887e|initial commit|. |May 9 |
+| - | - | - | - | - | - |
+|Documentation -IOT |main|a6b8293 |docs: add cap 1 |add cap 1 |April 12 |
+|Documentation -IOT |main |be67b4e |fix table error |fix error |April 28 |
+|Documentation -IOT |main |3df094d |Cambios C4 |Correcciones C4 |May 12 |
 
-En este Sprint 1, los miembros de TechProtection se enfocaron netamente con el diseño y desarrollo de la Landing Page y la primera versión del Frontend, también con el despliegue visual del Landing Page con éxito.
+5. **Testing Suite Evidence for Sprint Review.** 
 
-8. **Software Deployment Evidence for Sprint Review.**
+Para este Sprint N°1 no se realizaron pruebas para el RESTful API ni para el frontend. Solo se verificó el correcto funcionamiento del landing page desplegado. 
 
-El equipo ha desplegado de forma exitosa el Landing Page, donde se muestra una página con diseño y colores Soft para la vista del usuario e información relevante.
+6. **Execution Evidence for Sprint Review** 
 
-Landing Page:
+En esta Sprint 1, el equipo desarrolló el Landing page como la primera versión del Frontend. 
 
-[https://geoentry-landing.netlify.app/ ](https://geoentry-landing.netlify.app/)
+**LandingPage** 
 
-![ref2]
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.141.jpeg)
 
-FrontEnd: <https://geoentry-site.netlify.app/>
-
-![ref1]
-
-9. **Team Collaboration Insights during Sprint.**
-
-Aquí se muestra la colaboración del equipo y ramas dentro del proyecto: 
+**FrontEnd** 
 
 ![ref3]
 
+7. **Services Documentation Evidence for Sprint Review.** 
 
+En este Sprint 1, los miembros de TechProtection se enfocaron netamente con el diseño y desarrollo de la Landing Page y la primera versión del Frontend, también con el despliegue visual del Landing Page con éxito. 
 
-|Sprint #|Sprint 2|
-| - | - |
-|Sprint Planning Background||
-|Date|16 de Junio del 2025|
-|Time|8 horas|
-|Location|Modalidad remota por Discord|
-|Prepared By|TechProtection|
-|Attendees (to planning meeting)|Todos los miembros|
-|Sprint 1 Review Summary|Reunión de integrantes del grupo para delegar tareas, tanto del Backend, Edge Api, Web App, Mobile App  e informe.|
-|Sprint 2 Retrospective Summary|Mejorar comunicación y tiempo de reuniones.|
-|Sprint Goal & User Stories|En este sprint se plantea realizar la primera versión de nuestro sistema como el Backend, Edge Api, Mobile App y Web App, así como completar el informe.|
-|Sprint 2 Velocity|15|
-|Sum of Story Points|18|
+8. **Software Deployment Evidence for Sprint Review.** 
 
+El equipo ha desplegado de forma exitosa el Landing Page, donde se muestra una página con diseño y colores Soft para la vista del usuario e información relevante. 
 
+Landing Page: 
 
-|Team Members|Github Usernames|REST API|Frontend|Edge - API|Corrección de informe|Mobile Application|Informe|
-| :- | :- | :- | - | :- | :- | :- | - |
-|<p>Elías Sanchez, Harold </p><p>MigueL</p>|HamesEl|C|C|L|L|L|C|
-|López Huamán, Rodrigo Adrián|RodrLH|L|L|C|C|C|C|
-|Meneses Arevalo, Victor Manuel|vrokerev|C|C|C|L|C|L|
-|Gamboa Delgado, Brayan Stiven|Gamboa Bryan|L|C|C|L|C|C|
-|Salvador Rodríguez, Rodrigo Jesús|Rodrigojsr12|C|C|C|L|C|L|
-
-
-
-<table><tr><th colspan="2" rowspan="2" valign="top">SPRINT</th><th colspan="5">SPRINT 2</th></tr>
-<tr><td colspan="5">Work-Item / Task</td></tr>
-<tr><td colspan="1" valign="top">User Story ID</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">id</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Tiemp o (horas )</td><td colspan="1" valign="top">Assigne d to</td><td colspan="1">Status (to-do/ in proces s/ To review / done</td></tr>
-<tr><td colspan="1" valign="top">US0 6</td><td colspan="1" valign="top">Invitar a un familiar </td><td colspan="1" valign="top">0 2</td><td colspan="1" valign="top"><b>Como</b> administrador, <b>quiero</b> compartir acceso temporal con un familiar <b>para</b> que controle dispositivos específicos. </td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Victor Menese s</td><td colspan="1" valign="top">Done</td></tr>
-<tr><td colspan="1" valign="top">US0 9 </td><td colspan="1" valign="top">Cambiar idioma de la app </td><td colspan="1" valign="top">0 3</td><td colspan="1" valign="top"><b>Como</b> usuario,  <b>Quiero</b> seleccionar el idioma de la interfaz (español/inglés), <b>Para</b> mayor comodidad. </td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Brayan Gambo a</td><td colspan="1" valign="top">Done</td></tr>
-</table>
-
-
-
-|US1 2 |Ver estado de dispositivos |0 4|**Como** usuario,  **Quiero** ver rápidamente qué dispositivos están activos/desactivad os en mi hogar **Para** tener un resumen del estado actual. |4|Harold Elías|Done|
-| :-: | :-: | - | :- | - | :- | - |
-|US1 4 |Revocar acceso a un usuario invitado |0 5|<p>**Como** administrador del hogar,  </p><p>**Quiero** retirar permisos a usuarios invitados cuando ya no los necesiten </p><p>**Para** mantener la seguridad de mi hogar. </p>|2|Rodrigo Salvado r|Done|
-|US1 1 |Editar avatar de perfil |0 6|**Como** usuario,  **Quiero** cambiar mi foto de perfil en "Mi Perfil" **Para** personalizar mi cuenta. |2|Rodrigo Lopez|Done|
-
-
-
-|US1 8 |Ver preguntas frecuentes (FAQs) |0 7|<p>**Como** usuario,  **Quiero** acceder a una sección de preguntas frecuentes dentro de la app </p><p>**Para** resolver dudas básicas sin contactar al soporte. </p>|2|Victor Menese s|Done|
-| :-: | :-: | - | :- | - | :- | - |
-|US2 1 |Activación geolocaliza da del hogar inteligente |0 8|**Como** usuario de GeoEntry, **Quiero** que mi hogar detecte automáticamente cuando estoy cerca (mediante geolocalización) **Para** que se activen los dispositivos configurados sin necesidad de acciones manuales. |5|Harold Elías|Done|
-
-A continuación, se presentan los commits realizados en el repositorio de la landing page, Página Web y el Documento en el Github.
-
-[https://github.com/TechProtection/geoentry-edge-api ](https://github.com/TechProtection/geoentry-edge-api)[https://github.com/TechProtection/geoentry-rest-api ](https://github.com/TechProtection/geoentry-rest-api)[https://github.com/TechProtection/geoentry-mobile ](https://github.com/TechProtection/geoentry-mobile)[https://github.com/TechProtection/TechProtect-backend ](https://github.com/TechProtection/TechProtect-backend)<https://github.com/TechProtection/geontry-frontend>
-
-
-
-|Reposit ory|Bran ch|Com mit Id|Commit Message|Commit Message Body|Commit ed on (Date)|
-| :- | :- | :- | - | :- | :- |
-|geoentry- edge-api|master|937f4f3|feat: fix created\_at in db|fix created\_at in db|June 18|
-
-
-
-|geoentry- edge-api|master|261e328|feat: fix db|fix db|June 19|
-| :- | - | - | - | - | - |
-|geoentry- edge-api|master|a7a24eb|chore; config for render deployment|config for render deployment|June 19|
-|geoentry- edge-api|master|4f6c8d7|chore: add swagger-ui|add swagger-ui|June 19|
-|geoentry- edge-api|master|bab9f39|fix: fix backend url error|fix backend url error|June 19|
-|geoentry- edge-api|master|d882cdd|fix: fix host url error|fix host url error|June 19|
-|geoentry- edge-api|master|56301b5|fix: fix backend url|fix backend url|June 19|
-|geoentry- edge-api|master|6868344|fix: fix backend url|fix backend url|June 19|
-|geoentry- edge-api|master|6198264|chore: delete schemas|delete schemas|June 19|
-|geoentry- rest-api|main|b4bf5c6|feat: fix cors errors|fix cors errors|June 16|
-|geoentry- rest-api|main|502d3f8|feat: update tables|update tables|June 17|
-|geoentry- rest-api|main|430aba8|fix: CORS errors|CORS errors|June 17|
-|geoentry- rest-api|main|6ef1bac|fix: fix baseurl error|fix baseurl error|June 17|
-|geoentry- rest-api|main|0db248b|fix: remove local server|remove local server|June 17|
-|geoentry- rest-api|main|529f7d1|chore: update cors|update cors|June 19|
-|geoentry- rest-api|main|cdbc4da|fix: fix errors|fix errors|June 19|
-|geoentry- rest-api|main|ccfd9fb|fix: fix errors|fix errors|June 19|
-|geometry- mobile|main|c81bdfb|feat: change api url|change api url|June 17|
-|geometry- mobile|main|65f66d8|merge: pull request from TechProtection/feat/lo cation|merge: pull request from TechProtection/feat/lo cation|June 17|
-
-
-
-|geometry- mobile|main|559df2f|eas config|eas config|June 14|
-| :- | - | - | - | - | - |
-|geometry- mobile|main|2dcc9d2|api integration|api integration|June 8|
-|geometry- mobile|main|464557c|feat: location set|location set|June 8|
-|geometry- mobile|main|619821c|initial commit: Geometry Mobile app|Geometry Mobile app|June 8|
-|geometry- mobile|main|746fd43|Created a new expo app|Created a new expo app|May 27|
-|TechProtec t-backend|main|ed30f4b|Backend|Backend|June 15|
-|geometry- frontend|main|46d6f52|feat: update types|update types|June 16|
-|geometry- frontend|main|7ed8bf7|feat: updating load states|updating load states|June 17|
-|geometry- frontend|main|c90ae91|feat: add password viewer|add password |June 17|
-
-Para este Sprint N°2 se realizaron pruebas para el RESTful API y para el Edge Api.
-
-En este Sprint 2, el equipo desarrolló el frontend en su segunda versión, el Mobile Application  en su primera versión, primera versión del Edge Api y primera versión del Rest Api.
-
-**FrontEnd**
-
-![ref1]
-
-**Mobile App**
-
-![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.005.jpeg)
-
-**Edge Api**
+[https://geoentry-landing.netlify.app/ ](https://geoentry-landing.netlify.app/) 
 
 ![ref4]
 
-**Rest Api**
-
-![ref5]
-
-En este Sprint 2, los miembros de TechProtection se enfocaron en el desarrollo de una segunda versión del FrontEnd Web Application, primera versión del Rest Api y Edge Api además de la primera versión de la Mobile Application.
-
-El equipo ha desplegado de forma exitosa el Landing Page, el Frontend, el Rest Api y el Edge Api, en las cuales se evidencia en las siguientes capturas, además de adjuntar sus respectivos links en donde se puede visualizar de mejor manera el desplegado de cada uno.
-
-Landing Page: [https://geoentry-landing.netlify.app/ ](https://geoentry-landing.netlify.app/)
-
-![ref2]
-
-FrontEnd: <https://geoentry-site.netlify.app/>
-
-![ref1]
-
-![ref6]
-
-![ref7]
-
-![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.010.png)
-
-Aquí se muestra la colaboración del equipo y ramas dentro del proyecto: 
+FrontEnd: [https://geoentry-site.netlify.app/ ](https://geoentry-site.netlify.app/)
 
 ![ref3]
 
-**Segmento objetivo: Usuarios residenciales (hogares inteligentes)** **Preguntas generales:** 
+9. **Team Collaboration Insights during Sprint.** 
+
+Aquí se muestra la colaboración del equipo y ramas dentro del proyecto:**  
+
+![ref5]
+
+2. Sprint 2 
+1. **Sprint Planning 2.**  
+
+
+
+|Sprint # |Sprint 2 |
+| - | - |
+
+
+
+|Sprint Planning Background ||
+| - | :- |
+|Date |16 de Junio del 2025 |
+|Time |8 horas |
+|Location |Modalidad remota por Discord |
+|Prepared By |TechProtection |
+|Attendees (to planning meeting) |Todos los miembros |
+|Sprint 1 Review Summary |Reunión de integrantes del grupo para delegar tareas, tanto del Backend, Edge Api, Web App, Mobile App  e informe. |
+|Sprint 2 Retrospective Summary |Mejorar comunicación y tiempo de reuniones. |
+|Sprint Goal & User Stories |En este sprint se plantea realizar la primera versión de nuestro sistema como el Backend, Edge Api, Mobile App y Web App, así como completar el informe. |
+|Sprint 2 Velocity |15 |
+|Sum of Story Points |18 |
+
+2. **Aspect Leaders and Collaborators.** 
+
+
+
+|Team Member s |Github Usernam es |REST API |Frontend |Edge - API |Correcci ón de informe |Mobile Applicatio n |Inform e |
+| :- | :- | :- | - | :- | :- | :- | :- |
+|Elías Sanchez, Harold MigueL |HamesE l |C |C |L |L |L |C |
+
+
+
+|López Huamán, Rodrigo Adrián |RodrLH |L |L |C |C |C |C |
+| :-: | - | - | - | - | - | - | - |
+|Meneses Arevalo, Victor Manuel |vrokerev |C |C |C |L |C |L |
+|Gamboa Delgado, Brayan Stiven |Gamboa Bryan |L |C |C |L |C |C |
+|<p>Salvador Rodrígu</p><p>ez, Rodrigo Jesús </p>|Rodrigoj sr12 |C |C |C |L |C |L |
+
+3. **Sprint Backlog 2.**  
+
+SPRINT  SPRINT 2 ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.145.png)
+
+Work-Item / Task 
+
+
+
+|User Story ID |Title |id |Description |Tiemp o (horas) |Assigned to |Status (to-do/ in process/ To review/ done |
+| :- | - | - | - | :- | :- | :- |
+|US05 |<p>Invitar a un </p><p>familiar</p>|05 |**Como** administrador, **quiero** compartir acceso temporal con un familiar **para** que controle dispositivos específicos.|5 |Victor Meneses |Done |
+|US08|Cambiar idioma de la app|08 |**Como** usuario,  **Quiero** seleccionar el idioma de la interfaz (español/inglés), **Para** mayor comodidad.|2 |Brayan Gamboa |Done |
+|US11|Ver estado de dispositiv os|11 |<p>**Como** usuario,  **Quiero** ver rápidamente qué dispositivos están activos/desactivados en mi hogar </p><p>**Para** tener un resumen del estado actual.</p>|4 |Harold Elías |Done |
+
+
+
+|US13|<p>Revocar acceso a un usuario </p><p>invitado</p>|13 |<p>**Como** administrador del hogar,  </p><p>**Quiero** retirar permisos a usuarios invitados cuando ya no los necesiten </p><p>**Para** mantener la seguridad de mi hogar.</p>|2 |Rodrigo Salvador |Done |
+| - | :-: | - | :- | - | :- | - |
+|US10 |Editar avatar de perfil |10 |<p>**Como** usuario,  **Quiero** cambiar mi foto de perfil en "Mi Perfil" </p><p>**Para** personalizar mi cuenta.** </p>|2 |Rodrigo Lopez |Done |
+|US17 |Ver preguntas frecuente s (FAQs) |17 |<p>**Como** usuario,  **Quiero** acceder a una sección de preguntas frecuentes dentro de la app </p><p>**Para** resolver dudas básicas sin contactar al soporte.** </p>|2 |Victor Meneses |Done |
+
+
+
+|US20 |<p>Activació n geolocali</p><p>zada del hogar inteligent e </p>|20 |<p>**Como** usuario de GeoEntry, </p><p>**Quiero** que mi hogar detecte automáticamente cuando estoy cerca (mediante geolocalización) </p><p>**Para** que se activen los dispositivos configurados sin necesidad de acciones manuales.** </p>|5 |Harold Elías |Done |
+| - | :-: | - | :- | - | :- | - |
+
+4. **Development Evidence for Sprint Review.**  
+
+A continuación, se presentan los commits realizados en el repositorio de la landing page, Página Web y el Documento en el Github. 
+
+[https://github.com/TechProtection/geoentry-edge-api ](https://github.com/TechProtection/geoentry-edge-api)[https://github.com/TechProtection/geoentry-rest-api ](https://github.com/TechProtection/geoentry-rest-api)[https://github.com/TechProtection/geoentry-mobile ](https://github.com/TechProtection/geoentry-mobile)[https://github.com/TechProtection/TechProtect-backend ](https://github.com/TechProtection/TechProtect-backend)[https://github.com/TechProtection/geontry-frontend ](https://github.com/TechProtection/geontry-frontend)
+
+
+
+|Repository |Branch |Commit Id |Commit Message |Commit Message Body |Commited on (Date) |
+| - | - | - | - | - | :- |
+|geoentry-edge- api|master |937f4f3 |feat: fix created\_at in db |fix created\_at in db |June 18 |
+|geoentry-edge- api|master |261e328 |feat: fix db |fix db |June 19 |
+|geoentry-edge- api |master |a7a24eb |chore; config for render deployment |config for render deployment |June 19 |
+|geoentry-edge- api |master |4f6c8d7 |chore: add swagger-ui |add swagger-ui|June 19 |
+
+
+
+|geoentry-edge- api |master |bab9f39 |fix: fix backend url error |fix backend url error|June 19 |
+| :- | - | - | :- | :- | - |
+|geoentry-edge- api |master |d882cdd |fix: fix host url error |fix host url error|June 19 |
+|geoentry-edge- api |master |56301b5 |fix: fix backend url |fix backend url|June 19 |
+|geoentry-edge- api |master |6868344 |fix: fix backend url |fix backend url |June 19 |
+|geoentry-edge- api |master |6198264 |chore: delete schemas |delete schemas|June 19 |
+|geoentry-rest- api |main |b4bf5c6 |feat: fix cors errors |fix cors errors|June 16 |
+|geoentry-rest- api |main |502d3f8 |feat: update tables |update tables|June 17 |
+|geoentry-rest- api |main |430aba8 |fix: CORS errors |CORS errors|June 17 |
+|geoentry-rest- api |main |6ef1bac |fix: fix baseurl error |fix baseurl error|June 17 |
+|geoentry-rest- api |main |0db248b |fix: remove local server |remove local server|June 17 |
+|geoentry-rest- api |main |529f7d1 |chore: update cors |update cors|June 19 |
+|geoentry-rest- api |main |cdbc4da |fix: fix errors |fix errors|June 19 |
+|geoentry-rest- api |main |ccfd9fb |fix: fix errors |fix errors|June 19 |
+|geometry- mobile |main |c81bdfb |feat: change api url |change api url|June 17 |
+|geometry- mobile |main |65f66d8 |merge: pull request from TechProtectio|merge: pull request from TechProtection/|June 17 |
+
+
+
+||||n/feat/locatio n |feat/location||
+| :- | :- | :- | :- | - | :- |
+|geometry- mobile |main |559df2f |eas config |eas config|June 14 |
+|geometry- mobile |main |2dcc9d2 |api integration |api integration|June 8 |
+|geometry- mobile |main |464557c |feat: location set |location set|June 8 |
+|geometry- mobile |main |619821c |initial commit: Geometry Mobile app |Geometry Mobile app|June 8 |
+|geometry- mobile |main |746fd43 |Created a new expo app |Created a new expo app|May 27 |
+|TechProtect- backend |main |ed30f4b |Backend |Backend|June 15 |
+|geometry- frontend |main |46d6f52 |feat: update types |update types |June 16 |
+|geometry- frontend |main |7ed8bf7 |feat: updating load states |updating load states|June 17 |
+|geometry- frontend |main |c90ae91 |feat: add password viewer |add password |June 17 |
+
+5. **Testing Suite Evidence for Sprint Review.** 
+
+Para este Sprint N°2 se realizaron pruebas para el RESTful API y para el Edge Api. 
+
+6. **Execution Evidence for Sprint Review.**  
+
+En este Sprint 2, el equipo desarrolló el frontend en su segunda versión, el Mobile Application  en su primera versión, primera versión del Edge Api y primera versión del Rest Api. 
+
+**FrontEnd** 
+
+![ref3]
+
+**Mobile App** 
+
+![ref6]
+
+**Edge Api** 
+
+![ref7]
+
+**Rest Api** 
+
+![ref8]
+
+7. **Services Documentation Evidence for Sprint Review.**  
+
+En este Sprint 2, los miembros de TechProtection se enfocaron en el desarrollo de una segunda versión del FrontEnd Web Application, primera versión del Rest Api y Edge Api además de la primera versión de la Mobile Application. 
+
+8. **Software Deployment Evidence for Sprint Review** 
+
+El equipo ha desplegado de forma exitosa el Landing Page, el Frontend, el Rest Api y el Edge Api, en las cuales se evidencia en las siguientes capturas, además de adjuntar sus respectivos links en donde se puede visualizar de mejor manera el desplegado de cada uno. 
+
+Landing Page: [https://geoentry-landing.netlify.app/ ](https://geoentry-landing.netlify.app/) 
+
+![ref4]
+
+FrontEnd: [https://geoentry-site.netlify.app/ ](https://geoentry-site.netlify.app/)
+
+![ref3]
+
+**Edge Api:** 
+
+[https://geoentry-edge-api-391a.onrender.com](https://geoentry-edge-api-391a.onrender.com/)[/apidocs/ ](https://geoentry-edge-api.onrender.com/apidocs/)
+
+![ref9]
+
+**Rest-Api: [https://geoentry-rest-api-5gp7.onrender.com](https://geoentry-rest-api-5gp7.onrender.com/)[/swagger-ui ](https://geoentry-rest-api.onrender.com/swagger-ui)**
+
+![ref10]
+
+![ref11]
+
+9. **Team Collaboration Insights during Sprint.**  
+
+Aquí se muestra la colaboración del equipo y ramas dentro del proyecto:  
+
+![ref5]
+
+3. **Sprint 3** 
+1. **Sprint Planning 3.**  
+
+
+
+|Sprint # |Sprint 3 |
+| - | - |
+|Sprint Planning Background ||
+
+
+
+
+|Date |02 de Julio del 2025 |
+| - | - |
+|Time |8 horas |
+|Location |Modalidad remota por Discord |
+|Prepared By |TechProtection |
+|Attendees (to planning meeting) |Todos los miembros |
+|Sprint 3 Review Summary |Reunión de integrantes del grupo para delegar tareas, tanto del Backend, Edge Api, Web App, Mobile App  e informe, además de las mejoras y correcciones correspondientes. |
+|Sprint 3 Retrospective Summary |Mejorar comunicación, tiempo de reuniones y distribución de partes del trabajo de forma equitativa. |
+|Sprint Goal & User Stories |En este sprint se plantea realizar la primera versión de nuestro sistema como el Backend, Edge Api, Mobile App y Web App, así como completar el informe en su totalidad para la presentación final. |
+|Sprint 3 Velocity |15 |
+|Sum of Story Points |18 |
+
+2. **Aspect Leaders and Collaborators.**  
+
+
+
+|Team Member s |Github Usernam es |REST API-v2 |Frontend |Edge - API-v2 |Correcci ón de informe |Mobile Applicatio n |Inform e |
+| :- | :- | :- | - | :- | :- | :- | :- |
+|Elías Sanchez, Harold MigueL |HamesE l |C |C |L |L |L |C |
+
+
+
+|López Huamán, Rodrigo Adrián |RodrLH |L |L |C |C |C |C |
+| :-: | - | - | - | - | - | - | - |
+|Meneses Arevalo, Victor Manuel |vrokerev |C |C |C |L |C |L |
+|Gamboa Delgado, Brayan Stiven |Gamboa Bryan |L |C |C |L |C |C |
+|<p>Salvador Rodrígu</p><p>ez, Rodrigo Jesús </p>|Rodrigoj sr12 |C |C |C |L |C |L |
+
+3. **Sprint Backlog 3.**  
+
+SPRINT  SPRINT 3 ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.152.png)![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.153.png)
+
+Work-Item / Task 
+
+
+
+|User Story ID |Title |id |Description |Tiem po (hora s) |Assigned to |Status (to-do/ in process/ To review/ done |
+| :- | - | - | - | :- | :- | :- |
+|US02 |<p>Agregar dispositivo para </p><p>geolocaliz</p><p>ación</p>|02 |<p>**Como** usuario nuevo de GeoEntry, </p><p>**Quiero** agregar un dispositivo desde la sección "Dispositivos" **Para** comenzar a controlar mi hogar inteligente.</p>|4 |Rodrigo Lopez |Done |
+|US03 |Prender luces inteligente s|03 |**Como** usuario,  **Quiero** que al entrar a mi casa las luces inteligentes se prendan automáticamente **Para** tener mi casa preparada a lo que quiera hacer|4 |Rodrigo Lopez |Done |
+
+
+
+|US04 |Recibir alerta al llegar a mi ubicación|04 |**Como** usuario,  **Quiero** que la aplicación me notifique al acercarme a mi ubicación configurada **Para** tener un registro de mi actividad|6 |Harold Elias |Done |
+| - | :-: | - | :- | - | :- | - |
+|US07 |Recibir alerta al salir de la ubicación |07 |<p>**Como** usuario,  **Quiero** ser notificado si salgo de mi ubicación configurada </p><p>**Para** tener un registro de mi actividad.** </p>|8 |Brayan Gamboa |Done |
+|US09 |Desconect ar un dispositivo |09 |**Como** usuario,  **Quiero** remover dispositivos que ya no uso de mi sistema **Para** mantener mi lista organizada.** |4 |Rodrigo Salvador |Done |
+
+
+
+|US12 |Reportar problema técnico |12 |**Como** usuario,  **Quiero** enviar un mensaje en "Soporte > Contactar Soporte" **Para** resolver fallos en mis dispositivos.** |4 |Rodrigo Salvador |Done |
+| - | :-: | - | :- | - | :- | - |
+|US14 |Visualizar ubicacione s en el mapa  |14 |<p>**Como** usuario,  </p><p>**Quiero** ver mis ubicaciones configuradas en el mapa dentro de la página **Para** poder identificar fácilmente la localización de cada punto.** </p>|6 |Brayan Gamboa |Done |
+|US15 |Revisar historial de eventos |15 |**Como** usuario, **Quiero** visualizar el historial de eventos en una lista ordenada **Para** poder consultar fácilmente las acciones realizadas y su fecha |5 |Harold Elias |Done |
+
+
+
+|US16 |Visualizar analíticas de patrones de ubicación y actividad |16 |<p>**Como** usuario, </p><p>**Quiero** visualizar analíticas sobre patrones de ubicación y actividad **Para** obtener una visión clara y comprensible del comportamiento registrado en el sistema </p>|6 |Victor Meneses |Done |
+| - | :-: | - | - | - | :- | - |
+|US17 |Visualizar mis ubicacione s configurad as |17 |<p>**Como** usuario, </p><p>**Quiero** visualizar la lista de mis ubicaciones configuradas </p><p>**Para** poder consultarlas y asegurarme de que están correctamente registradas </p>|6 |Rodrigo Salvador |Done |
+|US18 |Visualizar el resumen general del sistema |18 |<p>**Como** usuario </p><p>**Quiero** visualizar un resumen consolidado de mis ubicaciones**,** dispositivos y eventos **Para** obtener una visión rápida y clara del estado actual de mi cuenta y actividades </p>|5 |Victor Meneses |Done |
+
+4. **Development Evidence for Sprint Review.**  
+
+A continuación, se presentan los commits realizados en el repositorio de la landing page, Página Web y el Documento en el Github. 
+
+[https://github.com/TechProtection/geoentry-edge-api ](https://github.com/TechProtection/geoentry-edge-api)[https://github.com/TechProtection/geoentry-rest-api ](https://github.com/TechProtection/geoentry-rest-api)[https://github.com/TechProtection/geoentry-mobile ](https://github.com/TechProtection/geoentry-mobile)[https://github.com/TechProtection/TechProtect-backend ](https://github.com/TechProtection/TechProtect-backend)[https://github.com/TechProtection/geontry-frontend ](https://github.com/TechProtection/geontry-frontend)
+
+
+
+|Repository |Branch |Commit Id |Commit Message |Commit Message Body |Commited on (Date) |
+| - | - | - | - | - | :- |
+|geoentry-edge- api|master |937f4f3 |feat: fix created\_at in db |fix created\_at in db |June 18 |
+|geoentry-edge- api|master |261e328 |feat: fix db |fix db |June 19 |
+|geoentry-edge- api |master |a7a24eb |chore; config for render deployment |config for render deployment |June 19 |
+|geoentry-edge- api |master |4f6c8d7 |chore: add swagger-ui |add swagger-ui|June 19 |
+|geoentry-edge- api |master |bab9f39 |fix: fix backend url error |fix backend url error|June 19 |
+|geoentry-edge- api |master |d882cdd |fix: fix host url error |fix host url error|June 19 |
+|geoentry-edge- api |master |56301b5 |fix: fix backend url |fix backend url|June 19 |
+|geoentry-edge- api |master |6868344 |fix: fix backend url |fix backend url |June 19 |
+|geoentry-edge- api |master |6198264 |chore: delete schemas |delete schemas|June 19 |
+
+
+
+|geoentry-rest- api |main |b4bf5c6 |feat: fix cors errors |fix cors errors|June 16 |
+| :- | - | - | :- | - | - |
+|geoentry-rest- api |main |502d3f8 |feat: update tables |update tables|June 17 |
+|geoentry-rest- api |main |430aba8 |fix: CORS errors |CORS errors|June 17 |
+|geoentry-rest- api |main |6ef1bac |fix: fix baseurl error |fix baseurl error|June 17 |
+|geoentry-rest- api |main |0db248b |fix: remove local server |remove local server|June 17 |
+|geoentry-rest- api |main |529f7d1 |chore: update cors |update cors|June 19 |
+|geoentry-rest- api |main |cdbc4da |fix: fix errors |fix errors|June 19 |
+|geoentry-rest- api |main |ccfd9fb |fix: fix errors |fix errors|June 19 |
+|geometry- mobile |main |c81bdfb |feat: change api url |change api url|June 17 |
+|geometry- mobile |main |65f66d8 |merge: pull request from TechProtectio n/feat/locatio n |merge: pull request from TechProtection/ feat/location|June 17 |
+|geometry- mobile |main |559df2f |eas config |eas config|June 14 |
+|geometry- mobile |main |2dcc9d2 |api integration |api integration|June 8 |
+|geometry- mobile |main |464557c |feat: location set |location set|June 8 |
+|geometry- mobile |main |619821c |initial commit: Geometry Mobile app |Geometry Mobile app|June 8 |
+
+
+
+|geometry- mobile |main |746fd43 |Created a new expo app |Created a new expo app|May 27 |
+| :- | - | - | :- | :- | - |
+|TechProtect- backend |main |ed30f4b |Backend |Backend|June 15 |
+|geometry- frontend |main |46d6f52 |feat: update types |update types |June 16 |
+|geometry- frontend |main |7ed8bf7 |feat: updating load states |updating load states|June 17 |
+|geometry- frontend |main |c90ae91 |feat: add password viewer |add password |June 17 |
+
+5. **Testing Suite Evidence for Sprint Review.** 
+
+Para este Sprint N°3 se realizaron pruebas para el RESTful API y para el Edge Api, además de la conexión con nuestro dispositivo IoT para comprobar el funcionamiento de las aplicaciones, de esta forma generando eficiencia en el desarrollo de nuestro proyecto.
+
+6. **Execution Evidence for Sprint Review.**  
+
+Para este Sprint N°3, el equipo desarrolló la versión final del FrontEnd, Mobile App, Rest Api, Edge Api, además de realizar conexiones con nuestro dispositivo IoT para garantizar su funcionamiento total con nuestra app.
+
+**FrontEnd** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.154.jpeg)
+
+**Mobile App** 
+
+![ref6]
+
+**Edge Api** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.155.jpeg)
+
+**Rest Api** 
+
+![ref8]
+
+7. **Services Documentation Evidence for Sprint Review.**  
+
+En este Sprint 3, los miembros de TechProtection se enfocaron en el desarrollo de la versión final del FrontEnd Web Application, Rest Api, Edge Api y Mobile Application.
+
+8. **Software Deployment Evidence for Sprint Review** 
+
+El equipo ha desplegado de forma exitosa el Landing Page, el Frontend, el Rest Api y el Edge Api, en las cuales se evidencia en las siguientes capturas, además de adjuntar sus respectivos links en donde se puede visualizar de mejor manera el desplegado de cada uno. 
+
+
+Landing Page: [https://geoentry-landing.netlify.app/ ](https://geoentry-landing.netlify.app/) 
+
+![ref4]
+
+FrontEnd: [https://geoentry-site.netlify.app/ ](https://geoentry-site.netlify.app/)
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.156.jpeg)
+
+**Edge Api:** 
+
+[https://geoentry-edge-api.onrender.com/apidocs** ](https://geoentry-edge-api.onrender.com/apidocs)
+
+![ref12]
+
+**Rest-Api: [https://geoentry-rest-api.onrender.com/swagger-ui**  ](https://geoentry-rest-api.onrender.com/swagger-ui)**
+
+![ref13]
+
+![ref11]
+
+**Diseño en Wokwi: [https://wokwi.com/projects/435342416625664001** ](https://wokwi.com/projects/435342416625664001)**
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.159.png)
+
+
+**Mobile App:** 
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.160.png)
+
+9. **Team Collaboration Insights during Sprint.**  
+
+Aquí se muestra la colaboración del equipo y ramas dentro del proyecto:  
+
+![ref5]
+
+3. **Validation Interviews** 
+1. **Diseño de Entrevistas** 
+
+**Segmento objetivo: Usuarios residenciales (hogares inteligentes) Preguntas generales:** 
 
 1. ¿Cuál es tu nombre? 
 1. ¿Cuántos años tienes? 
-3. ¿Dónde resides actualmente (distrito y ciudad)? 
-3. ¿Vives en casa, departamento u otro tipo de vivienda? 
+1. ¿Dónde resides actualmente (distrito y ciudad)? 
+1. ¿Vives en casa, departamento u otro tipo de vivienda? 
 
 **Preguntas de validación:** 
 
 1. ¿Te resultó fácil entender cómo funciona GeoEntry desde el primer uso? 
-1. ¿Pudiste configurar sin problemas la automatización de funciones como luces, cerradura 
-   1. climatización? 
+1. ¿Pudiste configurar sin problemas la automatización de funciones como luces, cerradura o climatización? 
 1. ¿La activación automática al llegar a casa funcionó como esperabas? 
 1. ¿Te pareció útil poder personalizar las rutinas de bienvenida según tus preferencias? 
 1. ¿Sientes que la app te ahorra tiempo o esfuerzo en tu día a día? 
 1. ¿Qué tan clara fue la navegación dentro de la aplicación? 
 1. ¿Tuviste algún problema con la conexión entre la app y tus dispositivos inteligentes? 
 1. ¿Consideras que el uso de la app ha mejorado tu experiencia al llegar a casa? 
-1. ¿Confías en el sistema desde el punto de vista de la seguridad digital y física? 
-1. ¿Qué funcionalidades te gustaría agregar para mejorar tu experiencia con GeoEntry? 
-1. ¿Te parece útil que la app esté disponible en tu celular? ¿La usas con frecuencia? 
+9. ¿Confías en el sistema desde el punto de vista de la seguridad digital y física? 
+9. ¿Qué funcionalidades te gustaría agregar para mejorar tu experiencia con GeoEntry? 
+9. ¿Te parece útil que la app esté disponible en tu celular? ¿La usas con frecuencia? 
 
-**Segmento objetivo: Negocios que buscan experiencias de bienvenida automatizadas** 
-
-**Preguntas generales:** 
+**Segmento objetivo: Negocios que buscan experiencias de bienvenida automatizadas Preguntas generales:** 
 
 1. ¿Cuál es tu nombre? 
 1. ¿Cuántos años tienes? 
 1. ¿Dónde resides actualmente (distrito y ciudad)? 
 1. ¿Cómo se llama tu local/oficina/empresa? 
 
-Preguntas de validación:
+Preguntas de validación: 
 
 1. ¿Fue sencillo configurar la bienvenida automatizada en tu local/oficina usando GeoEntry? 
 1. ¿Qué funciones serían las que más quisieras automatizar (luces, clima, cortinas, fragancias, etc.) y cómo fue la experiencia? 
@@ -3159,17 +3715,18 @@ Preguntas de validación:
 1. ¿Consideras que el sistema es seguro y confiable para un entorno comercial? 
 1. ¿Qué comentarios has recibido de tus clientes o equipo sobre la experiencia de entrada automatizada? 
 1. ¿Qué funciones adicionales te gustaría que tenga GeoEntry para tu tipo de negocio? 
+2. **Registro de Entrevistas** 
 
-**Segmento 1: Usuarios residenciales (hogares inteligentes)** **Entrevista 1**
+**Segmento 1: Usuarios residenciales (hogares inteligentes) Entrevista 1** 
 
 - Entrevistado: Alejandro Barturen 
 - Edad: 21 
 - Residencia: San Miguel 
 - Enlace del video:[ https://upcedupe-my.sharepoint.com/ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/ETQyG1cwfBdLjwXhC0JuRhMBMoGw1duNmEkrHdKDHl1gAQ?e=uOphUg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.011.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.161.png)
 
-Alejandro comentó que la aplicación le pareció intuitiva y sencilla de usar desde el primer momento. Destacó la utilidad de las funciones automatizadas al llegar a casa, sobre todo por la comodidad que representa en su rutina diaria. No reportó dificultades significativas en la configuración inicial, aunque mencionó que le gustaría contar con más opciones de personalización. En general, considera que GeoEntry mejora su experiencia al ingresar a su hogar y le brinda una sensación de eficiencia y control.
+Alejandro comentó que la aplicación le pareció intuitiva y sencilla de usar desde el primer momento. ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.162.png)Destacó la utilidad de las funciones automatizadas al llegar a casa, sobre todo por la comodidad que representa en su rutina diaria. No reportó dificultades significativas en la configuración inicial, aunque mencionó que le gustaría contar con más opciones de personalización. En general, considera que GeoEntry mejora su experiencia al ingresar a su hogar y le brinda una sensación de eficiencia y control. 
 
 **Entrevista 2** 
 
@@ -3178,11 +3735,11 @@ Alejandro comentó que la aplicación le pareció intuitiva y sencilla de usar d
 - Residencia: Lince 
 - Enlace del video:[ https://upcedupe-my.sharepoint.com/ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EZISiSe_CJNBkoDW1XE-xTYBi03wqn5ZFkYu7B-nYkxinQ?e=5zXKuv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.012.png)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.163.png)
 
 Harold indicó que la navegación de GeoEntry fue clara y la integración con los dispositivos inteligentes de su hogar se realizó sin mayores inconvenientes. Valoró especialmente la activación automática al llegar, ya que le permite ahorrar tiempo y evita acciones manuales repetitivas. También destacó que la app mejora la percepción de seguridad y le resulta conveniente tener acceso desde su smartphone. Sugirió incorporar funciones adicionales para monitorear el estado del hogar en tiempo real.
 
-**Segmento 2: Negocios que buscan experiencias de bienvenida automatizadas** **Entrevista 1** 
+**Segmento 2: Negocios que buscan experiencias de bienvenida automatizadas Entrevista 1** 
 
 - Entrevistado: Jenny Vasquez 
 - Edad: 24 
@@ -3190,9 +3747,11 @@ Harold indicó que la navegación de GeoEntry fue clara y la integración con lo
 - Nombre del negocio: Maria's Salon 
 - Enlace del video:[ https://upcedupe-my.sharepoint.com/ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EVfdG5TgwCpHjvDu2e7c4DkBH5w0YrjjzzmbGq_wD81UjA?e=m5BXds&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.013.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.164.png)
 
-Jenny consideró que la configuración de GeoEntry fue bastante sencilla para su negocio. Logró automatizar luces y música ambiental, lo que generó una atmósfera más acogedora para sus clientas. Señaló que esta funcionalidad contribuye positivamente a la imagen del local. Si bien no reportó problemas técnicos, expresó interés en poder integrar más dispositivos a futuro, como aromatizadores o pantallas de bienvenida. Afirmó que la herramienta aporta valor y profesionalismo a su negocio.
+Jenny consideró que la configuración de GeoEntry fue bastante sencilla para su negocio. Logró automatizar luces y música ambiental, lo que generó una atmósfera más acogedora para sus clientas. Señaló que esta funcionalidad contribuye positivamente a la imagen del local. Si bien no reportó problemas técnicos, expresó interés en poder integrar más dispositivos a futuro, como aromatizadores 
+
+- pantallas de bienvenida. Afirmó que la herramienta aporta valor y profesionalismo a su negocio. 
 
 **Entrevista 2** 
 
@@ -3202,13 +3761,11 @@ Jenny consideró que la configuración de GeoEntry fue bastante sencilla para su
 - Nombre del negocio: Hotel Alborada 
 - Enlace del video:[ https://upcedupe-my.sharepoint.com/ ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212191_upc_edu_pe/EewdXOEbAiNDoYdjHPD6KygBWFxKTkpDdhKDI_dzne7YIA?e=V1pXbE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.014.jpeg)
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.165.png)Viviana encontró que GeoEntry le facilitó la gestión del ambiente en su hotel. Comentó que la automatización del encendido de luces y el ajuste del clima mejora la experiencia del cliente desde su ingreso. La geolocalización funcionó adecuadamente para detectar al personal autorizado, lo cual ayudó a optimizar procesos. Aunque la experiencia fue positiva, recomendó que se añadan funciones de control remoto más detalladas y reportes de uso. En general, ve la solución como una aliada para ofrecer un servicio más moderno y eficiente.
 
-Viviana encontró que GeoEntry le facilitó la gestión del ambiente en su hotel. Comentó que la automatización del encendido de luces y el ajuste del clima mejora la experiencia del cliente desde su ingreso. La geolocalización funcionó adecuadamente para detectar al personal autorizado, lo cual ayudó a optimizar procesos. Aunque la experiencia fue positiva, recomendó que se añadan funciones de control remoto más detalladas y reportes de uso. En general, ve la solución como una aliada para ofrecer un servicio más moderno y eficiente.
+3. **Evaluaciones según heurísticas**
 
-**6.3.3. Evaluaciones según heurísticas**
-
-Con base en las opiniones recopiladas durante las entrevistas realizadas a usuarios residenciales y representantes de negocios que implementan automatización de bienvenida, se puede concluir lo siguiente:
+Con base en las opiniones recopiladas durante las entrevistas realizadas a usuarios residenciales y representantes de negocios que implementan automatización de bienvenida, se puede concluir lo siguiente: 
 
 - La aplicación GeoEntry fue percibida como **intuitiva y fácil de usar**, incluso desde el primer contacto. 
 - **La navegación dentro de la app es clara y fluida**, permitiendo al usuario configurar funciones sin dificultad. 
@@ -3216,25 +3773,19 @@ Con base en las opiniones recopiladas durante las entrevistas realizadas a usuar
 - GeoEntry aporta **valor práctico y emocional**: para los hogares, mejora la experiencia de llegada con comodidad y seguridad; para los negocios, refuerza la imagen profesional y la eficiencia operativa. 
 - La información que se presenta en pantalla se considera **comprensible, completa y útil** para la toma de decisiones respecto al ambiente del espacio automatizado. 
 - Los participantes expresaron una actitud positiva hacia el uso frecuente de la aplicación y **estarían dispuestos a adoptarla como parte de su rutina diaria o como herramienta de mejora para su negocio**. 
+4. **Video About-the-Product**
 
-Para este entregable es necesario la presentación del video About The Product .
+Para este entregable es necesario la presentación del video About The Product 
 
-![](assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.015.jpeg)
+.![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.166.jpeg)
 
-Link del Video:[ https://youtu.be/7qB-bXc-_CU](https://youtu.be/7qB-bXc-_CU)
-
-[ref1]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.002.jpeg
-[ref2]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.003.jpeg
-[ref3]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.004.jpeg
-[ref4]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.006.png
-[ref5]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.007.png
-[ref6]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.008.png
-[ref7]: assets/Aspose.Words.8124b6f2-56ac-42ac-bc64-9f3f8e3af8d1.009.png
-
+Link del Video:[ https://youtu.be/7qB-bXc-_CU ](https://youtu.be/7qB-bXc-_CU)
 
 **Conclusiones** 
 
-El desarrollo de la solución GeoEntry, impulsado por la startup TechProtection, permitió validar de forma efectiva las hipótesis y suposiciones planteadas en el proceso Lean UX. Se identificó que los usuarios, tanto residenciales como comerciales, enfrentan una fuerte fragmentación tecnológica y desean soluciones automatizadas que funcionen de manera fluida, sin requerir múltiples aplicaciones o intervención manual constante. 
+El desarrollo de la solución GeoEntry, impulsado por la startup TechProtection, permitió validar de forma efectiva las hipótesis y suposiciones planteadas en el proceso Lean UX. Se identificó que los usuarios, tanto residenciales como comerciales, enfrentan una fuerte fragmentación tecnológica y desean soluciones automatizadas que funcionen de manera fluida, sin requerir múltiples aplicaciones 
+
+- intervención manual constante. 
 
 Las entrevistas y herramientas de análisis (Empathy Mapping, User Personas, Journey Mapping, entre otras) confirmaron que los usuarios valoran principalmente la comodidad, eficiencia energética y seguridad. En ese sentido, GeoEntry resolvió los Problem Statements al ofrecer una experiencia de llegada automatizada al hogar o negocio mediante geolocalización, eliminando fricciones comunes como buscar llaves, encender luces o ajustar temperatura. 
 
@@ -3255,6 +3806,10 @@ En base a los resultados obtenidos, el equipo recomienda:
 
 GeoEntry se consolida como una propuesta de alto valor en un mercado en expansión, con potencial para convertirse en referente regional de automatización del hogar y experiencias personalizadas de bienvenida. La validación del modelo de negocio, su enfoque centrado en el usuario y la sólida planificación técnica posicionan al proyecto en una ruta prometedora de crecimiento. 
 
+**Video About-The-Team [Link del video About the team ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212338_upc_edu_pe/Efbst8hi6N1OmVL9lt5Hg6EBbdCsrO6IENy9Hcjj_J2meg?e=EdfGoi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+
+![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.167.jpeg)
+
 **Bibliografía** 
 
 - Bruton, L. (2022, 13 de junio). What is lean UX and why does it matter? A complete guide. UX Design Institute. Recuperado de [https://www.uxdesigninstitute.com/blog/what-is-lean-ux/ ](https://www.uxdesigninstitute.com/blog/what-is-lean-ux/) 
@@ -3263,31 +3818,33 @@ GeoEntry se consolida como una propuesta de alto valor en un mercado en expansi�
 - Ramírez, L. (2023, 26 de enero). Lean UX: ¿Qué es, principios, y cómo implementarlo? IEBS Business School. Recuperado de [https://www.iebschool.com/hub/lean-ux-que-es-principios-como-implementarlo- analitica-usabilidad/ ](https://www.iebschool.com/hub/lean-ux-que-es-principios-como-implementarlo-analitica-usabilidad/) 
 - Statista. (2023). Global smart home market revenue 2016–2022. Recuperado de [https://www.statista.com/statistics/682204/global-smart-home-market-size/ ](https://www.statista.com/statistics/682204/global-smart-home-market-size/)
 
-# Anexos
+**Anexos** 
 
-## LEAN UX CANVAS
-[https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a7031886527872ab596b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633](https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a7031886527872ab596b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633)
+- LEAN UX CANVAS [https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a703188652787 2ab596b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633 ](https://app.mural.co/t/gantrace0893/m/gantrace0893/1744917543273/a7031886527872ab596b7677e3d49ed62b06bcd9?sender=u10ba1755a935234d144c5633) 
+- EVENT STORMING: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377 &cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14)    
+- CANDIDATE CONTEXT DISCOVERY: 
 
-## EVENT STORMING
-[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625669732377&cot=14)
+  [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020 &cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=14)  
 
-## CANDIDATE CONTEXT DISCOVERY
-[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=14](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625561166020&cot=14)
+- DOMAIN MESSAGE FLOW MODELING: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134 &cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=14)   
+- BOUNDED CONTEXT CANVASES: [https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924 &cot=14 ](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=14)  
+- LANDING PAGE GEOENTRY: [https://geoentry-landing.netlify.app/ ](https://geoentry-landing.netlify.app/)
+- FRONTEND WEB APPLICATION GEOENTRY: [https://geoentry-site.netlify.app/ ](https://geoentry-site.netlify.app/)
+- REST - API: [https://geoentry-rest-api.onrender.com/swagger-ui  ](https://geoentry-rest-api.onrender.com/swagger-ui)
+- EDGE-API: [https://geoentry-edge-api.onrender.com/apidocs ](https://geoentry-edge-api.onrender.com/apidocs)
+- LINK DEL WOKWI: [https://wokwi.com/projects/435342416625664001 ](https://wokwi.com/projects/435342416625664001)
+- GEOENTRY MOBILE: [https://www.mediafire.com/file/nkfwtd9ufjvrf0u/geoentry.apk/file ](https://www.mediafire.com/file/nkfwtd9ufjvrf0u/geoentry.apk/file) 
 
-## DOMAIN MESSAGE FLOW MODELING
-[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=14](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625658175134&cot=14)
-
-## BOUNDED CONTEXT CANVASES
-[https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=14](https://miro.com/app/board/uXjVI_zGjpY=/?moveToWidget=3458764625663746924&cot=14)
-
-## LANDING PAGE GEOENTRY
-[https://geoentry-landing.netlify.app/](https://geoentry-landing.netlify.app/)
-
-## FRONTEND WEB APPLICATION GEOENTRY
-[https://geoentry-site.netlify.app/](https://geoentry-site.netlify.app/)
-
-## REST API
-[https://geoentry-rest-api.onrender.com/swagger-ui](https://geoentry-rest-api.onrender.com/swagger-ui)
-
-## EDGE API
-[https://geoentry-edge-api.onrender.com/apidocs/](https://geoentry-edge-api.onrender.com/apidocs/)
+[ref1]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.004.png
+[ref2]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.011.png
+[ref3]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.142.jpeg
+[ref4]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.143.jpeg
+[ref5]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.144.jpeg
+[ref6]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.146.jpeg
+[ref7]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.147.png
+[ref8]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.148.jpeg
+[ref9]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.149.png
+[ref10]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.150.png
+[ref11]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.151.png
+[ref12]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.157.png
+[ref13]: /assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.158.png
