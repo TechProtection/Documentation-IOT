@@ -1591,6 +1591,7 @@ Explicamos cómo elaboramos los context maps analizando la información recolect
 ![](/assets/Aspose.Words.a451aeac-b79f-4c8f-b449-125178b09359.037.jpeg)
 
 4. **Software Architecture Deployment Diagrams** 
+![](/assets/structurizr-101484-DeploymentDiagram.png)
 2. **Tactical-Level Domain-Driven Design** 
 1. **Bounded Context: Device** 
 1. **Domain Layer.** 
